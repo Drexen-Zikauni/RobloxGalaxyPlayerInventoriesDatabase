@@ -1,0 +1,1 @@
+{"ships": ["Retro_Cyclops", "Atheon"], "dead ships": ["Banshee", "Gideon", "Phantom", "Archeon", "Dropship", "Apocalypse", "Retro_Gideon"]}

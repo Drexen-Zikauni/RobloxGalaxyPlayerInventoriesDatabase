@@ -1,0 +1,1 @@
+{"ships": ["Nightmare"], "dead ships": ["Viper", "Behemoth", "Leviathan", "Zero", "Banshee", "Bastion", "Prospector", "Macross", "Mjolnheimr", "Tempest", "Jackal"]}

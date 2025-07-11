@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Abyss", "Rorqual", "Crucible", "Worm", "Mjolnheimr", "Aegis", "Aeaphiel", "Zero", "Genesis", "Scimitar", "Meteor", "Dropship", "Armageddon", "Katana", "Cyclops", "Banshee", "Judgement", "Leviathan", "Hawklight", "Astraeus", "Vansnova", "Ishkur", "MLRS", "Hecate"]}

@@ -1,0 +1,1 @@
+{"ships": ["Zhen", "Atheon", "Antares"], "dead ships": ["Legionnaire", "Scimitar", "Sabre_Tooth", "Corvid", "Meteor", "Andromeda", "Banshee", "Panther", "Dropship"]}

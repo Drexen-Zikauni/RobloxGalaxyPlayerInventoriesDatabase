@@ -1,0 +1,1 @@
+{"ships": ["Astraeus", "Zillavik"], "dead ships": ["Aegis", "Razor_Wing", "Banshee", "Jackal", "Macross", "Delta_Ship", "Subjugator", "Witch", "Blackgate", "Lusso", "Belvat", "Corvid"]}

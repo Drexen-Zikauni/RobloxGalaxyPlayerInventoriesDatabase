@@ -1,0 +1,1 @@
+{"ships": ["Retro_Grievion", "Theia", "Apocalypse", "Nautilus", "Permafrost", "Hevnetier", "Incarnate"], "dead ships": ["Zero", "Avenger", "Bastion", "Tengu", "Gideon", "Dire_Wolf", "Jackal", "Zeus"]}

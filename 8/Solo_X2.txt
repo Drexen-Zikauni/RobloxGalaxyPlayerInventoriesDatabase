@@ -1,0 +1,1 @@
+{"ships": ["Warden", "Apocalypse", "Tempest", "Tengu"], "dead ships": ["Witch", "Black_Flare", "Atheon", "Banshee", "Loyalist", "Hasatan", "Cutlass", "Archeon", "Hawklight", "Python", "Draco", "Radiance", "Incarnate", "Cyclops", "Constantine", "Gideon", "Stormbringer"]}

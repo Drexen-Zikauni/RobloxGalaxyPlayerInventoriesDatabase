@@ -1,0 +1,1 @@
+{"ships": ["Sakala", "Firehawk", "Zeus"], "dead ships": ["Lusso", "MLRS", "Armageddon", "Aegis", "Grievion", "Tengu", "Andromeda", "Katana", "Warden", "Razor_Wing"]}

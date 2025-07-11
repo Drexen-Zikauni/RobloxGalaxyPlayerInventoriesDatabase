@@ -1,0 +1,1 @@
+{"ships": ["Elanis"], "dead ships": ["Razor_Wing", "Rorqual", "Belvat", "Sagittarius", "Black_Flare", "Tennhausen", "Nemesis", "Katana", "Genesis", "Zeus", "Warlord", "Hawklight", "Behemoth", "Cyclops", "Catalyst", "Naglfar", "Hevnetier", "Tempest", "Armageddon", "Apocalypse"]}

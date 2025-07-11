@@ -1,0 +1,1 @@
+{"ships": ["Retro_Nemesis", "Retro_Sixfold"], "dead ships": ["Draco", "Centurion", "Archeon", "Lusso"]}

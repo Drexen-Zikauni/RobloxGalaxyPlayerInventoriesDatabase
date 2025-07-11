@@ -1,0 +1,1 @@
+{"ships": ["Blitz"], "dead ships": ["MLRS", "Archangel", "Leviathan", "Borealis", "Meteor", "Gunslinger", "Crucible", "Sabre_Tooth", "Zhanado", "Black_Flare", "Raven", "Revelation"]}

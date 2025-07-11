@@ -1,0 +1,1 @@
+{"ships": ["Brawler", "Leviathan", "Venerator"], "dead ships": ["Prometheus", "Ampharos", "MLRS", "Nidhogg", "Reaver", "Macross", "Arrow", "Centurion", "Scimitar", "Revenge"]}

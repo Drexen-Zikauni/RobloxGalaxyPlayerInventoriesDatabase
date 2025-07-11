@@ -1,0 +1,1 @@
+{"ships": ["Hasatan"], "dead ships": ["Bastion", "Marauder", "Worm", "Draco", "Lich", "Argosy", "Sentinel", "Vigilance", "Cutlass", "Inquisitor", "Defiance", "Tempura", "Spectre", "Banshee", "Armageddon", "Orca", "Gideon", "Apocalypse", "Leviathan", "Aegis", "Starblade", "Loyalist", "Sagittarius", "Ridgebreaker", "Judgement", "Hercules"]}

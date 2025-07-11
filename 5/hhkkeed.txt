@@ -1,0 +1,1 @@
+{"ships": ["Tempest", "Hailstorm"], "dead ships": ["Absolution", "Venerator", "Marauder", "Osiris", "Avalon", "Deity", "Atheon", "Permafrost", "Plagued_Warship", "Macross", "Loyalist"]}

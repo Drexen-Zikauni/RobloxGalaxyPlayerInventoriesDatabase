@@ -1,0 +1,1 @@
+{"ships": ["Harbinger", "3D_Printed_Warlock", "Gideon"], "dead ships": ["Ridgebreaker", "Icarus", "Astraeus", "Behemoth", "Prometheus", "Orca", "Kapisi", "Theia", "Rorqual", "Subjugator", "Warlord", "Viper", "3D_Printed_Apocalypse", "Xenon"]}

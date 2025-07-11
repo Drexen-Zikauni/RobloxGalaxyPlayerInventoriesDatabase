@@ -1,0 +1,1 @@
+{"ships": ["Atheon"], "dead ships": ["Draco", "Corvid", "Zhen", "Osprey", "Stealth_Recon", "Abyss", "Centurion", "Stealth_One", "Nightmare", "Aura", "3D_Printed_Apocalypse", "Theia", "Razor_Wing", "Chimera", "Templar", "Spider", "Ibis", "Aegis", "Gryphon"]}

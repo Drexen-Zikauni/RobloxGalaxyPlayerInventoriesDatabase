@@ -1,0 +1,1 @@
+{"ships": ["Deity", "Xenon", "Warlock", "Osiris", "Odyssey", "Hailstorm", "Lusso", "Astraeus", "Tempest", "Retro_Cyclops", "Retro_Sixfold", "Retro_Prototype_X-1", "Viking", "Theseus", "Retro_Vanguard"], "dead ships": ["Banshee", "Hawklight", "Aegis", "Leviathan", "Hasatan", "Stealth_B-2", "Phantom"]}

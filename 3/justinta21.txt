@@ -1,0 +1,1 @@
+{"ships": ["Retro_Gideon"], "dead ships": ["Judgement", "Jackal", "Viper", "Gunslinger", "Vansnova", "Theseus-K", "Grievion", "Retro_Grievion", "Santaliz", "Retro_Naglfar", "Naglfar", "MLRS", "Razor_Wing", "Katana", "Retro_Prototype_X-1", "Bastion", "Sentaliz", "Obliterator"]}

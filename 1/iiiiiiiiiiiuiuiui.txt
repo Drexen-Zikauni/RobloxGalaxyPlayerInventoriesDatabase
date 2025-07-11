@@ -1,0 +1,1 @@
+{"ships": ["Deity"], "dead ships": ["Judgement", "Sagittarius", "Raven", "Banshee", "Nisos", "Katana", "Viper", "Osprey", "Gunslinger", "Absolution", "Leviathan", "Scimitar"]}

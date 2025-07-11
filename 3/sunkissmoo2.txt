@@ -1,0 +1,1 @@
+{"ships": ["Tempest", "Sagittarius", "Zhen", "Paragon", "Aeaphiel", "A_-_Bruiser", "Ampharos"], "dead ships": ["Constellation", "Hasatan", "Catalyst", "Jackal", "Retro_Bastion", "Marauder", "Hawklight", "Draco", "Crucible", "Behemoth", "Katana", "Mjolnheimr", "Apocalypse", "Retro_Grievion", "Lazarus", "Helios", "Andromeda", "Loyalist", "Armageddon"]}

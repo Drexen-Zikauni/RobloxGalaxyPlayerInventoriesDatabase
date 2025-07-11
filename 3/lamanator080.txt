@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Razor_Wing", "Katana", "Tempest", "Cutlass", "Black_Flare", "Ridgebreaker", "Orca", "Stealth_Recon", "Bastion", "Sagittarius", "Apocalypse", "E_Class", "Abyss", "Andromeda", "Tengu", "Leviathan", "Judgement", "Macross", "Icarus", "Zeus", "The_Patriot"]}

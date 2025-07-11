@@ -1,0 +1,1 @@
+{"ships": ["Loyalist", "Gideon"], "dead ships": ["Cobra", "Spider", "Draco", "Apogee", "Warlord", "Scimitar", "Dropship", "Hawklight", "Osprey", "Starblade", "Chimera"]}

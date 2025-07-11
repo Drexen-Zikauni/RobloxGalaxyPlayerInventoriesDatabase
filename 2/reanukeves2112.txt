@@ -1,0 +1,1 @@
+{"ships": ["Bastion"], "dead ships": ["Marauder", "Corvid", "Banshee", "Chimera", "Ampharos", "Draco", "Gideon", "Hawklight", "Cutlass", "Apocalypse", "Behemoth", "Razor_Wing", "Osprey", "Mjolnheimr", "Oppressor", "Viper", "Tennhausen", "Inquisitor", "Galaxy", "Avalon", "Leviathan", "Sovereign", "Zero", "Starblade", "Theia", "Constantine"]}

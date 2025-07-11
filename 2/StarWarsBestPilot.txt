@@ -1,0 +1,1 @@
+{"ships": ["Nyx", "Judgement", "A_-_Bruiser", "Hawklight", "Zeus"], "dead ships": ["Sovereign", "Corvid", "Jackal", "Prometheus", "Onslaught", "Obliterator", "Zero", "Leviathan"]}

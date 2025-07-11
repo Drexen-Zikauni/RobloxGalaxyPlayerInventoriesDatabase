@@ -1,0 +1,1 @@
+{"ships": ["Subjugator", "Catalyst", "Kapisi", "Ampharos"], "dead ships": ["Bastion", "Apocalypse", "Lich", "Archangel", "Sentaliz", "Sagittarius", "Ridgebreaker", "Reaver", "Razor_Wing", "Judgement", "Gunslinger", "Cyclops", "3D_Printed_Warlock", "Nisos", "Templar", "Cobra", "Nightmare", "Armageddon", "Mjolnheimr", "Black_Flare", "Theia"]}

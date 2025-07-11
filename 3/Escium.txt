@@ -1,0 +1,1 @@
+{"ships": ["Tennhausen", "A_-_Brawler", "A_-_Bruiser", "Atheon", "Chimera-N"], "dead ships": ["Tengu", "Banshee", "Theia", "Panther", "Phantom", "Ishkur", "Lusso", "Dropship", "Centurion", "3D_Printed_Warlock", "Osprey", "Saturn", "Conqueror", "Annihilator", "Galaxy", "Cutlass", "Witch", "Paragon", "Retro_Sovereign", "Theseus-X", "Retro_Advanced_Miner"]}

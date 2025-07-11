@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse", "Executioner"], "dead ships": ["Marauder", "Genesis", "Armageddon", "Sagittarius", "Orca", "Warlord", "Zeus", "Cutlass", "Katana", "Cyclops", "Slipstream", "Black_Flare", "Jackal"]}

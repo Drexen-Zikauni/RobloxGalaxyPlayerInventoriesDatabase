@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse", "Ampharos"], "dead ships": ["Valiant", "Avenger", "Worm", "Abyss", "Bastion", "Gunslinger", "Apostle", "Witch", "Crucible", "Leviathan", "Sentaliz", "Osprey", "Corvid", "Viper", "Oppressor", "Draco", "Cutlass", "Sovereign", "Loyalist", "Chimera", "Starblade", "Centurion", "Obliterator"]}

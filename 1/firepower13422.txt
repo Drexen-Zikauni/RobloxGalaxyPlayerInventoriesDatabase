@@ -1,0 +1,1 @@
+{"ships": ["Paragon", "Lazarus", "Oblivion"], "dead ships": ["Ridgebreaker", "Sagittarius", "Viper", "Starblade", "Xenon", "Stealth_Recon", "Witch", "Judgement", "Banshee", "Leviathan"]}

@@ -1,0 +1,1 @@
+{"ships": ["Interceptor_F", "Nimitz", "Instigator", "Retribution", "Subjugator", "Hyperion", "Genesis"], "dead ships": ["Banshee", "Radiance", "Centurion", "Absolution", "Prometheus", "Macross", "Viper", "Xenon", "Helios", "Starfall", "Aeaphiel", "Gideon", "Phantom", "Razor_Wing"]}

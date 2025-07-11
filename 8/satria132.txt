@@ -1,0 +1,1 @@
+{"ships": ["Santaliz", "Macross"], "dead ships": ["Leviathan", "Galaxy", "Sovereign", "Catalyst", "Crucible", "Andromeda", "Viper", "Hercules", "Black_Flare", "Sixfold", "Sentinel", "Hawklight", "Draco", "Aura", "Gryphon", "Gideon", "Centurion", "Bastion", "Worm", "Hasatan", "Avalon", "Banshee", "Sentaliz", "Apocalypse", "Zero", "Zhanado", "Corvid", "Ishkur", "Spider", "Xenon"]}

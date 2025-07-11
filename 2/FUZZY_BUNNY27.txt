@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse", "Azrael", "Mjolnheimr", "Theia", "Prototype_X-1", "Astraeus", "Retro_Nyx", "Retro_Sixfold"], "dead ships": ["Sixfold", "Lazarus", "Viper", "Ridgebreaker", "Tempest", "Banshee", "Galaxy", "Razor_Wing", "Judgement", "Retro_Hawklight", "Retro_Bastion", "Witch"]}

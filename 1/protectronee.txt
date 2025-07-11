@@ -1,0 +1,1 @@
+{"ships": ["Leviathan", "Sagittarius", "Catalyst", "Retro_Grievion", "Apocalypse", "Cutlass"], "dead ships": ["Loyalist", "Behemoth", "Avalon", "Hawklight", "Gunslinger", "Phantom", "Galaxy", "Theia", "Banshee", "Abyss", "Archeon", "Retro_Prototype_X-1", "Obliterator"]}

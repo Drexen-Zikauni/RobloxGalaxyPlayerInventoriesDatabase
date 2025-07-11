@@ -1,0 +1,1 @@
+{"ships": ["Armageddon", "Subjugator", "Retro_Centurion", "Obliterator", "Retro_Gideon", "Cyclops", "Hyperion", "Corvid"], "dead ships": ["Crucible", "Draco", "Centurion", "Sixfold", "Orca", "Gryphon", "Icarus", "Aura", "Black_Flare", "Osprey", "Apocalypse", "Jackal"]}

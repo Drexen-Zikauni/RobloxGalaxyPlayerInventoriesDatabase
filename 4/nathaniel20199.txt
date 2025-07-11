@@ -1,0 +1,1 @@
+{"ships": ["Icarus", "Armageddon", "Valkyrie"], "dead ships": ["Macross", "Leviathan", "Avalon", "Behemoth", "Sovereign", "Corvid", "Sabre_Tooth", "Black_Flare", "Jackal", "Astraeus", "Razor_Wing", "E_Class"]}

@@ -1,0 +1,1 @@
+{"ships": ["Bastion", "Cutlass", "Astraeus", "Andromeda", "Paragon", "Ampharos"], "dead ships": ["Crucible", "Zero", "Banshee", "Zhanado", "Rorqual", "Loyalist", "Armageddon", "Avalon", "Zeus", "Apocalypse", "Catalyst", "Leviathan", "Arrow", "Draco", "Ibis", "Hercules", "Cyclops", "Nidhogg", "Genesis", "Jackal", "Vigilance", "Gunslinger", "Obliterator", "Xenon"]}

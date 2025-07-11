@@ -1,0 +1,1 @@
+{"ships": ["Theseus-U", "Paragon"], "dead ships": ["Tempest", "Ishkur", "Archeon", "Ridgebreaker", "Prepravca", "Contributor_Ship_\u2764\ufe0f", "Borealis", "Worm", "Nautilus", "MLRS", "Stealth_Recon", "Black_Flare"]}

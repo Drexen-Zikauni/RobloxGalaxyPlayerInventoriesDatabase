@@ -1,0 +1,1 @@
+{"ships": ["Behemoth", "Grievion"], "dead ships": ["Legionnaire", "Apocalypse", "Leviathan", "Hecate", "Aegis", "Starfall", "Viper", "Icarus", "Ampharos", "Naglfar", "Andromeda", "Nightmare", "Tengu", "Judgement", "Nisos", "Razor_Wing", "Archeon", "Gryphon", "Ridgebreaker", "Venerator", "Theia"]}

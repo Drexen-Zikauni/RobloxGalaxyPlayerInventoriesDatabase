@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Argonaut", "Grievion", "Andromeda", "Dropship", "Sixfold", "Radiance", "Gunslinger", "Banshee", "Archeon", "Catalyst", "Zero", "Ibis", "Armageddon", "Phantom", "Absolution", "Mammoth", "Reaver", "Retro_Bastion", "Tennhausen", "Nova", "Aura", "Apocalypse", "Theia", "Deity", "Macross", "Naglfar", "Witch", "Galaxy", "Orca", "Hyperion"]}

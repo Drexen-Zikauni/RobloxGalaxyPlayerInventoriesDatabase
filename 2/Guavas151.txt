@@ -1,0 +1,1 @@
+{"ships": ["Bastion", "Black_Flare", "Apocalypse", "Borealis", "Tempest", "Ampharos", "Warden", "A_-_Bruiser", "Annihilator"], "dead ships": ["Draco", "Corvid", "Andromeda", "Vansnova", "Tempura", "Gideon", "Viper", "Ishkur", "Abyss", "Banshee", "Nidhogg", "Starblade"]}

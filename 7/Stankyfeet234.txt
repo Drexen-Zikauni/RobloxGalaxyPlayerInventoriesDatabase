@@ -1,0 +1,1 @@
+{"ships": ["Vansnova", "Nidhogg", "Gunslinger", "Belvat", "Nightmare", "Loyalist"], "dead ships": ["Sabre_Tooth", "Stealth_Recon", "Katana", "Scythe", "Black_Flare"]}

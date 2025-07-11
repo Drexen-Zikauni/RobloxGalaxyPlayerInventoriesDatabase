@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Panther", "Razor_Wing", "Banshee", "Starblade", "Starfall", "Oppressor", "Centurion", "Viper", "Spider", "Lich", "Absolution", "Andromeda", "Ridgebreaker", "Gunslinger", "Crucible", "Cutlass", "Phantom", "Vansnova", "Scythe", "Valiant", "Nyx"]}

@@ -1,0 +1,1 @@
+{"ships": ["Archeon"], "dead ships": ["Cyclops", "MLRS", "Jackal", "Ibis", "Nemesis", "Andromeda", "Corvid", "Argosy", "Stormbringer", "Avalon", "Razor_Wing", "Gunslinger", "Aeaphiel"]}

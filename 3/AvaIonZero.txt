@@ -1,0 +1,1 @@
+{"ships": ["Deity", "Armageddon", "Loyalist", "Black_Flare", "Slipstream", "Nautilus", "Avalon", "Oblivion"], "dead ships": ["Aeaphiel", "Archeon", "Ampharos", "Python", "Cyclops", "Onslaught", "Grievion", "Orion", "Gryphon", "Vansnova", "Stealth_One", "Absolution", "Sixfold", "Tempest", "Cutlass", "Andromeda", "Zhanado", "Disruptor", "Gunslinger"]}

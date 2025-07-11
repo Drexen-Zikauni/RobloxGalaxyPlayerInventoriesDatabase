@@ -1,0 +1,1 @@
+{"ships": ["Retro_Cyclops", "Atheon", "Retro_Gideon"], "dead ships": ["Zeus", "Phantom", "Tempest", "Banshee", "Catalyst", "Dropship", "Cutlass", "Macross", "Gunslinger", "Python", "Oppressor", "Zero", "Chimera", "Archeon", "Ghost", "Apocalypse"]}

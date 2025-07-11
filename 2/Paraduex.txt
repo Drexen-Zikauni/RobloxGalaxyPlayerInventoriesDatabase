@@ -1,0 +1,1 @@
+{"ships": ["Lazarus", "Theseus-X", "Hailstorm", "Leviathan", "Nightmare", "Warlock"], "dead ships": ["Loyalist", "Banshee", "Apocalypse", "Radiance", "Starblade", "Centurion", "Cutlass", "Dropship", "Retro_Grievion", "Ampharos", "Atheon", "Gideon", "Arrow", "Vansnova"]}

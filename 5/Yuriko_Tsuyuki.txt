@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Judgement", "Abyss", "Behemoth", "Galaxy", "Sagittarius", "Avalon", "Armageddon", "Apocalypse", "Zero", "Dire_Wolf", "Constantine", "Ampharos", "Absolution", "Spider", "Sabre_Tooth"]}

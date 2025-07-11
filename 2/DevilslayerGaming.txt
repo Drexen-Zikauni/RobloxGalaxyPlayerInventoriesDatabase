@@ -1,0 +1,1 @@
+{"ships": ["Behemoth", "Templar"], "dead ships": ["Jackal", "Abyss", "Python", "Tengu", "Cobra", "Aura", "Lusso", "Constantine", "Gunslinger", "Retro_Sixfold", "Avalon"]}

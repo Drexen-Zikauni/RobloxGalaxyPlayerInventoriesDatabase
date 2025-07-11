@@ -1,0 +1,1 @@
+{"ships": ["Theia", "Snowfall", "Oblivion", "Banshee", "Antares", "Zhen", "Revelation"], "dead ships": ["Hailstorm", "Inquisitor", "Nightmare", "Tengu", "Sentaliz", "Andromeda", "Aegis", "Retro_Sixfold", "Viking", "Constellation", "Archeon", "Apocalypse", "Hyperion"]}

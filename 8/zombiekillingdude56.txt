@@ -1,0 +1,1 @@
+{"ships": ["Rhino", "Ascendant", "Zhanado", "Avenger"], "dead ships": ["Absolution", "Apocalypse", "Gideon", "Warlock", "Chimera"]}

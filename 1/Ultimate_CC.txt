@@ -1,0 +1,1 @@
+{"ships": ["Hevnetier", "Frostfire", "Katana"], "dead ships": ["Absolution", "Banshee", "Sagittarius", "Hailstorm", "Jackal", "Antares", "The_Patriot"]}

@@ -1,0 +1,1 @@
+{"ships": ["Theia", "Nightmare"], "dead ships": ["Scythe", "Vansnova", "Gunslinger", "Aegis", "Banshee", "Retro_Grievion"]}

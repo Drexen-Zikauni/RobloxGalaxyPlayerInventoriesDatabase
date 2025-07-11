@@ -1,0 +1,1 @@
+{"ships": ["Valiant", "Ampharos"], "dead ships": ["Legionnaire", "Apocalypse", "Stealth_Recon", "Archangel", "Dropship", "Xenon", "Nautilus", "Catalyst", "Arrow", "Chimera", "Loyalist", "Avalon", "Zeus", "Scythe", "Viper", "Phantom", "Templar", "Hercules", "Judgement", "Maple_Orca"]}

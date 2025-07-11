@@ -1,0 +1,1 @@
+{"ships": ["Avalon", "Reaver", "Warlock", "Gunslinger"], "dead ships": ["Gideon", "Razor_Wing", "Zero", "Phantom", "Sixfold", "Vansnova", "Abyss", "Nidhogg", "Draco"]}

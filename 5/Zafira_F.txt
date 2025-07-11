@@ -1,0 +1,1 @@
+{"ships": ["Leviathan", "Naglfar", "Slipstream", "Tempest", "Ampharos", "Valiant", "Osprey"], "dead ships": ["Witch", "Reaver", "Gideon", "Dire_Wolf", "Radiance", "Chimera", "Sentinel", "Xenon", "Cutlass", "Warlock"]}

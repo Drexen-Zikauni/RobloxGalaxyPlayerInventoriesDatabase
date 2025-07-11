@@ -1,0 +1,1 @@
+{"ships": ["Rhino", "Retro_Grievion", "Bastion", "Ghoul_Nyx"], "dead ships": ["Prepravca", "Onslaught", "Apocalypse", "Vigilance", "Chimera", "Razor_Wing", "Corvid", "Theia", "Phantom", "E_Class", "Osprey", "Tempest", "Banshee", "Absolution", "Hecate", "Ampharos", "Obliterator", "Judgement", "Dire_Wolf", "Orion", "Constantine", "Tengu", "Reaver", "Gunslinger"]}

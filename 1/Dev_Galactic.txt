@@ -1,0 +1,1 @@
+{"ships": ["Mjolnheimr", "Retro_Naglfar"], "dead ships": ["Banshee", "Obliterator", "Viper", "Heartbreaker", "Apocalypse", "Dropship", "Hasatan", "Nyx", "Retro_Hercules", "Zhanado", "Stealth_B-2", "Kraken", "Corvid", "Retro_Nyx", "Raven", "Archangel", "Sentinel", "Onslaught", "Marauder"]}

@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Spectre", "Razor_Wing", "Commercial_Miner", "Rorqual", "Xenon", "Argonaut", "Constantine", "Hawklight", "Katana", "Tempest", "Black_Flare", "Radiance", "Zeus", "Cobra", "Valiant", "Ridgebreaker", "Hasatan", "Hercules", "Retro_Aegis", "Vigilance", "Archangel", "Aegis", "Zhanado", "Orca", "Retribution", "Bastion", "Marauder"]}

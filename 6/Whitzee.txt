@@ -1,0 +1,1 @@
+{"ships": ["Hailstorm", "Nautilus", "Retro_Hawklight", "Theia"], "dead ships": ["Cutlass", "Phantom", "Retro_Naglfar", "Lusso", "Retro_Apocalypse", "Gunslinger", "Retro_Gideon", "Legionnaire", "Meteor"]}

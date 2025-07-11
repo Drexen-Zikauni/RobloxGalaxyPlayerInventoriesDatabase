@@ -1,0 +1,1 @@
+{"ships": ["Warden", "Catalyst", "Bastion", "Nimitz", "Black_Scarab"], "dead ships": ["Hawklight", "Aeaphiel", "Viper", "Jackal", "Leecher", "Archeon", "Double_Fractal", "Apocalypse", "Retro_Sixfold", "Worm", "Draco", "Tempura", "Defiance", "Macross", "Banshee", "Dropship", "Blue_Torp_Wasp", "Dragon"]}

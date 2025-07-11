@@ -1,0 +1,1 @@
+{"ships": ["Valkyrie", "Nixesion", "Starblade", "Xenon", "Hawklight", "Obliterator", "Gideon"], "dead ships": ["Cutlass", "Apocalypse", "Banshee", "Icarus", "Ridgebreaker", "MLRS", "Viper", "Stealth_Recon", "Leviathan", "Ibis", "Mjolnheimr"]}

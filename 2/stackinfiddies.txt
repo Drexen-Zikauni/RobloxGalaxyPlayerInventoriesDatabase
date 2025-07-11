@@ -1,0 +1,1 @@
+{"ships": ["Cyber_Leviathan", "Prototype_X-2", "Prototype_X-1", "Retro_Prototype_X-2", "Retro_Grievion", "Lucifer", "Nightmare", "Gideon", "Bone_Ampharos", "Atheon", "Leviathan"], "dead ships": ["Vansnova", "Retro_Hercules", "Retro_Sixfold", "Nimitz", "Retro_Aegis"]}

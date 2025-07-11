@@ -1,0 +1,1 @@
+{"ships": ["Theseus-X", "Annihilator", "A_-_Bruiser"], "dead ships": ["Venerator", "Draco", "Hyperion", "Archangel", "Apogee", "Odyssey"]}

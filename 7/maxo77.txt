@@ -1,0 +1,1 @@
+{"ships": ["Loyalist", "Judgement", "Deity", "Andromeda", "Harbinger", "Onslaught", "Prometheus", "Macross"], "dead ships": ["Arrow", "Tempest", "Absolution", "Jackal", "Gunslinger", "Corvid", "Leviathan", "Imperator", "Helios", "Gideon", "Tengu", "Naglfar", "Grievion", "Hasatan", "Apocalypse", "Cutlass", "Zeus"]}

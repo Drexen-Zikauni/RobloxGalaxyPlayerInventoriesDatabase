@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Hawklight", "Prospector", "Abyss", "Leviathan", "Katana", "Cutlass", "Sagittarius", "Ampharos", "Stealth_Recon", "Tengu", "Viper", "Draco", "Genesis", "Hasatan", "Razor_Wing", "Argosy", "Grievion", "MLRS", "Corvid", "Judgement", "Galaxy", "Hercules", "Prometheus", "Andromeda"]}

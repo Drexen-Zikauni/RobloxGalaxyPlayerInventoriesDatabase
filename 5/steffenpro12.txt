@@ -1,0 +1,1 @@
+{"ships": ["Blitz", "Subjugator", "Theseus-U", "Zillavik"], "dead ships": ["Borealis", "Apocalypse", "Archeon", "E_Class", "Deity", "Gunslinger", "Razor_Wing", "Bastion", "Azrael"]}

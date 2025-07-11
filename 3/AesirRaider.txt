@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Commercial_Miner", "Vigilance", "Rorqual", "Argonaut", "Absolution", "Tempura", "Sentinel", "MLRS", "Bastion", "Lusso", "Belvat", "Witch", "Warlock", "Sovereign", "Hasatan", "Tengu", "Gunslinger", "Prospector", "Genesis", "Mjolnheimr"]}

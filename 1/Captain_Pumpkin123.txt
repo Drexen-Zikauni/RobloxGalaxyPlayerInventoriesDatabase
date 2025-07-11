@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Commercial_Miner", "Invictus", "Naglfar", "Retribution", "Rorqual", "Crucible", "Ridgebreaker"]}

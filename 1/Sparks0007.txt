@@ -1,0 +1,1 @@
+{"ships": ["Cobra"], "dead ships": ["Draco", "Viper", "Raven", "Inquisitor", "Corvid", "Warlock", "Legionnaire", "Prospector", "Worm", "Genesis", "Spiderblade", "Naglfar", "Scythe", "Meteor", "Macross", "Templar"]}

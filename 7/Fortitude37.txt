@@ -1,0 +1,1 @@
+{"ships": ["Theseus-E", "Templar"], "dead ships": ["Argosy", "Sentaliz", "Zero", "Osprey", "Banshee", "Arrow", "Python", "Corvid", "Phantom", "Aura", "Razor_Wing", "Xenon", "Cyclops", "Warden", "Worm", "Starblade", "Katana", "Cutlass", "Ampharos"]}

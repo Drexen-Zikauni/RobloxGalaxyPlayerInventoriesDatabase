@@ -1,0 +1,1 @@
+{"ships": ["Deity"], "dead ships": ["Hercules", "Zeus", "Archeon", "Genesis", "Catalyst", "Icarus", "Astraeus", "Prepravca", "Leviathan", "Banshee", "Crucible", "Cutlass", "Belvat", "E_Class", "Venerator", "MLRS", "Apocalypse", "Sentaliz", "Katana", "Razor_Wing"]}

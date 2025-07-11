@@ -1,0 +1,1 @@
+{"ships": ["Brawler"], "dead ships": ["Gunslinger", "Nidhogg", "Viper", "Leviathan", "Genesis", "Reaver", "Banshee", "Ridgebreaker", "Argosy", "Hawklight", "Andromeda", "Sagittarius", "Defiance", "Archangel", "Vansnova"]}

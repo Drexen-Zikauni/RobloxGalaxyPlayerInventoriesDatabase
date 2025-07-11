@@ -1,0 +1,1 @@
+{"ships": ["Archeon"], "dead ships": ["Archangel", "Reaver", "Python", "Corvid", "Theia", "Leviathan", "Apocalypse", "Genesis", "Worm", "Loyalist", "Venerator", "Warlock", "Gideon", "Tempest", "Aeaphiel", "Bastion", "Black_Flare"]}

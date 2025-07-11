@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Avenger", "Archangel", "Saturn", "Corvid", "Zhanado", "Osprey", "Ishkur", "Dire_Wolf", "Starfall", "Inquisitor", "Tengu", "Nisos", "Hawklight", "Marauder", "Absolution", "Bastion", "Apocalypse", "Orion", "Commercial_Miner", "Grievion", "Patriotic_Rorqual", "Templar", "Worm", "Sentinel"]}

@@ -1,0 +1,1 @@
+{"ships": ["Absolution", "Valkyrie", "Apocalypse"], "dead ships": ["Vigilance", "Gideon", "Nisos", "Sabre_Tooth", "Radiance", "Icarus", "Orion", "Hasatan", "Catalyst", "Aeaphiel", "Hevnetier", "Archeon", "Katana", "Mjolnheimr", "Leviathan", "Tengu", "MLRS", "Marauder", "Banshee", "Gunslinger", "Avalon", "Cutlass", "Centurion", "Starblade"]}

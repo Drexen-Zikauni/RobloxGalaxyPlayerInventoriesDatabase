@@ -1,0 +1,1 @@
+{"ships": ["Theia", "Jackal"], "dead ships": ["Scythe", "Sagittarius", "Banshee", "Retribution", "Razor_Wing", "Gideon", "Tennhausen", "Meteor", "Cyclops", "Gunslinger", "Lusso", "Sentaliz", "Black_Flare", "Corvid", "Xenon", "Ridgebreaker", "Defiance", "Avalon", "Naglfar"]}

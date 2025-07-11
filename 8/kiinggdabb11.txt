@@ -1,0 +1,1 @@
+{"ships": ["Aedes", "Odyssey", "Hailstorm", "Theia"], "dead ships": ["Apotheosis", "Witch", "Hyperion", "Revenant", "Zillavik", "Stealth_One", "Theseus-X", "Judgement", "Leviathan", "Andromeda"]}

@@ -1,0 +1,1 @@
+{"ships": ["Retro_Cyclops", "Ampharos", "Tempest"], "dead ships": ["Osprey", "Worm", "Gideon", "Razor_Wing", "Retro_Centurion", "Archangel", "Tango", "Judgement"]}

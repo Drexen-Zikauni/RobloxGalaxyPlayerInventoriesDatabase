@@ -1,0 +1,1 @@
+{"ships": ["Naglfar", "Bonehawk"], "dead ships": ["Radiance", "Sixfold", "Gunslinger", "Vansnova", "Crucible", "Orca", "Aura", "Phantom", "Xenon", "Kapisi", "Warlord", "Lazarus"]}

@@ -1,0 +1,1 @@
+{"ships": ["Tempest", "Ampharos", "Hecate", "Retro_Ridgebreaker", "Hyperion", "Retro_Vanguard"], "dead ships": ["Scythe", "Zero", "Draco", "Gideon", "Archeon", "Judgement", "Incarnate", "Archangel", "Imperator", "Crucible", "Retro_Hercules"]}

@@ -1,0 +1,1 @@
+{"ships": ["Subjugator", "Atheon"], "dead ships": ["Macross", "Crucible", "Tempest", "Gunslinger", "Razor_Wing", "Nisos", "Radiance", "Gideon", "Orion", "Absolution", "Aegis", "MLRS", "Zeus", "Venerator"]}

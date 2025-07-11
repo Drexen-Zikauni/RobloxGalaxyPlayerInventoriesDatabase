@@ -1,0 +1,1 @@
+{"ships": ["Zhanado", "Viper", "3D_Printed_Warlock", "Ridgebreaker"], "dead ships": ["Gunslinger", "Lusso", "Argonaut", "Belvat", "Avenger", "Cutlass", "Starfall", "Nova", "Oppressor", "Draco", "Archangel", "Leviathan", "Black_Flare", "Rorqual", "Arrow", "Cobra", "Rapture", "Archeon"]}

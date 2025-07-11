@@ -1,0 +1,1 @@
+{"ships": ["Atheon", "Nightmare", "3D_Printed_Warlock", "Zhanado", "Armageddon"], "dead ships": ["Stealth_Recon", "Razor_Wing", "3D_Printed_Apocalypse", "Viper", "Witch", "Discordite_Cluster", "Retro_Prototype_X-1", "Archeon", "Defiance", "Osprey"]}

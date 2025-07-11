@@ -1,0 +1,1 @@
+{"ships": ["Catalyst", "Deity", "Hasatan"], "dead ships": ["Behemoth", "Aura", "Zero", "Tempest", "Leviathan", "Zeus", "Sagittarius", "Apocalypse", "Naglfar", "Hawklight", "Hercules", "Inquisitor", "Tengu", "Absolution", "Heartbreaker", "Meteor", "Loyalist", "Valiant", "Jackal", "Starfall", "Katana", "Starblade", "Gunslinger", "Nightmare", "Andromeda", "Tango", "Santaliz"]}

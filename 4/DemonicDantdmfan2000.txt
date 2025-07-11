@@ -1,0 +1,1 @@
+{"ships": ["Incarnate", "Cutlass", "Jupiter", "Deity"], "dead ships": ["Xenon", "Archeon", "Gideon", "Leviathan", "Lusso", "Reaver", "Theia", "Santaliz", "Stealth_B-2", "Draco", "Retro_Prototype_X-1"]}

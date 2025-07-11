@@ -1,0 +1,1 @@
+{"ships": ["Instigator", "Ridgebreaker", "Blitz", "Nimitz"], "dead ships": ["Slipstream", "Cyclops", "Andromeda", "Borealis", "Crucible", "Theia", "Vanguard", "Galaxy", "Arrow", "Zero", "Draco"]}

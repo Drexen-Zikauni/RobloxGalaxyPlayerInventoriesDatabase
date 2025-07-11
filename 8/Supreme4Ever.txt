@@ -1,0 +1,1 @@
+{"ships": ["Cobra"], "dead ships": ["E_Class", "Gideon", "Cyclops", "Andromeda", "Archeon", "Hawklight", "Banshee", "Avalon", "Retro_Leviathan", "Bastion"]}

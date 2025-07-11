@@ -1,0 +1,1 @@
+{"ships": ["Prometheus"], "dead ships": ["Leviathan", "Banshee", "MLMLRS", "Bastion", "Behemoth", "Tennhausen", "Sentaliz", "Andromeda", "Constellation", "Osiris", "Jackal", "Meteor", "Draco", "Cutlass", "Vansnova", "Gunslinger", "Abyss", "Archeon", "Black_Flare", "Hasatan", "Worm", "Apocalypse", "Stealth_Recon"]}

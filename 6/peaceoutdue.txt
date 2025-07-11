@@ -1,0 +1,1 @@
+{"ships": ["Ridgebreaker"], "dead ships": ["Sovereign", "Tengu", "Apogee", "Aegis", "Hercules", "Hawklight", "Draco", "Judgement", "Apocalypse", "Zhanado", "Raven", "Arrow", "Katana", "Avenger", "Zero", "Nyx"]}

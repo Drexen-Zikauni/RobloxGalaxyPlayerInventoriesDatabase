@@ -1,0 +1,1 @@
+{"ships": ["Hasatan", "Absolution", "Valiant", "Sagittarius", "Mjolnheimr", "Catalyst"], "dead ships": ["Vigilance", "Hawklight", "Reaver", "Razor_Wing", "Witch", "Ampharos", "Gideon", "Draco", "Zhanado", "Jackal", "Corvid", "Marauder", "Genesis", "Tengu", "Templar", "Grievion", "Hecate", "Inquisitor", "Radiance", "Panther", "Leviathan", "Gunslinger", "Aeaphiel", "Phantom"]}

@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Warlock", "Tengu", "Nightmare", "Naglfar", "Orion", "Hawklight", "Stealth_Recon", "Aeaphiel", "Bastion", "Panther", "Sagittarius", "Sentaliz", "Cutlass", "Hecate", "Vansnova", "Loyalist", "Archeon", "Leviathan", "Apocalypse", "Nisos", "MLRS", "Xenon", "Ampharos", "Katana", "Catalyst", "Hasatan", "Behemoth", "Mjolnheimr", "Warden"]}

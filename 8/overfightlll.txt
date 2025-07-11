@@ -1,0 +1,1 @@
+{"ships": ["3D_Printed_Warlock", "Constellation", "Apogee", "Theseus", "Avalon", "Odyssey", "Corvid", "Ridgebreaker"], "dead ships": ["Orion", "Xenon", "Theia"]}

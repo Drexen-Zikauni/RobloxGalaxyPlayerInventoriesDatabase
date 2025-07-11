@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Sixfold", "Crucible", "Hasatan", "Sabre_Tooth", "Mjolnheimr", "Draco", "Radiance", "Vansnova", "Vigilance", "Retribution", "Leviathan", "Dire_Wolf", "Witch", "Sovereign"]}

@@ -1,0 +1,1 @@
+{"ships": ["Plagued_Warship", "Icicle", "Retro_Hawklight", "Zillavik", "Retro_Andromeda", "Retro_Centurion", "Retro_Prototype_X-1", "Lucifer", "Retro_Gideon", "Kraken", "Hailstorm", "Permafrost", "Retro_Sixfold", "Retro_Ridgebreaker"], "dead ships": ["Aegis", "Razor_Wing", "Dropship", "Phantom", "Andromeda", "Obliterator"]}

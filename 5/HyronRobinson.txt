@@ -1,0 +1,1 @@
+{"ships": ["Loyalist"], "dead ships": ["Sentaliz", "Leviathan", "3D_Printed_Apocalypse", "Grievion", "Sixfold", "Inquisitor", "Zhanado", "Abyss", "Arrow", "Crystocrene", "Absolution", "Jackal"]}

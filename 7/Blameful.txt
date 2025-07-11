@@ -1,0 +1,1 @@
+{"ships": ["Prototype_X-3", "Tempest", "Black_Scarab", "3D_Printed_Warlock", "Blood_Wing", "Imperator", "Corvid", "Pleasant_Isle", "Plagued_Warship", "Retro_Sixfold"], "dead ships": ["Permafrost", "Catalyst", "Blue_Torp_Wasp", "Black_Flare", "Absolution", "Sixfold", "Reaper", "Hawklight", "Sagittarius", "2020_Ship"]}

@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Incarnate", "Loyalist", "Witch", "Panther", "Icarus", "Osprey", "Sixfold", "Arrow", "Absolution", "Razor_Wing", "Imperator", "Hawklight", "Odyssey", "Gideon", "Retro_Aegis", "Jackal", "Black_Flare"]}

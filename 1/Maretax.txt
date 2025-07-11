@@ -1,0 +1,1 @@
+{"ships": ["Slipstream"], "dead ships": ["Judgement", "Warlock", "Draco", "Tengu", "Aeaphiel", "Icarus", "Sentaliz", "Black_Flare", "MLRS"]}

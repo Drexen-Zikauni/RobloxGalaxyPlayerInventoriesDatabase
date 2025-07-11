@@ -1,0 +1,1 @@
+{"ships": ["Judgement"], "dead ships": ["Witch", "Hasatan", "Loyalist", "Viper", "Razor_Wing", "Meteor", "Scimitar", "Avalon"]}

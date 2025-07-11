@@ -1,0 +1,1 @@
+{"ships": ["Cyclops", "Widowmaker", "Theia", "Aegis", "Gideon"], "dead ships": ["Crucible", "Banshee", "Ridgebreaker", "Sagittarius", "Valiant", "Gunslinger", "Avalon", "Dramiel", "Scimitar", "Tengu", "Witch", "Draco", "Corvid", "Loyalist", "Abyss", "Aura", "Heartbreaker", "Helios", "Jackal", "Hecate", "Zhanado", "Andromeda", "Sovereign", "Spectre", "Deity"]}

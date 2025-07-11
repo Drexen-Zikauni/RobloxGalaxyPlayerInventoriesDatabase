@@ -1,0 +1,1 @@
+{"ships": ["Theia"], "dead ships": ["Sixfold", "Andromeda", "Valkerac", "Imperator", "Razor_Wing", "Aura", "Sagittarius", "Witch", "Gunslinger", "Constantine", "E_Class"]}

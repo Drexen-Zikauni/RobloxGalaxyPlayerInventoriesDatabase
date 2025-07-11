@@ -1,0 +1,1 @@
+{"ships": ["Bonehawk", "Kapisi", "Apocalypse"], "dead ships": ["Arrow", "Corvid", "Banshee", "Razor_Wing", "Loyalist", "Ishkur", "Archeon", "Centurion", "Scimitar", "Macross"]}

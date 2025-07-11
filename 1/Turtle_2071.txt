@@ -1,0 +1,1 @@
+{"ships": ["Nimitz"], "dead ships": ["Apogee", "Dropship", "Absolution", "Razor_Wing", "Viper", "Leviathan", "Banshee", "Sagittarius", "Catalyst", "MLRS", "Xenon", "Osprey", "Archeon"]}

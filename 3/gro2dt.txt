@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Banshee", "Abyss", "Scimitar", "MLRS", "Centurion", "Gunslinger", "Cobra", "Macross", "Crucible", "Leviathan", "Zhanado", "E_Class", "Viper", "Oppressor", "Nidhogg", "Sixfold", "Avalon", "Grievion", "Raven"]}

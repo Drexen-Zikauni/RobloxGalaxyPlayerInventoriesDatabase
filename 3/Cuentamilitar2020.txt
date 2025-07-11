@@ -1,0 +1,1 @@
+{"ships": ["Ridgebreaker", "Tennhausen", "Leviathan"], "dead ships": ["Bastion", "Catalyst", "Armageddon", "Mjolnheimr", "Banshee", "Warlock", "Templar", "Apocalypse", "Centurion", "Worm"]}

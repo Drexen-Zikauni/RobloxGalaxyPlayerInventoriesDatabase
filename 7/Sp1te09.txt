@@ -1,0 +1,1 @@
+{"ships": ["Absolution", "Interceptor_F", "Ampharos"], "dead ships": ["Rhino", "Aura", "Constantine", "Zero", "Zeus", "Nidhogg", "Phantom", "Cobra", "Hawklight", "Jackal"]}

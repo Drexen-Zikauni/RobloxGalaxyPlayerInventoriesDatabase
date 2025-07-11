@@ -1,0 +1,1 @@
+{"ships": ["Aedes", "Bonehawk", "Ascendant", "A_-_Bruiser", "Obliterator", "Annihilator", "A_-_Brawler", "Borealis", "Aberrant", "Atheon", "Stealth_One"], "dead ships": ["Stealth_Recon", "Ridgebreaker", "Apocalypse", "Scimitar", "Xenon", "Andromeda", "Banshee", "Lazarus", "Helios", "Zero", "Judgement", "Kapisi", "Archeon", "Theia", "Nightmare", "Dropship", "Sentaliz"]}

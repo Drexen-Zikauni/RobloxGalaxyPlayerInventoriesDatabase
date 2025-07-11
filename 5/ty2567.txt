@@ -1,0 +1,1 @@
+{"ships": ["Mini_Beta_Andromeda", "Cutlass"], "dead ships": ["Sentaliz", "Andromeda", "Nightmare", "Sixfold", "Sentinel", "Draco", "Zero", "Banshee", "Loyalist", "Inquisitor", "Ridgebreaker", "Leviathan", "Alpha_Ship", "Zeus"]}

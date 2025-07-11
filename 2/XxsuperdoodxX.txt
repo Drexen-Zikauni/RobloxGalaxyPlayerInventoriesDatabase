@@ -1,0 +1,1 @@
+{"ships": ["Armageddon"], "dead ships": ["Rorqual", "Crucible", "Centurion", "Orca", "Phantom", "Katana", "Vansnova", "Zeus", "Vanguard", "Stormbringer", "Legionnaire", "Archeon", "Absolution", "Catalyst"]}

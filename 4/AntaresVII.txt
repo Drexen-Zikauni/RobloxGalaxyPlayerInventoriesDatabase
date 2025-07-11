@@ -1,0 +1,1 @@
+{"ships": ["Black_Scarab", "Deity", "Helios", "Theia", "Astraeus", "Kapisi", "Slipstream"], "dead ships": ["Centurion", "Corvid", "Draco", "Imperator", "Jackal", "Razor_Wing", "Zhen", "Stealth_B-2", "Oblivion"]}

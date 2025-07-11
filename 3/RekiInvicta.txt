@@ -1,0 +1,1 @@
+{"ships": ["Tennhausen", "Chimera-N", "U.N.E._Interceptor", "Obliterator", "Oblivion"], "dead ships": ["Galaxy", "Judgement", "Crucible", "Sixfold", "Legionnaire", "Razor_Wing"]}

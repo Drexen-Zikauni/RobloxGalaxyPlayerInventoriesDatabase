@@ -1,0 +1,1 @@
+{"ships": ["Leviathan", "Avalon", "Sagittarius", "Stealth_One", "Helios", "Theia", "Lucifer"], "dead ships": ["Gunslinger", "Maple_Orca", "Apostle", "Python"]}

@@ -1,0 +1,1 @@
+{"ships": ["Nautilus", "Deity", "Tempest"], "dead ships": ["Corvid", "Sagittarius", "Tengu", "MLRS", "Macross", "Witch", "obamasphere", "Ampharos"]}

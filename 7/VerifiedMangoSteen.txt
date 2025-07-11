@@ -1,0 +1,1 @@
+{"ships": ["Ampharos", "Archeon"], "dead ships": ["Maple_Orca", "Avalon", "Theia", "Apocalypse", "Macross", "Viper", "Stealth_Recon", "Kraken", "Prepravca", "Leviathan", "Razor_Wing"]}

@@ -1,0 +1,1 @@
+{"ships": ["Xenon", "Leviathan"], "dead ships": ["Tennhausen", "Vanguard", "Black_Flare", "Warlock", "Judgement", "Ridgebreaker", "Abyss", "Scimitar", "Belvat", "Cobra"]}

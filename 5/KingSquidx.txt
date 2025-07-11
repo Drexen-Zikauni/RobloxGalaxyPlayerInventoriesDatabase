@@ -1,0 +1,1 @@
+{"ships": ["Gideon", "Obliterator", "Onslaught", "Cutlass"], "dead ships": ["Archangel", "Abyss", "Viper", "Tennhausen", "Cobra", "Apocalypse", "Oppressor", "Zhanado", "Corvid", "Ridgebreaker", "Phantom", "Venerator", "Saturn", "Commercial_Miner", "Osprey"]}

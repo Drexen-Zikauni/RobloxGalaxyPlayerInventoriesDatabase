@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse"], "dead ships": ["Bastion", "Saturn", "Crucible", "Orca", "Zero", "Andromeda", "Rorqual", "Galaxy", "Hawklight", "Avalon", "Mjolnheimr", "Argosy", "Arrow", "Black_Flare", "E_Class", "Tennhausen", "Mammoth", "Sagittarius", "Hercules", "Razor_Wing", "Draco", "Sixfold", "Archeon", "Retro_Grievion"]}

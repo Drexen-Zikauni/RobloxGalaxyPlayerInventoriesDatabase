@@ -1,0 +1,1 @@
+{"ships": ["Inquisitor", "Plagued_Warship", "Retro_Prototype_X-2", "Retro_Nyx", "Nightmare", "Lucifer", "Retro_Gideon"], "dead ships": ["Hawklight", "Legionnaire", "Sovereign", "Viper", "Helios", "Dropship"]}

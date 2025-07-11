@@ -1,0 +1,1 @@
+{"ships": ["Blitz", "Ridgebreaker", "Aedes", "Nightmare", "Ampharos"], "dead ships": ["Incarnate", "Hasatan", "Witch", "Zeus", "Sagittarius", "Theia", "Antares", "Retro_Leviathan", "Liberator", "Atheon", "Borealis", "Zhen", "Sentinel", "Aegis", "Apocalypse", "Behemoth", "Aeaphiel", "Hercules", "Python", "Judgement", "Draco"]}

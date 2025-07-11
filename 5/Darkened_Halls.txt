@@ -1,0 +1,1 @@
+{"ships": ["Jackal"], "dead ships": ["Mammoth", "Delta_Ship", "Retro_Commercial_Miner", "Saturn", "Ampharos", "Naglfar", "Vigilance", "Prospector", "Retro_Centurion"]}

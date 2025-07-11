@@ -1,0 +1,1 @@
+{"ships": ["Ridgebreaker", "Apocalypse", "Annihilator"], "dead ships": ["Nidhogg", "Imperator", "Scythe", "Aegis", "Nova", "Chimera", "Sixfold", "Bastion", "Mjolnheimr", "Templar", "Banshee", "Phantom", "Lusso", "Kraken", "Retro_Sixfold"]}

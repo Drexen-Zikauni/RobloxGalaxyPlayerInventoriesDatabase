@@ -1,0 +1,1 @@
+{"ships": ["Retro_Andromeda", "Apocalypse", "Viking", "Retro_Nyx", "The_Patriot", "Astraeus", "Incarnate", "Apogee", "Onslaught"], "dead ships": ["Warlock", "Gideon", "Helios", "Banshee"]}

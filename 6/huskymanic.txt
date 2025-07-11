@@ -1,0 +1,1 @@
+{"ships": ["Cutlass", "Typhoon"], "dead ships": ["Valiant", "Naglfar", "Tennhausen", "Nightmare", "Inquisitor", "Catalyst", "Orca", "Apocalypse", "Leviathan", "Cyclops", "Galaxy", "Argonaut", "Stealth_Recon", "Behemoth", "Warlock", "Phantom"]}

@@ -1,0 +1,1 @@
+{"ships": ["Armageddon", "E_Class"], "dead ships": ["Bastion", "Grievion", "Crucible", "Radiance", "Sagittarius", "Behemoth", "Constellation"]}

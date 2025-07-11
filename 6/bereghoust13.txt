@@ -1,0 +1,1 @@
+{"ships": ["Bastion", "Ridgebreaker", "Alpha_Ship", "Gideon", "Cutlass"], "dead ships": ["Tempura", "Banshee", "Archeon", "Stealth_Recon", "Atheon", "Xenon", "Vansnova", "Chimera", "Prototype_X-3"]}

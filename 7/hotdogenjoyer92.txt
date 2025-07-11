@@ -1,0 +1,1 @@
+{"ships": ["Catalyst", "Hailstorm", "Kapisi", "Oblivion", "Hyperion", "Frostfire", "SR-71", "Retro_Nyx", "Retro_Sixfold"], "dead ships": ["Cutlass", "Vansnova", "Absolution", "Hercules", "Zero", "Commercial_Miner", "Zhen", "Sovereign", "Apocalypse", "Stealth_B-2", "Frankenemi", "Helios", "Marauder", "Retro_Cyclops"]}

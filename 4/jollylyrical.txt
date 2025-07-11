@@ -1,0 +1,1 @@
+{"ships": ["Absolution", "Osprey", "Naglfar"], "dead ships": ["Raven", "Tempura", "Sentinel", "Avenger", "Xenon", "Tennhausen", "Sagittarius", "Andromeda", "Hawklight", "Apocalypse", "Marauder", "Ridgebreaker", "Draco", "Judgement", "Bastion", "Spider", "Arrow", "Vigilance", "Sovereign", "Orca", "Razor_Wing", "Rorqual", "Ishkur", "Corvid", "Katana"]}

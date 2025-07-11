@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse"], "dead ships": ["Chimera", "Absolution", "Leviathan", "Ibis", "Tango", "Behemoth", "Vigilance", "Vansnova", "Ampharos", "Viper", "Draco", "Corvid", "Black_Flare"]}

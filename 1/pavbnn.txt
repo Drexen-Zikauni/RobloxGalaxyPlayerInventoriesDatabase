@@ -1,0 +1,1 @@
+{"ships": ["Leviathan", "Retro_Grievion", "Retro_Nyx", "Subjugator"], "dead ships": ["Galaxy", "Prometheus", "Cobra", "Archeon", "Obliterator"]}

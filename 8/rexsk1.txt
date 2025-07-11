@@ -1,0 +1,1 @@
+{"ships": ["Armageddon"], "dead ships": ["Ridgebreaker", "Crucible", "Viper", "Apocalypse", "Dropship", "Defiance", "Corvid", "Arrow", "Starfall", "Widowmaker", "Leviathan", "Andromeda", "Abyss", "Nautilus", "E_Class", "Hevnetier", "Vigilance", "Zeus", "Stealth_Recon", "Gunslinger", "Galaxy"]}

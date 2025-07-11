@@ -1,0 +1,1 @@
+{"ships": ["Zhen", "Valiant", "Nightmare"], "dead ships": ["Prospector", "Inquisitor", "Oppressor", "Scimitar", "Starblade", "Raven", "Dramiel", "Zeus", "Catalyst", "Genesis", "Sentaliz", "Zhanado", "Behemoth", "Absolution", "Avalon", "Belvat", "Apocalypse", "Apostle", "Ridgebreaker", "Atheon", "Hawklight", "Aegis", "Nautilus"]}

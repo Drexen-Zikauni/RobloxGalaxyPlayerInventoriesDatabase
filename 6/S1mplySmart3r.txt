@@ -1,0 +1,1 @@
+{"ships": ["Ridgebreaker"], "dead ships": ["Zero", "Razor_Wing", "Gunslinger", "Chimera", "Crucible", "Retro_Andromeda"]}

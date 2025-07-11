@@ -1,0 +1,1 @@
+{"ships": ["Helios", "Apocalypse", "Theia", "Obliterator", "Nightmare", "Prometheus", "Ridgebreaker", "Revenant", "Annihilator", "Requiem", "A_-_Brawler"], "dead ships": ["Abyss", "Andromeda", "Xenon", "Draco", "Ishkur", "Stealth_Recon", "Marauder", "Sentaliz", "Onslaught", "Executioner", "Prikkit", "Valkerac", "Starblade", "MLMLRS", "Jackal", "Banshee"]}

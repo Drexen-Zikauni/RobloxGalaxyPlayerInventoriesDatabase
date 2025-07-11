@@ -1,0 +1,1 @@
+{"ships": ["Retro_Hawklight"], "dead ships": ["Banshee", "Cobra", "Lusso", "Chimera", "Aura", "Tengu", "Mjolnheimr", "Jackal", "Gideon", "Sixfold"]}

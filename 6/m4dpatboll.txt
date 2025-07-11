@@ -1,0 +1,1 @@
+{"ships": ["Leviathan", "Theseus-E", "Incarnate", "Hyperion"], "dead ships": ["Corvid", "Starfall", "Loyalist", "Osprey", "Apocalypse", "Ridgebreaker", "Sentaliz", "Aegis"]}

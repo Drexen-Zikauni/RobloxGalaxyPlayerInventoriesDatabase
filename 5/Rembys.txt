@@ -1,0 +1,1 @@
+{"ships": ["Sentaliz"], "dead ships": ["Genesis", "Mjolnheimr", "Galaxy", "Apocalypse", "Judgement", "Prepravca", "Archeon", "Theia", "Revelation", "Leviathan", "Witch", "Macross"]}

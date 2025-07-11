@@ -1,0 +1,1 @@
+{"ships": ["Atheon", "Naglfar"], "dead ships": ["Leviathan", "Nemesis", "Catalyst", "Apocalypse", "Dropship", "Worm", "Judgement", "Nyx", "Theia", "Tango", "Hevnetier", "Zeus", "Behemoth"]}

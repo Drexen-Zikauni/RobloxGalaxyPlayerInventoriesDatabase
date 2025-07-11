@@ -1,0 +1,1 @@
+{"ships": ["Tennhausen", "Loyalist", "Elanis", "Valkyrie"], "dead ships": ["Chimera", "Crucible", "Hercules", "Apocalypse", "Lich", "Leecher", "Vigilance", "Judgement", "Aeaphiel", "Prospector", "Nova", "Osiris"]}

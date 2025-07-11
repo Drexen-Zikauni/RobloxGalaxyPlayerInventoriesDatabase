@@ -1,0 +1,1 @@
+{"ships": ["Judgement"], "dead ships": ["Constellation", "Lazarus", "Viper", "Xenon", "Worm", "Starfall", "Naglfar", "Cutlass", "Retro_Bastion", "Subjugator", "Absolution", "Apocalypse", "Catalyst"]}

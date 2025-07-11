@@ -1,0 +1,1 @@
+{"ships": ["Sixfold", "Loyalist", "Leecher", "Hasatan"], "dead ships": ["Black_Flare", "Hawklight", "Cyclops", "Prometheus", "Draco", "Nidhogg", "Leviathan", "Xenon", "Sagittarius", "Starblade", "Tengu", "Katana", "Scimitar", "Hercules", "Zero", "Cobra", "Ibis", "Crucible", "Alpha_Ship", "Witch", "Judgement", "Banshee", "Gideon", "Grievion", "Archeon", "Oblivion"]}

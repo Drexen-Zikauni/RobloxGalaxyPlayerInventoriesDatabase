@@ -1,0 +1,1 @@
+{"ships": ["Ridgebreaker"], "dead ships": ["Abyss", "Gideon", "Xenon", "Prepravca", "Corvid", "Andromeda", "Dropship", "Sagittarius", "Banshee", "Katana", "Stealth_Recon", "Galaxy", "Stormbringer", "Templar"]}

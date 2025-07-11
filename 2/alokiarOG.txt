@@ -1,0 +1,1 @@
+{"ships": ["Theia"], "dead ships": ["Hecate", "Templar", "Gunslinger", "Banshee", "Aeaphiel", "Prometheus", "Lazarus", "Vansnova", "Macross", "Apocalypse", "Sagittarius", "Razor_Wing", "Stealth_B-2", "Armageddon", "Loyalist", "Zhen"]}

@@ -1,0 +1,1 @@
+{"ships": ["Cyclops", "Santaliz", "Prototype_X-1", "Annihilator", "A_-_Brawler", "Retro_Slipstream", "Hyperion", "Zhen", "Helios", "Retro_Grievion", "SR-71", "Retro_Leviathan"], "dead ships": ["Apostle", "Permafrost", "Scimitar", "Saturn", "Hallow", "Archangel", "Andromeda", "Cobra", "Catalyst", "Leviathan", "Starfall", "Nightmare"]}

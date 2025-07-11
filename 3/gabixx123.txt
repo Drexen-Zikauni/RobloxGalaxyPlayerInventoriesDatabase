@@ -1,0 +1,1 @@
+{"ships": ["Zeus"], "dead ships": ["Marauder", "Ampharos", "Cyclops", "Cutlass", "Aura", "Judgement", "Bastion", "Ibis", "Sagittarius", "Sabre_Tooth", "Scimitar", "Loyalist", "Retro_Spectre"]}

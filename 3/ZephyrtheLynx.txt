@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Leviathan", "Corvid", "Osprey", "Viper", "Dire_Wolf", "Black_Flare", "MLRS", "Mammoth", "Inquisitor", "Razor_Wing", "Genesis", "Aeaphiel", "Sixfold", "Aura", "Draco", "Scimitar", "Banshee", "Ishkur", "Archeon", "Avalon", "Apocalypse", "Prospector", "Raven", "Spectre", "Bastion", "Grievion"]}

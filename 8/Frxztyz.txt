@@ -1,0 +1,1 @@
+{"ships": ["Bastion", "Astraeus", "Helios"], "dead ships": ["Tempest", "Viper", "Macross", "Zhen", "Archeon", "Loyalist", "Sagittarius", "Atheon", "Apogee", "Razor_Wing"]}

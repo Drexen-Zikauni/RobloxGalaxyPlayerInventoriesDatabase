@@ -1,0 +1,1 @@
+{"ships": ["Theia"], "dead ships": ["Leviathan", "Ampharos", "Ridgebreaker", "Witch", "Sentaliz", "Mjolnheimr", "Apocalypse", "Macross", "Hecate", "Aeaphiel", "Tempura", "Judgement", "Cyclops", "Avalon", "Radiance"]}

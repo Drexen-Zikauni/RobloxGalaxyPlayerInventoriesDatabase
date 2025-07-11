@@ -1,0 +1,1 @@
+{"ships": ["3D_Printed_Apocalypse"], "dead ships": ["Judgement", "Jackal", "Leviathan", "Arrow", "Naglfar", "Zero", "Dropship", "Phantom", "Tempest", "Retro_Centurion", "Lusso", "Theia", "Mammoth", "Corvid", "Prometheus", "Starblade"]}

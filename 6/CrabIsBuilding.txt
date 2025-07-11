@@ -1,0 +1,1 @@
+{"ships": ["Ampharos", "Mjolnheimr", "Santaliz", "Stealth_B-2", "Black_Scarab", "Retro_Naglfar", "Valiant", "Subjugator", "Retro_Avalon", "Apogee"], "dead ships": ["Xenon", "Sovereign", "Witch", "Hasatan", "Sabre_Tooth"]}

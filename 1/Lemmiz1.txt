@@ -1,0 +1,1 @@
+{"ships": ["Executioner", "Hunter", "3D_Printed_Apocalypse"], "dead ships": ["Jackal", "Cutlass", "Gideon", "Xenon", "Corvid", "Ridgebreaker", "Catalyst", "Phantom", "Vansnova", "Armageddon"]}

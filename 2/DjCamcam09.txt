@@ -1,0 +1,1 @@
+{"ships": ["Retribution", "Zeus"], "dead ships": ["Gunslinger", "Hercules", "Argonaut", "Bastion", "Witch", "Xenon", "Kapisi", "Hecate", "Naglfar", "Catalyst", "Gideon", "Mjolnheimr", "Judgement", "Aeaphiel", "Panther", "Constantine", "Icarus", "Rapture", "Abyss", "Lusso", "Vansnova", "Phantom", "Obliterator", "Galaxy", "Starfall", "Hyperion"]}

@@ -1,0 +1,1 @@
+{"ships": ["Zhen", "Aberrant", "Helios", "Onslaught", "Retro_Hawklight"], "dead ships": ["Arrow", "Viper", "Scythe", "Spectre"]}

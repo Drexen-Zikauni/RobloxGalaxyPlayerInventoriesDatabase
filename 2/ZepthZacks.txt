@@ -1,0 +1,1 @@
+{"ships": ["Prototype_X-1", "Osiris", "Hailstorm", "Borealis", "Venerator", "Conqueror", "Subjugator", "Atheon", "Astraeus", "Black_Flare"], "dead ships": ["Jackal", "Nightmare", "Zhen", "Banshee", "Aegis", "Hawklight", "Paragon", "Cutlass", "Katana", "Aura"]}

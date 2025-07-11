@@ -1,0 +1,1 @@
+{"ships": ["Venerator"], "dead ships": ["Rapture", "Vigilance", "Worm", "Starfall", "Nisos", "Stealth_Recon", "Cobra", "Chimera", "Lazarus", "Arrow", "Ridgebreaker", "Hasatan", "Cutlass", "Loyalist", "Avenger", "Osprey", "Xenon", "Corvid", "Mammoth", "Sovereign", "Grievion", "Paragon", "Tempura", "Osiris"]}

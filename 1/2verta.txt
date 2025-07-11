@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Valiant", "Leecher", "Hasatan", "Prospector", "Hercules", "Loyalist", "Raven", "Scythe", "Cyclops", "Crucible", "Black_Flare", "Cutlass", "Apostle", "Tengu", "Abyss", "Chimera", "Dropship", "Corvid", "Phantom", "Python", "Sentinel", "Leviathan", "Marauder"]}

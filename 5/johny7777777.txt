@@ -1,0 +1,1 @@
+{"ships": ["Alpha_Ship", "Gryphon"], "dead ships": ["Sagittarius", "Retribution", "Leviathan", "Phantom", "Sovereign", "Warlock", "Warden", "Nyx", "Oblivion"]}

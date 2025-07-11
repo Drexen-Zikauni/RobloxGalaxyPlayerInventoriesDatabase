@@ -1,0 +1,1 @@
+{"ships": ["Stealth_B-2", "Zillavik", "Nyxesion", "Black_Scarab", "Ascendant", "Blitz", "Subjugator", "Atheon"], "dead ships": ["Hailstorm", "Borealis", "Retro_Gideon", "Tempura", "Paragon", "Gunslinger", "Antares", "Dropship", "Macross", "Arrow", "Retro_Prototype_X-1", "Corvid"]}

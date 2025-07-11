@@ -1,0 +1,1 @@
+{"ships": ["Sovereign", "Retro_Cyclops", "Imperator", "Atheon", "Zillavik", "Annihilator"], "dead ships": ["Nidhogg", "Tengu", "Judgement", "Viper", "Jackal", "Archeon", "Apocalypse", "Prototype_X-2"]}

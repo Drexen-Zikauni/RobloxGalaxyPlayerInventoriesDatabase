@@ -1,0 +1,1 @@
+{"ships": ["Onslaught", "MLRS", "Aegis", "Kraken", "Warlord", "Leviathan"], "dead ships": ["Archangel", "Prospector", "Osprey", "Absolution", "Icarus", "Arrow", "Avenger", "Constantine", "Aura", "Templar", "Hasatan", "Nisos", "Witch", "Apocalypse", "Zhanado", "Naglfar", "Centurion", "Bastion", "Zero", "Gideon", "Chimera", "Mjolnheimr", "Grievion", "Ibis", "Archeon", "Ampharos"]}

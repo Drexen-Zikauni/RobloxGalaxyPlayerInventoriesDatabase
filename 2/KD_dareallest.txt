@@ -1,0 +1,1 @@
+{"ships": ["Cutlass"], "dead ships": ["Raven", "Zhanado", "Corvid", "Starfall", "Hawklight", "Legionnaire", "Bastion", "Vigilance", "Belvat", "Sovereign", "Inquisitor", "Grievion", "Loyalist", "Genesis", "Tennhausen", "Saturn", "Behemoth", "Mjolnheimr", "Archeon", "Rorqual", "Abyss", "Hasatan", "Macross", "Apocalypse", "Leviathan", "Oppressor", "Valiant"]}

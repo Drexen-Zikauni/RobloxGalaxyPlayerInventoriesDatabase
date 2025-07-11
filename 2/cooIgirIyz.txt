@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Warlock", "Scimitar", "Starblade", "Abyss", "Centurion", "Sabre_Tooth", "Prospector", "Constantine", "Icarus", "Mammoth", "Hawklight", "Absolution", "Katana", "Valiant"]}

@@ -1,0 +1,1 @@
+{"ships": ["Nautilus", "Retro_Cyclops"], "dead ships": ["Gideon", "Katana", "Corvid", "Tengu", "Dire_Wolf", "Behemoth", "Tempest", "Orca", "Marauder", "Razor_Wing", "Dropship", "Armageddon", "Chimera"]}

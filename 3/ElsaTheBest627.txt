@@ -1,0 +1,1 @@
+{"ships": ["Lucifer", "Rapture"], "dead ships": ["Revelation", "Judgement", "Warlord"]}

@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse"], "dead ships": ["Avalon", "Xenon", "Sixfold", "Retro_Grievion", "Prepravca", "Judgement", "Hawklight", "Gryphon", "Black_Flare", "Hasatan", "Python", "Galaxy", "Osprey", "Starfall", "Corvid", "Leviathan", "Bastion", "Theia", "Archeon"]}

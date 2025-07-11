@@ -1,0 +1,1 @@
+{"ships": ["Andromeda", "Apocalypse", "The_Patriot"], "dead ships": ["Banshee", "Tengu", "Xenon", "Black_Flare", "Zero", "Orion", "Zeus", "Naglfar", "Archeon", "Gideon", "Belvat", "Templar", "Macross", "Dropship", "Theia", "Corvid", "Orca", "Mammoth", "Cutlass"]}

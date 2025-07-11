@@ -1,0 +1,1 @@
+{"ships": ["Loyalist"], "dead ships": ["Templar", "Xenon", "Osprey", "Aura", "Jackal", "MLRS", "Black_Flare", "Warlock", "Cyclops", "Avalon", "Theseus-K", "Deity", "Leviathan", "Apogee", "Legionnaire", "Tempest", "Dire_Wolf"]}

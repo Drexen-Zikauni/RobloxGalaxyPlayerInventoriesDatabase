@@ -1,0 +1,1 @@
+{"ships": ["Warlock"], "dead ships": ["Sovereign", "Judgement", "Stormbringer", "Nimitz", "Galaxy", "Starfall", "Cutlass", "Genesis", "MLRS", "Zhanado", "Armageddon", "Valiant", "Bastion", "Dropship", "Oppressor", "Apocalypse", "Nisos", "Prometheus"]}

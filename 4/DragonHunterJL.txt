@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Crucible", "Osprey", "Tennhausen", "Corvid", "Hawklight", "Ampharos", "Archangel", "Mammoth", "Leviathan", "Zhanado", "Xenon", "Retribution", "Archeon", "Warlock", "Atheon", "Mjolnheimr", "Macross", "Patriotic_Rorqual", "Hercules", "Stealth_Recon"]}

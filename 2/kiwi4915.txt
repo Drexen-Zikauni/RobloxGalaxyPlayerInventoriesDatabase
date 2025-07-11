@@ -1,0 +1,1 @@
+{"ships": ["Venerator", "Obliterator"], "dead ships": ["Crucible", "Argonaut", "Dire_Wolf", "Scimitar", "Nightmare", "Phantom", "Starfall", "Katana", "Hasatan", "Stealth_B-2", "Xenon", "Sovereign", "Imperator", "Hyperion", "Disruptor"]}

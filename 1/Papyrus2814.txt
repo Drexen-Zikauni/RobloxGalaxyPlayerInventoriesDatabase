@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Chimera", "Corvid", "Warlock", "Dropship", "Sentinel", "Catalyst", "Phantom", "Cutlass", "Macross", "Zhanado", "Bastion", "Raven", "Starfall", "Meteor", "Apocalypse", "Gideon", "Hevnetier"]}

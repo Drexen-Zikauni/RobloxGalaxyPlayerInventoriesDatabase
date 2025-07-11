@@ -1,0 +1,1 @@
+{"ships": ["Loyalist", "Apocalypse"], "dead ships": ["Zhanado", "Sixfold", "Judgement", "Cutlass", "Sagittarius", "Orca", "Prepravca", "Razor_Wing", "Scimitar", "Marauder"]}

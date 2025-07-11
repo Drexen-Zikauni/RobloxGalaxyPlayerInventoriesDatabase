@@ -1,0 +1,1 @@
+{"ships": ["Cutlass", "Osiris", "Valkyrie", "Sentinel"], "dead ships": ["Bastion", "Leviathan", "Apocalypse", "Behemoth", "Ridgebreaker", "Banshee", "Genesis", "Sagittarius", "Crystocrene", "Marauder", "Zeus", "Archeon"]}

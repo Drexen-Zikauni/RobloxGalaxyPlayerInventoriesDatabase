@@ -1,0 +1,1 @@
+{"ships": ["Osprey"], "dead ships": ["Archeon", "Commercial_Miner", "Hawklight", "Retribution", "Draco", "Orca", "Armageddon", "Warden"]}

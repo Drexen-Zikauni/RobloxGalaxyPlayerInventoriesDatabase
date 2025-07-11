@@ -1,0 +1,1 @@
+{"ships": ["Sagittarius", "Obliterator"], "dead ships": ["Viper", "Gideon", "Grievion", "Lusso", "Apocalypse", "Ridgebreaker", "Leviathan", "Orca", "Starblade", "Loyalist", "Blood_Wing", "Witch"]}

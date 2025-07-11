@@ -1,0 +1,1 @@
+{"ships": ["Liberator", "Harbinger"], "dead ships": ["Marauder", "Chimera", "Starfall", "Xenon", "Aegis", "Sabre_Tooth", "Zero", "Valiant", "Aura", "Templar", "Catalyst", "Bastion", "Crucible", "Reaver", "Banshee", "Retro_Grievion", "Jackal", "Avalon", "Meteor", "Archeon", "Leviathan", "Ampharos", "Constantine", "Tango", "Hasatan", "Centurion"]}

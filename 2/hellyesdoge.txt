@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Hawklight", "Armageddon", "Aegis", "Sagittarius", "Leviathan", "Prepravca", "Scimitar", "Sentaliz", "Mjolnheimr", "Katana", "Genesis", "Razor_Wing", "Tennhausen"]}

@@ -1,0 +1,1 @@
+{"ships": ["MLRS", "Mjolnheimr", "Arrow", "Loyalist", "Typhoon"], "dead ships": ["Starblade", "Gunslinger", "Apocalypse", "Sovereign", "Spectre", "Avenger", "Valiant", "Zhanado", "Black_Flare", "Tempest", "Razor_Wing", "Gideon", "Centurion", "Worm", "Leviathan", "Stormbringer", "Judgement", "Katana", "Sixfold", "Sagittarius", "Aeaphiel", "Banshee", "Oppressor", "Aura"]}

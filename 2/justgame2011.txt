@@ -1,0 +1,1 @@
+{"ships": ["Archeon", "Deity"], "dead ships": ["Grievion", "Obliterator", "Osprey", "Theia", "Lusso", "Jackal", "Annihilator", "Retro_Sixfold", "Gideon", "Conqueror", "Viper", "Osiris", "Antares"]}

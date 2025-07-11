@@ -1,0 +1,1 @@
+{"ships": ["Black_Flare"], "dead ships": ["Draco", "MLRS", "Banshee", "Starblade", "Hawklight", "Gideon", "Lusso"]}

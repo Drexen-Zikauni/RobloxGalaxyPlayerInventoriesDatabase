@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["MLRS", "Corvid", "Stealth_Recon", "Starblade", "Centurion", "Scimitar", "Dire_Wolf", "Constantine", "Jackal", "Cutlass", "Absolution", "Apostle", "Gideon", "Ampharos", "Abyss", "Radiance", "Leviathan", "Genesis", "Mjolnheimr", "Ridgebreaker", "Catalyst", "Zhanado", "Hawklight", "Sovereign", "Legionnaire", "Defiance"]}

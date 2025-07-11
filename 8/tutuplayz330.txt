@@ -1,0 +1,1 @@
+{"ships": ["Theseus-E", "Marauder"], "dead ships": ["Gunslinger", "Razor_Wing", "Hailstorm", "Loyalist", "Catalyst", "Archeon", "Bastion", "Sixfold", "Abyss", "Retro_Gideon"]}

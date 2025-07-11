@@ -1,0 +1,1 @@
+{"ships": ["Hyperion", "Lazarus"], "dead ships": ["Starfall", "Katana", "Slipstream", "Incarnate", "Theseus-X", "Kapisi", "Theseus", "Discordite_Cluster", "Galaxy", "Odyssey", "Hercules", "Subjugator", "Macross", "Sabre_Tooth", "Meteor", "Xenon"]}

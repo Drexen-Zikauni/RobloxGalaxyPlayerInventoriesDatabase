@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse", "Retro_Nyx"], "dead ships": ["Rhino", "Witch", "Galaxy", "Revelation", "Annihilator", "Nidhogg", "Lusso", "Valkerac", "Retro_Hawklight"]}

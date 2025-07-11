@@ -1,0 +1,1 @@
+{"ships": ["Stealth_One"], "dead ships": ["Draco", "Centurion", "Viper", "Nightmare", "Tempura", "Cobra", "Archeon", "Apocalypse", "Lich", "Corvid", "Chimera", "MLRS", "Ishkur", "Zhen", "Gideon", "Hercules", "Tempest", "Hasatan", "Nova"]}

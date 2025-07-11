@@ -1,0 +1,1 @@
+{"ships": ["Paragon", "Obliterator", "Interceptor_F", "Sagittarius", "Leviathan", "Loyalist", "Annihilator", "Theia", "Panther"], "dead ships": ["Starfall", "Witch", "Crucible", "Aura", "Judgement", "Zero", "Draco", "Astraeus", "Dropship", "Jackal", "Banshee", "Corvid", "Phantom", "Gideon", "Ishkur", "Andromeda", "Galaxy"]}

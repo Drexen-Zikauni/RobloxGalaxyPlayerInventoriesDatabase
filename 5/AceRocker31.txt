@@ -1,0 +1,1 @@
+{"ships": ["Prototype_X-2", "Nightmare", "Andromeda", "Black_Scarab", "Hyperion", "Theia", "Cyber_Leviathan", "Judgement", "Atheon", "Retro_Grievion", "Lucifer", "SR-71", "Leviathan", "3D_Printed_Warlock", "Permafrost", "Astraeus", "Frostpocalypse", "Hawklight"], "dead ships": ["Abyss", "Razor_Wing", "Chimera", "Python", "Sentaliz"]}

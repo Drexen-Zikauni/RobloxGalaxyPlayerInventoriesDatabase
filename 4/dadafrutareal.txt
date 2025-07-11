@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Ridgebreaker", "Leviathan", "Nyx", "Commercial_Miner", "Galaxy", "Nimitz", "Raven", "Hasatan", "Osprey", "Hawklight", "Andromeda", "Mjolnheimr", "MLRS", "Theia", "E_Class", "Witch", "Apostle", "Viper", "Crucible", "Leecher"]}

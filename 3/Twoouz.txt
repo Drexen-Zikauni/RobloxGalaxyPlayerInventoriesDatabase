@@ -1,0 +1,1 @@
+{"ships": ["Deity", "3D_Printed_Warlock", "Nightmare"], "dead ships": ["Witch", "Ampharos", "Stealth_Recon"]}

@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Archangel", "Sixfold", "Bastion", "Saturn", "Inquisitor", "Gunslinger", "Sentinel", "Lusso", "Marauder", "Orion", "Dramiel", "Argonaut", "Starblade", "Rorqual", "Draco", "Constantine", "Crucible", "Zero", "Leviathan", "Sovereign", "Orca", "Catalyst"]}

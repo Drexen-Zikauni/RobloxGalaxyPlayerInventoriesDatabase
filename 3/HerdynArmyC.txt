@@ -1,0 +1,1 @@
+{"ships": ["Tempest", "Cutlass"], "dead ships": ["Ridgebreaker", "Razor_Wing", "Hecate", "Zero", "Spectre", "Phantom", "Arrow", "Zhanado", "Jackal", "Nimitz", "Panther", "Dire_Wolf", "Belvat", "Xenon", "Nisos", "Sagittarius", "Kraken", "Sentaliz", "Judgement"]}

@@ -1,0 +1,1 @@
+{"ships": ["Python", "Theia", "Atheon", "Nightmare", "Retro_Prototype_X-1", "Ampharos"], "dead ships": ["Behemoth", "Scythe", "Sabre_Tooth", "Oppressor", "Lich", "Raven", "Avenger", "Spider", "Zero", "Ishkur", "Starblade", "Ridgebreaker", "Onslaught"]}

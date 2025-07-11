@@ -1,0 +1,1 @@
+{"ships": ["Bastion", "Ampharos", "Leviathan"], "dead ships": ["Draco", "Dire_Wolf", "Aura", "Zhanado", "Cutlass", "Banshee", "obamasphere", "Katana", "Lusso", "Starblade", "Sovereign", "Meteor", "Razor_Wing"]}

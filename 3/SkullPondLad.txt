@@ -1,0 +1,1 @@
+{"ships": ["Naglfar", "Green_Snake", "Apocalypse", "Marauder", "Theia", "Venerator", "Warlock"], "dead ships": ["Zero", "Crucible", "Jackal", "Starblade", "Witch"]}

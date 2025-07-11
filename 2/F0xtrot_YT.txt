@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Saturn", "Aura", "Banshee", "Constantine", "Bastion", "Gunslinger", "Crucible", "Marauder", "Grievion", "Spectre", "Rorqual", "Orca", "Sovereign", "Apocalypse", "Cutlass", "Phantom", "Corvid", "Starblade"]}

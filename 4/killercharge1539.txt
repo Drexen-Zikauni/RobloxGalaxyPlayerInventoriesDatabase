@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Reaver", "Cobra", "Zeus", "Banshee", "Argonaut", "Tempura", "Macross", "Naglfar", "Lusso", "Constantine", "Jackal", "Retro_Sixfold", "Dropship", "Crucible", "Grievion", "Hasatan", "Genesis"]}

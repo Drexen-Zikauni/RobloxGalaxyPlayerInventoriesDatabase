@@ -1,0 +1,1 @@
+{"ships": ["Gideon", "Hasatan", "Jupiter", "Genesis", "Catalyst"], "dead ships": ["Theia", "MLRS", "Leviathan", "Cyclops", "Dropship", "Vansnova", "Osprey", "Tengu", "Worm"]}

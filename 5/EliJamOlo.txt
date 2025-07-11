@@ -1,0 +1,1 @@
+{"ships": ["Phantom"], "dead ships": ["Legionnaire", "Prospector", "Corvid", "Borealis", "Stealth_Recon", "Leviathan", "Loyalist", "Dropship", "Retro_Bastion", "Worm", "MLRS", "Python", "Gideon"]}

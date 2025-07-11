@@ -1,0 +1,1 @@
+{"ships": ["Snowfall", "Annihilator", "Theseus-X", "Ghost", "Retro_Gideon", "Prototype_X-1", "Black_Scarab", "Apogee", "Brawler", "Nyxesion", "Aedes", "Starfall", "Black_Flare", "Prototype_X-2", "Retro_Prototype_X-1", "Blue_Torp_Wasp"], "dead ships": ["Thubjugator", "Nimitz", "Macross", "Nidhogg", "Corvid"]}

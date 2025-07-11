@@ -1,0 +1,1 @@
+{"ships": ["3D_Printed_Apocalypse", "Theia", "Nightmare", "Banshee", "Leviathan"], "dead ships": ["Aegis", "Grievion", "Avenger", "Chimera", "Hawklight", "Katana", "Viper", "Armageddon", "Behemoth", "Jackal", "Vansnova", "Reaver", "Apocalypse", "Radiance", "Liberator"]}

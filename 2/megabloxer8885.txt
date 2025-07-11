@@ -1,0 +1,1 @@
+{"ships": ["Hawklight", "Hallowlight"], "dead ships": ["Gideon", "Sixfold", "Cutlass", "Draco", "Stealth_Recon", "Warden", "Katana", "Viper", "Raven", "Abyss"]}

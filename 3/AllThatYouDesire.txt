@@ -1,0 +1,1 @@
+{"ships": ["3D_Printed_Apocalypse", "Cyber_Leviathan", "Grim"], "dead ships": ["Gunslinger", "Scimitar", "Apocalypse", "Zeus", "Andromeda", "Nidhogg", "Sentaliz", "Absolution", "Hasatan", "Sentinel", "Razor_Wing", "Centurion", "Zhanado", "Banshee", "Apostle"]}

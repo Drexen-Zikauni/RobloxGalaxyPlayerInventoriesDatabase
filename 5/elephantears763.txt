@@ -1,0 +1,1 @@
+{"ships": ["Avalon", "Icarus", "Apogee", "Apocalypse", "Fridgebreaker", "Santaliz", "Annihilator", "A_-_Brawler", "Theia"], "dead ships": ["Leviathan", "Hawklight", "Meteor", "Judgement", "Ridgebreaker", "Venerator", "Marauder", "Starblade", "Viper", "Raven", "Warlock", "Draco", "Reaver", "Gideon", "Sentaliz", "Loyalist", "Spiderblade"]}

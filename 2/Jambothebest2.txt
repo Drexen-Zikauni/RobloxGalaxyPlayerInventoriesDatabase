@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Cyclops", "Argonaut", "Icarus", "Naglfar", "Behemoth", "Corvid", "Apocalypse", "Aeaphiel", "Prospector", "Sagittarius", "Nemesis", "Phantom", "Oppressor", "Genesis", "Kraken", "Grievion", "Sovereign", "Scythe", "Archeon", "Crucible", "Warlock", "Witch", "Judgement", "Galaxy", "Armageddon", "Theia"]}

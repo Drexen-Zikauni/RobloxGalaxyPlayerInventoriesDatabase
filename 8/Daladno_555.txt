@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Marauder", "Bastion", "Grievion", "Hawklight", "Hasatan", "Loyalist", "Cutlass", "Naglfar", "Retribution", "Orca"]}

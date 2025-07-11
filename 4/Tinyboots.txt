@@ -1,0 +1,1 @@
+{"ships": ["3D_Printed_Apocalypse"], "dead ships": ["Zero", "Black_Flare", "Apocalypse", "Razor_Wing", "Behemoth", "Sagittarius", "Gunslinger", "Aura", "Macross", "Cobra", "Lusso", "Jackal", "Cyclops", "Gideon"]}

@@ -1,0 +1,1 @@
+{"ships": ["Foxfire"], "dead ships": ["Rapture", "Sovereign", "Archangel", "Banshee", "Absolution", "Nimitz", "Avalon", "Cutlass", "Genesis", "Osprey", "Hecate", "Apocalypse"]}

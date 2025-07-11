@@ -1,0 +1,1 @@
+{"ships": ["Chimera", "Prototype_X-3", "Leviathan", "Theseus-X", "Theia", "Zhen", "Retro_Hawklight"], "dead ships": ["Argonaut", "Scimitar", "Vansnova", "Zhanado", "Hawklight", "Sentaliz", "Blue_Torp_Wasp", "Judgement"]}

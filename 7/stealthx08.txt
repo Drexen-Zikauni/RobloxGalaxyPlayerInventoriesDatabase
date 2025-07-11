@@ -1,0 +1,1 @@
+{"ships": ["Avalon"], "dead ships": ["Crucible", "Abyss", "Sagittarius", "Oppressor", "Phantom", "Constellation", "Judgement", "Draco", "Python", "Lusso", "Stealth_B-2", "Andromeda", "Retro_Grievion"]}

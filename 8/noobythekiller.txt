@@ -1,0 +1,1 @@
+{"ships": ["Ampharos", "Bastion", "Kapisi"], "dead ships": ["Revelation", "Hyperion", "Gideon", "Aeaphiel", "Archangel", "Lazarus", "Nimitz", "Vanguard", "Banshee", "Sovereign", "Glacier", "Andromeda", "Black_Flare", "Behemoth"]}

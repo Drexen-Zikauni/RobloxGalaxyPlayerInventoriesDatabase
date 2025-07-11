@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Mammoth", "Constellation", "Jackal", "Tengu", "Galaxy", "Starblade", "Spiderblade", "Retro_Gideon", "Atheon", "Retro_Aegis", "Crystocrene", "Worm", "Retro_Naglfar", "Corvid"]}

@@ -1,0 +1,1 @@
+{"ships": ["Bastion", "Ampharos", "Dire_Wolf"], "dead ships": ["Sabre_Tooth", "Gryphon", "Crucible", "Nidhogg", "Hawklight", "Draco", "Archeon", "Arrow", "Starblade", "Naglfar", "Corvid", "Mjolnheimr"]}

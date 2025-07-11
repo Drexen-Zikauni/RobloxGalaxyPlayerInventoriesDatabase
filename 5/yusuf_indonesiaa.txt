@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse", "Xenon"], "dead ships": ["Templar", "Judgement", "Hercules", "Argonaut", "Constantine", "Banshee", "Leecher", "Corvid", "Ampharos", "Leviathan", "Sagittarius", "Worm", "Oppressor", "Osprey", "Viper", "Draco", "Discordite_Cluster", "Cutlass", "Grievion", "Theia", "Loyalist", "Crystocrene", "Atheon", "Gideon", "Centurion", "Cyclops", "Macross"]}

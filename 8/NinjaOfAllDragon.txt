@@ -1,0 +1,1 @@
+{"ships": ["Stormbringer", "Galaxy"], "dead ships": ["Nyx", "Ridgebreaker", "Crucible", "Apogee", "Prometheus", "Vigilance", "Judgement", "Orca", "Waspinator", "Kraken", "Sagittarius", "Archeon", "Cyclops", "Zeus", "Prospector", "Sixfold", "Katana", "Gideon", "Annihilator", "Draco", "Bombe", "Tempura", "Python", "Green_Snake", "Apocalypse"]}

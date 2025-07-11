@@ -1,0 +1,1 @@
+{"ships": ["Ampharos", "Genesis"], "dead ships": ["Xenon", "Witch", "Reaver", "Sagittarius", "Apocalypse", "Starblade", "Apostle", "Hasatan", "Dire_Wolf", "Katana", "Draco", "Dropship", "Deity", "Leviathan", "Kraken", "Borealis", "Zeus", "Lazarus", "Tempest", "Executioner", "Ridgebreaker", "Cyclops"]}

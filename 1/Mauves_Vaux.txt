@@ -1,0 +1,1 @@
+{"ships": ["Valkyrie"], "dead ships": ["Judgement", "Ampharos", "Rorqual", "Apocalypse", "Banshee", "Python", "Abyss", "Catalyst", "Hevnetier", "Draco", "Valiant", "Sagittarius", "Ridgebreaker", "Viper"]}

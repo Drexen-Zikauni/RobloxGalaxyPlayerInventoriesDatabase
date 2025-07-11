@@ -1,0 +1,1 @@
+{"ships": ["Warden", "Ampharos", "Tengu", "Katana", "Belvat", "Jackal", "Icarus"], "dead ships": ["Viper", "Inquisitor", "Aegis", "Leviathan", "Absolution", "Ishkur", "Corvid", "Nova", "Naglfar", "Mjolnheimr", "Sentinel", "Sixfold", "Witch", "Orca"]}

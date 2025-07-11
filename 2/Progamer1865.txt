@@ -1,0 +1,1 @@
+{"ships": ["Gideon", "Leviathan", "Avalon", "Ampharos", "Hawklight"], "dead ships": ["Warlock", "Starblade", "Jackal", "Viper", "Xenon", "Razor_Wing", "Obliterator"]}

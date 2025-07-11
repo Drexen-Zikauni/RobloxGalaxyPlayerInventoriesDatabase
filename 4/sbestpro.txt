@@ -1,0 +1,1 @@
+{"ships": ["Sovereign", "Inquisitor"], "dead ships": ["Nidhogg", "Phantom", "Viper", "Black_Flare", "Worm", "Cutlass", "Sentinel", "Gryphon", "Archeon", "Warden", "Macross", "Ishkur", "Sixfold", "Stealth_B-2", "Osprey", "Ridgebreaker", "Ampharos"]}

@@ -1,0 +1,1 @@
+{"ships": ["Obliterator"], "dead ships": ["Apocalypse", "Tango", "Abyss", "Judgement", "Borealis", "Macross", "Razor_Wing", "Nyx", "Archeon", "Armageddon", "Aeaphiel", "Retro_Bastion", "Astraeus"]}

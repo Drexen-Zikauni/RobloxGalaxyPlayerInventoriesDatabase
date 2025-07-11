@@ -1,0 +1,1 @@
+{"ships": ["Liberator", "Harbinger", "Retro_Apocalypse", "Tempest"], "dead ships": ["Anathema", "Hecate", "Razor_Wing", "Corvid", "Borealis", "Avalon", "Zhanado", "Osprey", "Sagittarius", "Osiris", "Draco", "Zillavik", "Banshee", "Revenant", "Xenon", "Avenger"]}

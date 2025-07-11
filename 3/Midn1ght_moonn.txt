@@ -1,0 +1,1 @@
+{"ships": ["Leviathan", "Judgement", "Nightmare", "Venerator", "Paragon", "Onslaught"], "dead ships": ["Hyperion", "Warlock", "Arrow", "Galaxy", "Theia", "Absolution", "Corvid", "Gideon", "Conqueror"]}

@@ -1,0 +1,1 @@
+{"ships": ["Borealis", "Blitz", "Theia", "Ampharos", "Retro_Naglfar", "Executioner", "Grievion"], "dead ships": ["Apocalypse", "Nidhogg", "Phantom", "Warlock", "Sixfold", "Gideon", "Aegis", "Aeaphiel", "Banshee", "Sagittarius", "Tengu", "Sentinel", "Katana"]}

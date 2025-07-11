@@ -1,0 +1,1 @@
+{"ships": ["Zhen"], "dead ships": ["Bastion", "Reaver", "Cutlass", "Judgement", "Inquisitor", "Scimitar", "Crucible", "Sovereign", "Leviathan", "Behemoth", "Hercules", "Vanguard", "Executioner", "Archeon", "Grievion", "E_Class", "Tempest", "Nightmare", "Zeus"]}

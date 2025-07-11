@@ -1,0 +1,1 @@
+{"ships": ["Hawklight"], "dead ships": ["Tengu", "Marauder", "Grievion", "Gideon", "Apocalypse", "Sabre_Tooth", "Black_Flare", "Aura", "Templar", "Bastion", "Gunslinger", "Naglfar", "Jackal", "Spectre"]}

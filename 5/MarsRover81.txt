@@ -1,0 +1,1 @@
+{"ships": ["Retro_Nyx", "Naglfar", "Nyxesion", "Blitz", "Wasp?", "Retro_Gideon"], "dead ships": ["Chimera", "Crucible", "Zhanado", "Hecate", "Hasatan", "Cutlass", "Draco", "Razor_Wing"]}

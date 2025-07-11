@@ -1,0 +1,1 @@
+{"ships": ["Catalyst", "Loyalist", "Aegis", "Retro_Centurion"], "dead ships": ["Dropship", "Abyss"]}

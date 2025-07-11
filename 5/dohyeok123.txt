@@ -1,0 +1,1 @@
+{"ships": ["Sovereign"], "dead ships": ["Hawklight", "Venerator", "Zeus", "Hercules"]}

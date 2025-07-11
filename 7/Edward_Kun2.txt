@@ -1,0 +1,1 @@
+{"ships": ["Sovereign", "Double_Fractal"], "dead ships": ["Starblade", "Draco", "Spiderblade", "Ridgebreaker", "Dragon", "Sagittarius", "Sixfold", "Banshee", "Andromeda", "Jackal", "Annihilator", "Razor_Wing", "Santaliz", "Prepravca", "Hercules"]}

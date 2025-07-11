@@ -1,0 +1,1 @@
+{"ships": ["Corvid"], "dead ships": ["Viper", "Saturn", "Absolution", "Tengu", "Jackal", "Warlock", "Naglfar", "Hercules", "Vigilance", "Gryphon", "Templar", "Spider", "Banshee", "Retribution", "Draco", "Apocalypse", "Arrow", "Sixfold", "Ridgebreaker", "Tempest"]}

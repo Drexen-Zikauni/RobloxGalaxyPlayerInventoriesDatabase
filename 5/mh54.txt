@@ -1,0 +1,1 @@
+{"ships": ["Loyalist", "Aeaphiel"], "dead ships": ["Macross", "Draco", "Gideon", "Templar", "Sentaliz", "Osprey", "Zhanado"]}

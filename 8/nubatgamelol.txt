@@ -1,0 +1,1 @@
+{"ships": ["Banshee", "Templar", "Armageddon", "Apogee"], "dead ships": ["Lusso", "Gideon", "Aegis", "Apocalypse", "Tempest", "Nemesis", "Chimera", "Sabre_Tooth", "Phantom", "3D_Printed_Warlock", "Retro_Sixfold"]}

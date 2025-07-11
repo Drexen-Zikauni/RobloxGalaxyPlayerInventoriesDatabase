@@ -1,0 +1,1 @@
+{"ships": ["Aeaphiel", "Apogee", "Retro_Ampharos", "Atheon", "Retro_Cyclops"], "dead ships": ["Gideon", "Zhanado", "Starfall", "Andromeda", "Crucible", "Viper", "Arrow", "Osprey", "Leecher", "Stealth_Recon", "Cutlass", "Xenon", "Gryphon", "Corvid", "Sentaliz"]}

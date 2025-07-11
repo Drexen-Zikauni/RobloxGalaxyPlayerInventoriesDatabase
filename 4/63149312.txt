@@ -1,0 +1,1 @@
+{"ships": ["Hailstorm", "Scimitar", "Odyssey", "Aegis", "Catalyst", "Absolution", "Revelation", "Corvid", "Cutlass", "Phantom", "Theseus-K", "Incarnate"], "dead ships": ["Apocalypse", "Xenon", "Banshee", "Razor_Wing", "Sovereign", "Leviathan", "Revenge", "Draco", "Hasatan"]}

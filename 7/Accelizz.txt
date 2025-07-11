@@ -1,0 +1,1 @@
+{"ships": ["Cutlass", "Crystocrene", "Retro_Prototype_X-1", "Theia", "Obliterator", "Chimera-N", "Conqueror", "A_-_Brawler", "Astraeus"], "dead ships": ["Zeus", "Lazarus", "Apocalypse", "Abyss", "Osprey", "Dropship", "Genesis", "Razor_Wing", "Leviathan", "Osiris", "Bastion", "Cyclops", "Annihilator", "Banshee", "Jackal", "Sentaliz", "Corvid", "E_Class", "Marauder", "Onslaught"]}

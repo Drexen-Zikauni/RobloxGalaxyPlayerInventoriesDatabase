@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Crucible", "Prepravca", "Zhanado", "Zhen", "Black_Flare", "Nightmare", "Sovereign", "Cobra", "Judgement", "Absolution", "Draco", "Icarus", "Ishkur", "E_Class", "Mjolnheimr", "Xenon", "Gideon", "Stealth_Recon", "Nova", "Oppressor", "Python", "Atheon", "Venerator"]}

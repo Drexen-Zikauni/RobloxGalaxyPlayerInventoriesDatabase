@@ -1,0 +1,1 @@
+{"ships": ["Theia", "Bastion", "Lazarus", "Hasatan", "Loyalist"], "dead ships": ["Hercules", "Sentinel", "Phantom", "Ibis", "Leviathan", "Worm", "Marauder", "Katana", "Valiant", "Cutlass", "Sovereign", "Permafrost", "Tengu", "Zhanado", "Draco", "Raven", "Sabre_Tooth", "Xenon"]}

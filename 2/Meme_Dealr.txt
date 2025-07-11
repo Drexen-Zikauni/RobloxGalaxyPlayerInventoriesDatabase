@@ -1,0 +1,1 @@
+{"ships": ["Nimitz", "Phantom", "Sovereign", "Judgement"], "dead ships": ["Templar", "Gideon", "Xenon", "Apocalypse", "Witch", "Scimitar"]}

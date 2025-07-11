@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse", "Frankenemi", "Cutlass", "Helios"], "dead ships": ["Gunslinger", "Loyalist", "Zero", "Judgement", "Sovereign", "Crucible", "Katana", "Vigilance", "Leviathan", "Tengu", "Orca", "Absolution", "Corvid", "Archangel", "Jackal", "Scimitar"]}

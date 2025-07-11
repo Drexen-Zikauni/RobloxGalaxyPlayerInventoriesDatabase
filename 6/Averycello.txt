@@ -1,0 +1,1 @@
+{"ships": ["Avenger", "Prometheus", "Tempest", "Hasatan", "Ampharos"], "dead ships": ["Radiance", "Vigilance", "Scimitar", "Archeon", "Zero", "Razor_Wing", "Sixfold", "Jackal", "Tango", "Sentaliz", "Apocalypse", "Avalon", "Leviathan", "Katana", "Cutlass", "Gunslinger", "Loyalist", "E_Class", "Centurion", "Banshee", "Absolution"]}

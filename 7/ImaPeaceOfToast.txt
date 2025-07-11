@@ -1,0 +1,1 @@
+{"ships": ["Archeon"], "dead ships": ["Starblade", "Xenon", "Macross", "Corvid", "Ampharos", "Viper", "Stealth_Recon", "Lich", "Jackal", "Apocalypse", "Ishkur", "Razor_Wing", "Aegis", "Gunslinger", "Banshee", "Valiant", "Ridgebreaker", "Gideon", "Sagittarius"]}

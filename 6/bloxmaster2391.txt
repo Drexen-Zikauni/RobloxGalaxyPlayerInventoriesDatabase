@@ -1,0 +1,1 @@
+{"ships": ["Marauder", "Osiris"], "dead ships": ["Hasatan", "Phantom", "Orca", "Prospector", "Hercules"]}

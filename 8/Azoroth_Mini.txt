@@ -1,0 +1,1 @@
+{"ships": ["Harbinger", "Zeus", "Prometheus", "Archeon", "Retro_Prototype_X-1", "Lucifer", "Black_Scarab", "Leviathan", "Nightmare", "Marauder", "Retro_Gideon"], "dead ships": ["Macross", "Arrow", "Oppressor", "Leecher", "Constantine", "Banshee", "Absolution", "Avenger", "Corvid", "Sovereign", "Permafrost", "Razor_Wing", "Apostle", "Obliterator"]}

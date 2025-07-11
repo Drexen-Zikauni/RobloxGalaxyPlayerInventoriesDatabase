@@ -1,0 +1,1 @@
+{"ships": ["Nautilus", "A_-_Brawler", "A_-_Bruiser", "Valiant", "Nightmare", "Vigilance"], "dead ships": ["Kraken", "Atheon", "Corvid", "Zhen", "Xenon", "Radiance", "Chimera", "Paragon", "Onslaught", "Obliterator", "Viper", "Stealth_Recon", "Phantom", "Templar", "Loyalist", "Zeus", "Annihilator"]}

@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Arrow", "Tempest", "Argonaut", "Prepravca", "Borealis", "Tempura", "Galaxy", "Nimitz", "Judgement", "Nightmare", "Dropship", "Cyclops", "Archeon", "Double_Fractal", "MLRS", "Grievion", "Apocalypse"]}

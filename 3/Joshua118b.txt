@@ -1,0 +1,1 @@
+{"ships": ["Macross"], "dead ships": ["Judgement", "Draco", "Leviathan", "obamasphere", "Retro_Prototype_X-1", "Tengu", "yname", "Aeaphiel", "Sagittarius", "Abyss", "Apocalypse", "Sentaliz", "MLMLRS"]}

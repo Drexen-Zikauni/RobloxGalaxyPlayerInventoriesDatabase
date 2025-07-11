@@ -1,0 +1,1 @@
+{"ships": ["Helios"], "dead ships": ["Chimera", "Orion", "Leviathan", "Zero", "Sentaliz", "Prospector", "Stealth_Recon", "Tempura", "Zhanado", "Stealth_One", "Stealth_B-2", "Bastion", "Viper", "Onslaught", "Sovereign", "Starblade", "Sabre_Tooth", "Avenger", "Nightmare"]}

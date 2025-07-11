@@ -1,0 +1,1 @@
+{"ships": ["Nemesis", "Zeus"], "dead ships": ["Cyclops", "Cutlass", "Witch", "Corvid", "Lusso", "Banshee", "Naglfar", "Tempest", "Tengu", "Catalyst", "Jackal"]}

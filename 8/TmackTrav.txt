@@ -1,0 +1,1 @@
+{"ships": ["Templar", "Black_Scarab", "Antares", "Retro_Cyclops", "Zhen"], "dead ships": ["Scythe", "Abyss", "Razor_Wing", "Sabre_Tooth", "Hasatan", "Gryphon", "Xenon", "Zhanado", "Gideon", "Legionnaire", "Viper", "Meteor", "Banshee", "Scimitar", "Starblade", "Starfall", "Apostle", "Gunslinger", "Dire_Wolf"]}

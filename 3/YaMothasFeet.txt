@@ -1,0 +1,1 @@
+{"ships": ["Bone_Ampharos", "Reaper", "Absolution", "Apogee", "Alpha_Ship", "Retro_Grievion", "Loyalist"], "dead ships": ["Jackal", "Nemesis", "Cutlass", "Razor_Wing", "Macross", "Oppressor", "Corvid"]}

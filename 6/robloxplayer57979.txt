@@ -1,0 +1,1 @@
+{"ships": ["Ampharos", "Osiris"], "dead ships": ["Jackal", "Apocalypse", "Judgement", "Sagittarius", "Vansnova", "Banshee", "Starblade", "Imperator", "Obliterator", "Archeon", "Absolution", "Paragon", "Nisos"]}

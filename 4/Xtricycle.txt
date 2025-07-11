@@ -1,0 +1,1 @@
+{"ships": ["Widowmaker", "Sovereign"], "dead ships": ["Ishkur", "Zero", "Stealth_B-2", "Delta_Ship", "Phantom", "Bastion", "Ibis", "Python", "Argonaut", "Apocalypse", "Sixfold", "Draco", "Gideon", "Lusso", "Vansnova", "Razor_Wing", "Retro_Centurion"]}

@@ -1,0 +1,1 @@
+{"ships": ["Sagittarius", "Harbinger", "Nautilus", "MLRS", "Mjolnheimr", "Blitz"], "dead ships": ["Katana", "Ridgebreaker", "Galaxy", "Sovereign", "Hasatan", "Prometheus", "Gryphon", "Stealth_Recon", "Gunslinger", "Oppressor", "Avalon", "Razor_Wing", "Apocalypse", "Theia", "Tempest", "Borealis", "Osiris"]}

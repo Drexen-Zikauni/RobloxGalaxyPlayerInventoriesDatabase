@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Hawklight", "Aegis", "Sentinel", "Sabre_Tooth", "Ishkur", "Abyss", "Sovereign", "Tempest", "Warlock"]}

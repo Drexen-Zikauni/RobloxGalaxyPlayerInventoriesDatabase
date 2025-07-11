@@ -1,0 +1,1 @@
+{"ships": ["Retro_Gideon", "Santaliz"], "dead ships": ["Rapture", "Sentinel", "Xenon", "Kraken", "Ridgebreaker", "Macross", "Mjolnheimr", "Apocalypse", "Andromeda", "Loyalist", "Atheon", "Razor_Wing", "Katana", "Sentaliz", "Leviathan", "Retro_Prototype_X-2", "Stealth_B-2", "Gideon", "Tempest"]}

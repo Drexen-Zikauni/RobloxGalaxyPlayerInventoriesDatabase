@@ -1,0 +1,1 @@
+{"ships": ["Judgement", "Ampharos", "Archeon", "Templar"], "dead ships": ["Razor_Wing", "Helios", "Banshee", "Draco", "Osprey", "Raven", "Bastion", "Ishkur", "Viper", "Gideon", "Zhanado", "Jackal", "Scimitar", "Xenon", "Starblade", "Andromeda"]}

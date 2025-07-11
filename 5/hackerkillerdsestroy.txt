@@ -1,0 +1,1 @@
+{"ships": ["Aeaphiel", "Atheon", "Templar"], "dead ships": ["Arrow", "Sagittarius", "Scimitar", "Bastion", "Retro_Sixfold", "Cutlass", "Grievion", "Sabre_Tooth", "Xenon", "Retro_Nyx"]}

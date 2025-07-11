@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Nemesis", "Gideon", "Draco", "Aura", "Lusso", "Sagittarius", "E_Class", "Genesis", "Stealth_Recon", "Tempest", "Ridgebreaker", "Hevnetier", "Abyss", "Galaxy"]}

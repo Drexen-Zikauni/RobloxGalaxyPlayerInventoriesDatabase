@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Hasatan", "Apostle", "Nova", "Razor_Wing", "Witch", "Cutlass", "Stormbringer", "Loyalist", "Prepravca", "E_Class", "Katana", "Bastion", "Sagittarius", "Radiance", "Templar", "Argosy"]}

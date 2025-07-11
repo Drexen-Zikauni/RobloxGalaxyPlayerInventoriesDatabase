@@ -1,0 +1,1 @@
+{"ships": ["Harbinger"], "dead ships": ["Galaxy", "Prometheus", "Astraeus", "Nimitz", "Banshee", "Jackal", "Double_Fractal"]}

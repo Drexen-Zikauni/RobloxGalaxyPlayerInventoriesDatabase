@@ -1,0 +1,1 @@
+{"ships": ["Ridgebreaker", "Black_Scarab", "Liberator", "Borealis", "Tempest", "Zillavik", "Nightmare", "Astraeus"], "dead ships": ["Judgement", "Starfall", "Mjolnheimr", "Black_Flare", "Nautilus", "Helios", "Gunslinger", "Templar", "Hecate", "Corvid"]}

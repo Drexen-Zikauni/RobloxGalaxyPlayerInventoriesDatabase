@@ -1,0 +1,1 @@
+{"ships": ["Tempest", "Hasatan"], "dead ships": ["Banshee", "Sakala", "Catalyst", "Armageddon", "Absolution", "Sixfold", "Valiant", "Jackal", "Panther", "Starblade", "Viper", "Helios", "Gideon", "Katana", "Atheon", "Razor_Wing"]}

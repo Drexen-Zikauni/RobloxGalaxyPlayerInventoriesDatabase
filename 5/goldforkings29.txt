@@ -1,0 +1,1 @@
+{"ships": ["Judgement", "Vanguard", "Instigator"], "dead ships": ["Galaxy", "Imperator", "Zero", "E_Class", "Warden", "Cutlass", "Phantom", "MLRS", "Absolution", "Sentaliz", "Abyss", "Andromeda", "Lazarus", "Aeaphiel", "Hecate", "Icy", "Panther", "Venerator", "Theia", "Archeon", "Avalon", "Inquisitor", "Constantine", "Razor_Wing"]}

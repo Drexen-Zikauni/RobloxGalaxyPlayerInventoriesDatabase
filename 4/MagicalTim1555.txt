@@ -1,0 +1,1 @@
+{"ships": ["Nightmare", "Valkerac", "Apogee", "Onslaught", "Ampharos", "Leviathan", "Andromeda", "A_-_Bruiser", "Valiant"], "dead ships": ["Jackal", "Nemesis", "Stealth_Recon", "Warden", "Gunslinger", "Apocalypse", "Vansnova", "Annihilator"]}

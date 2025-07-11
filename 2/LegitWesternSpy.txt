@@ -1,0 +1,1 @@
+{"ships": ["Stealth_Recon", "Cyber_Leviathan", "Hallow", "Prototype_X-1", "Prototype_X-2", "Retro_Hawklight", "Lucifer", "Aberrant", "Deity", "Retro_Sixfold"], "dead ships": ["Hecate", "Scythe", "Theia", "Lusso", "Gideon", "E_Class", "Oppressor", "Abyss"]}

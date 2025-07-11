@@ -1,0 +1,1 @@
+{"ships": ["Cutlass"], "dead ships": ["Prospector", "Argonaut", "Tengu", "Razor_Wing", "Radiance", "Vigilance", "Zero", "Starblade", "Starfall", "Viper", "Archangel", "Ishkur", "Hercules", "Absolution", "Katana", "Gunslinger", "Sovereign", "Centurion", "Abyss", "Scimitar", "Zhanado", "Cyclops", "Hasatan", "Leviathan", "Naglfar", "Oppressor", "Banshee", "Sabre_Tooth", "Crucible"]}

@@ -1,0 +1,1 @@
+{"ships": ["Aberrant", "Typhoon", "Theia", "Nightmare"], "dead ships": ["Zhanado", "Apocalypse", "Tempura", "Xenon", "Catalyst", "Dropship", "Slipstream"]}

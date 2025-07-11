@@ -1,0 +1,1 @@
+{"ships": ["Legionnaire", "Tengu", "Aura", "Xenon", "Gideon", "Absolution", "Sentaliz"], "dead ships": ["Starblade", "Banshee", "Black_Flare", "Ridgebreaker", "Vansnova", "Retribution", "Abyss", "Apocalypse"]}

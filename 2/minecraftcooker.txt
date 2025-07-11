@@ -1,0 +1,1 @@
+{"ships": ["Zeus", "Icarus"], "dead ships": ["Cyclops", "Grievion", "Banshee", "Reaver", "Belvat", "Crucible", "Sagittarius", "Hawklight", "Gideon", "Archeon", "Tempest", "Black_Flare", "Witch", "Ridgebreaker", "Prepravca", "Apocalypse"]}

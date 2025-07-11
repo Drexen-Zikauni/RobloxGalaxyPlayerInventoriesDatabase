@@ -1,0 +1,1 @@
+{"ships": ["Corvid"], "dead ships": ["Starblade", "Phantom", "Cutlass", "Invictus", "Tengu", "Sentinel", "Tennhausen", "Jackal", "Spider"]}

@@ -1,0 +1,1 @@
+{"ships": ["Loyalist", "Blitz"], "dead ships": ["Razor_Wing", "Centurion", "Leviathan", "Viper", "Sovereign", "Archeon", "Scimitar", "Scythe", "Nova", "Starfall", "MLRS", "Chimera", "Phantom", "Corvid", "Starblade", "Reaver", "Borealis"]}

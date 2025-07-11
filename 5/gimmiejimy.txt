@@ -1,0 +1,1 @@
+{"ships": ["Chimera", "Hyperion", "Pirated_Grievion", "Warlock", "Instigator", "Nimitz"], "dead ships": ["Constellation", "Panther", "Banshee", "Gunslinger", "Armageddon", "Macross", "Theia", "Ghoul_Nyx", "Paragon", "Hasatan", "Sentaliz", "Draco", "Nautilus", "Loyalist", "Apocalypse", "Avalon", "Sagittarius", "Judgement", "Sovereign", "Viper", "Zero", "Katana", "MLMLRS"]}

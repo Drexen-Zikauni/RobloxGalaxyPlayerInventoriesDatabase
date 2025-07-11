@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse"], "dead ships": ["Zeus", "Armageddon", "Lazarus", "Warlock", "Loyalist", "Judgement", "Abyss", "Arrow", "Worm", "Gunslinger", "Inquisitor", "Kapisi", "Nightmare", "Behemoth", "Banshee", "Catalyst", "Archeon", "Crucible"]}

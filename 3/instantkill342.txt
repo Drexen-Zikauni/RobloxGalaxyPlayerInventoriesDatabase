@@ -1,0 +1,1 @@
+{"ships": ["Bastion", "Aedes"], "dead ships": ["Avenger", "Python", "Retro_Sixfold", "Worm", "Viper", "Zhanado", "Corvid", "Centurion", "Nova", "Oppressor", "Theseus", "Phantom", "Sentinel", "Tango", "Starfall", "Osprey", "Macross", "Sixfold", "Chimera", "Argosy"]}

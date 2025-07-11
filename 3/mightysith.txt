@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Corvid", "Tempest", "Hawklight", "Hercules", "Radiance", "Gideon", "Borealis", "Crucible", "Razor_Wing", "Apocalypse", "Stealth_Recon", "Cobra"]}

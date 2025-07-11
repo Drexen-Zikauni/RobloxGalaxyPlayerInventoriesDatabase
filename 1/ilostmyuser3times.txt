@@ -1,0 +1,1 @@
+{"ships": ["Sentaliz", "Constantine"], "dead ships": ["Hawklight", "Gryphon", "Catalyst", "Prepravca", "Tempest", "Hasatan", "Lusso", "Witch", "Behemoth", "Ridgebreaker", "Nightmare", "Galaxy", "Mjolnheimr", "Andromeda", "Apocalypse", "Jackal", "Templar", "Bastion"]}

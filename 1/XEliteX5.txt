@@ -1,0 +1,1 @@
+{"ships": ["Nemesis"], "dead ships": ["Avalon", "Apocalypse", "Lusso", "Ridgebreaker", "Deity", "Zhen", "Warlock", "Leviathan", "Icarus", "Banshee", "Aeaphiel", "Starfall", "Sentaliz", "Ishkur"]}

@@ -1,0 +1,1 @@
+{"ships": ["Deity", "Bastion"], "dead ships": ["Banshee", "Aegis", "Zeus", "Razor_Wing", "Mjolnheimr", "Ampharos", "Corvid", "Theia", "Aeaphiel", "Archeon", "Hasatan", "Hawklight", "Jackal", "Warden", "Draco", "Gideon", "MLRS", "Leviathan", "Naglfar"]}

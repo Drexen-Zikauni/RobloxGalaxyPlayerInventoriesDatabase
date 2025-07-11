@@ -1,0 +1,1 @@
+{"ships": ["Bonehawk", "Kapisi", "Deity", "A_-_Bruiser", "Theseus-K", "Annihilator", "A_-_Brawler", "Sentinel"], "dead ships": ["Naglfar", "Starfall", "Subjugator", "Gideon", "Draco"]}

@@ -1,0 +1,1 @@
+{"ships": ["Katana"], "dead ships": ["Zero", "Starfall", "Gryphon", "Legionnaire", "Constantine", "Meteor", "Scythe", "Sabre_Tooth", "Radiance", "Absolution", "Belvat", "Tengu", "Spider", "Sentinel", "Apostle", "Archangel", "Ibis", "Nisos", "Hasatan", "Sixfold", "Dropship", "MLRS", "Defiance", "Aegis", "Hawklight", "Ridgebreaker", "Loyalist", "Lusso", "Valiant"]}

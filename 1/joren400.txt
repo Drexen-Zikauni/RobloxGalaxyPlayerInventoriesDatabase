@@ -1,0 +1,1 @@
+{"ships": ["Nyxesion", "Astraeus"], "dead ships": ["Commercial_Miner", "Zero", "Dropship", "Orca", "Armageddon", "Cutlass", "Bastion", "Radiance", "Sagittarius", "Avalon", "Ridgebreaker", "Archeon", "Galaxy", "Naglfar", "Macross", "The_Patriot", "Retro_Nyx"]}

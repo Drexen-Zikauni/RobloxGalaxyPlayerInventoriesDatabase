@@ -1,0 +1,1 @@
+{"ships": ["Borealis", "Revelation", "Helios", "Black_Scarab", "Permafrost", "Snowfall", "A_-_Brawler", "Annihilator", "Mjolnheimr", "Incarnate", "Erebus", "Witch", "Osiris", "3D_Printed_Apocalypse"], "dead ships": ["Python", "Avalon", "Arrow", "Phantom", "Hawklight", "Aeaphiel", "Theseus-X", "Orca", "Retro_Gideon", "Jackal", "Gideon", "Meteor", "Draco", "Banshee"]}

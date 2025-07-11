@@ -1,0 +1,1 @@
+{"ships": ["Judgement"], "dead ships": ["Hawklight", "Sagittarius", "Corvid", "Absolution", "Lazarus", "Draco", "Sixfold", "Starblade", "Abyss", "Viper", "Leviathan", "Argonaut"]}

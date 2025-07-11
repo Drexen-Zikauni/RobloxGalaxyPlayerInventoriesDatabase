@@ -1,0 +1,1 @@
+{"ships": ["Revenant", "Warlock", "Nyx", "Kraken"], "dead ships": ["Borealis", "Valkerac", "Banshee", "Andromeda", "Ridgebreaker", "Subjugator", "Mjolnheimr", "Draco", "Zeus", "Sentaliz", "Bastion", "Genesis", "Vansnova", "Zhanado", "Cyclops", "Avalon", "Scimitar", "Absolution", "Panther", "Sixfold", "Zero", "Abyss", "Scythe", "Constantine", "Ampharos", "Aura", "Chimera"]}

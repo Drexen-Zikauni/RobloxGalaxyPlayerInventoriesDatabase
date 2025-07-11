@@ -1,0 +1,1 @@
+{"ships": ["Astraeus", "Onslaught"], "dead ships": ["Hasatan", "Cutlass", "Centurion", "Naglfar", "Judgement", "Mjolnheimr", "Macross", "Arrow", "Antares", "Corvid", "Abyss", "Avalon", "Razor_Wing"]}

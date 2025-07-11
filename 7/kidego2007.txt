@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse", "Ridgebreaker", "Loyalist"], "dead ships": ["Dropship", "Cutlass", "Nidhogg", "Banshee", "Leviathan", "Nova", "Prepravca", "Belvat", "Marauder", "Witch", "Vansnova", "Vigilance", "Bastion", "Archeon", "Genesis", "Zero", "Phantom", "Sixfold", "Crucible", "Dire_Wolf", "Warlock", "Scythe", "Gideon", "Sabre_Tooth", "Cobra", "Scimitar"]}

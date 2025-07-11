@@ -1,0 +1,1 @@
+{"ships": ["Hawklight", "Paragon", "Corvid", "Loyalist", "Andromeda"], "dead ships": ["Sentaliz", "Jackal", "Razor_Wing", "Katana", "Dropship"]}

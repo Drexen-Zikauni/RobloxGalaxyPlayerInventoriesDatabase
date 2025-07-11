@@ -1,0 +1,1 @@
+{"ships": ["Zhen", "Apocalypse", "Widowmaker", "Ampharos", "Abyss", "Templar", "Loyalist", "Kraken", "Andromeda", "Corvid"], "dead ships": ["Sentaliz", "Centurion", "Atheon", "Nightmare", "Obliterator", "Mjolnheimr", "Viper", "Helios", "Macross", "Draco", "Gideon", "Leecher", "Dropship", "MLRS", "Razor_Wing", "Starblade", "Jackal", "Banshee"]}

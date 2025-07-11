@@ -1,0 +1,1 @@
+{"ships": ["Loyalist", "Theseus-X", "Nightmare", "Imperator", "Deity", "Nautilus", "Blitz", "A_-_Bruiser", "Atheon", "Banshee"], "dead ships": ["Tennhausen", "Viper", "Retro_Prototype_X-2", "Theia", "Gideon", "Macross", "Vansnova", "Corvid", "Radiance", "Draco", "Raven", "Hasatan", "Starblade", "Sentaliz", "Tengu", "Jupiter", "Belvat", "Apogee", "Prototype_X-1", "Warden"]}

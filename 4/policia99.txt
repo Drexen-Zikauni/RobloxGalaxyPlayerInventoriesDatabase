@@ -1,0 +1,1 @@
+{"ships": ["Katana"], "dead ships": ["Osprey", "Ishkur", "Oppressor", "Commercial_Miner", "Aegis", "Absolution", "Vigilance", "Orca", "Sagittarius", "Judgement", "Gunslinger", "Genesis"]}

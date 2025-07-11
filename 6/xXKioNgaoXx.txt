@@ -1,0 +1,1 @@
+{"ships": ["Harbinger"], "dead ships": ["Dropship", "Galaxy", "E_Class", "Stealth_Recon", "Cyclops", "Retro_Prototype_X-1", "Bastion", "Annihilator", "Gryphon", "Genesis", "Hercules", "Phantom", "Centurion", "Crucible", "Macross", "Banshee"]}

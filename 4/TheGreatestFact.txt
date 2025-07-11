@@ -1,0 +1,1 @@
+{"ships": ["Cutlass"], "dead ships": ["Catalyst", "Black_Scarab", "Hawklight", "Judgement", "Jackal", "Hercules", "Leviathan", "Aura", "Absolution", "Banshee", "Bastion", "Loyalist", "Avalon", "Archangel", "Apocalypse", "Theia", "Warlock", "Aegis", "Witch", "Sagittarius", "Arrow", "Radiance", "Archeon"]}

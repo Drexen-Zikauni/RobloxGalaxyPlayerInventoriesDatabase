@@ -1,0 +1,1 @@
+{"ships": ["Catalyst", "Ampharos", "Tempest"], "dead ships": ["Warlock", "Ridgebreaker", "Prometheus", "Hawklight", "Behemoth", "Bastion", "Tengu", "Leviathan", "Hecate", "Sixfold", "Gunslinger", "Banshee", "Slipstream", "Apocalypse", "Icarus", "Archeon"]}

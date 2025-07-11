@@ -1,0 +1,1 @@
+{"ships": ["Tennhausen", "Mjolnheimr"], "dead ships": ["Commercial_Miner", "Hawklight", "Apocalypse", "Sixfold", "Leviathan", "Ampharos", "Ridgebreaker", "Sagittarius", "Spider", "Draco", "Inquisitor"]}

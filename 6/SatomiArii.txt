@@ -1,0 +1,1 @@
+{"ships": ["Inquisitor", "Marauder", "Defiance", "Ibis"], "dead ships": ["Worm", "Starfall", "Tango", "Tengu", "Zero", "Arrow", "Scimitar", "Corvid", "Jackal", "Hecate"]}

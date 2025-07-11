@@ -1,0 +1,1 @@
+{"ships": ["Leviathan"], "dead ships": ["Tempura", "Marauder", "Rorqual", "Bastion", "Genesis", "Meteor", "Crucible", "Corvid", "Naglfar", "Apocalypse", "Absolution"]}

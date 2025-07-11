@@ -1,0 +1,1 @@
+{"ships": ["Retro_Spectre", "Nightmare", "Apocalypse", "Zeus", "Retro_Bastion", "Disruptor", "Astraeus", "Stealth_B-2", "Theia", "Zhen", "Retro_Gideon", "Annihilator"], "dead ships": ["Razor_Wing", "Hawklight", "Prometheus", "Retro_Grievion", "Chimera", "Cobra", "Jackal", "Banshee", "Vansnova", "Retro_Aegis", "Retro_Avalon", "Obliterator"]}

@@ -1,0 +1,1 @@
+{"ships": ["Andromeda", "Chimera", "Liberator", "Sagittarius", "Kraken", "Stealth_B-2", "Prototype_X-1", "Odyssey", "Dullahan", "Obliterator", "Oblivion", "Hyperion", "Mjolnheimr", "Retro_Grievion"], "dead ships": ["Armageddon", "Lusso", "Tempest", "Prometheus", "Centurion", "Aeaphiel", "Vansnova", "Judgement", "Witch", "Gideon"]}

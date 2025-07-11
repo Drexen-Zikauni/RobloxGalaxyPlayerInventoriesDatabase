@@ -1,0 +1,1 @@
+{"ships": ["Retro_Cyclops", "Prototype_X-2", "Nautilus"], "dead ships": ["Green_Snake", "Katana", "MLRS", "Retro_Sixfold", "Retro_Gideon", "Retro_Centurion", "Apocalypse"]}

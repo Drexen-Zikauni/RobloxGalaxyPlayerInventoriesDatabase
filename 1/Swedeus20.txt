@@ -1,0 +1,1 @@
+{"ships": ["Naglfar", "Hyperion", "Santaliz", "Andromeda"], "dead ships": ["Zhanado", "Marauder", "Sixfold", "Sabre_Tooth", "Orca", "Tempest", "Warlock", "Leviathan", "Draco", "Crucible", "Onslaught", "Prospector", "Kraken", "Obliterator", "Gideon", "Behemoth", "Vigilance", "Razor_Wing", "Woolly_Mammoth", "Reaver", "Corvid", "Arrow"]}

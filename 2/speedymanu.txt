@@ -1,0 +1,1 @@
+{"ships": ["Avalon", "Retro_Hawklight", "Retro_Bastion", "Annihilator"], "dead ships": ["MLRS", "Gideon", "Stealth_B-2", "Dropship", "Arrow", "Gunslinger", "Prepravca", "Leviathan", "Zhen", "Helios", "Retro_Grievion", "Constellation", "Viper", "Prometheus", "Archangel", "Imperator", "Sentinel", "Phantom", "Jackal", "Theia", "Starblade", "Osiris"]}

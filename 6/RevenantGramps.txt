@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Ampharos", "Apocalypse", "Banshee", "Prospector", "Hercules", "Ishkur", "Macross", "Discordite_Cluster"]}

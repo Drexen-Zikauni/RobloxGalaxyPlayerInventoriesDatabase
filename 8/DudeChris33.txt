@@ -1,0 +1,1 @@
+{"ships": ["Aura", "Prometheus"], "dead ships": ["Tempura", "Harvester", "Sixfold", "Prospector", "Absolution", "Bastion", "Cutlass", "Ishkur", "Apocalypse", "Hasatan", "Constellation", "Leviathan", "Archeon", "Phantom", "Hercules", "Corvid", "Gideon", "Scimitar", "Centurion", "Obliterator", "Vansnova"]}

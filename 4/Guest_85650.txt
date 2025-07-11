@@ -1,0 +1,1 @@
+{"ships": ["Stormbringer", "Apocalypse", "Typhoon", "Obliterator", "Paragon", "Onslaught", "Theia"], "dead ships": ["Katana", "Orca", "Nimitz", "Jackal", "Tennhausen", "Corvid", "Archeon"]}

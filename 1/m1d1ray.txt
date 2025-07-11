@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse"], "dead ships": ["Judgement", "Behemoth", "Crucible", "Zero", "Ridgebreaker", "Gunslinger", "Draco", "Catalyst", "Prospector", "Theia", "Archeon", "Galaxy", "Sagittarius", "Arrow", "Cutlass", "Hawklight", "Zeus", "Sentinel", "Bastion"]}

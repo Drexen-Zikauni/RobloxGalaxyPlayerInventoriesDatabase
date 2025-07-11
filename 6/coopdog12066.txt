@@ -1,0 +1,1 @@
+{"ships": ["Ridgebreaker", "Prometheus"], "dead ships": ["Corvid", "Sovereign", "Leviathan", "Gideon", "Hercules", "Witch", "Discordite_Cluster", "Obliterator", "Apocalypse", "Hyperion"]}

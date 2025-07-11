@@ -1,0 +1,1 @@
+{"ships": ["Gunslinger", "Nyxesion", "Atheon", "Retro_Hawklight", "Prototype_X-3"], "dead ships": ["Constantine", "Aeaphiel", "Cyber_Leviathan", "Blue_Torp_Wasp", "Retro_Prototype_X-1", "Warden", "Snowfall", "Retro_Nyx", "Retro_Ridgebreaker"]}

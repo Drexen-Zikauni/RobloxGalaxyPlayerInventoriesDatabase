@@ -1,0 +1,1 @@
+{"ships": ["Sentaliz", "Apogee"], "dead ships": ["Arrow", "Vigilance", "Retro_Spectre", "Jackal", "Tengu", "Centurion", "Corvid", "Starblade", "Abyss", "Ishkur", "Draco", "Worm", "Archeon", "Sabre_Tooth", "Raven", "Apocalypse", "Cutlass", "Phantom", "Banshee", "Grievion", "Gideon"]}

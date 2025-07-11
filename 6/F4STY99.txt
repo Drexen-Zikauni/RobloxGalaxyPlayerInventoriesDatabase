@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse", "Tempest", "Catalyst", "Valkyrie", "Rapture", "Naglfar"], "dead ships": ["Zero", "Katana", "Tengu", "Jackal", "Judgement", "Grievion", "Zhanado", "Cutlass", "Black_Flare", "Dropship", "Loyalist", "Aeaphiel", "Armageddon", "Cyclops", "Templar", "Argosy", "Zeus", "Icarus", "Deity", "Leviathan", "Archeon"]}

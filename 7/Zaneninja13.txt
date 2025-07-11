@@ -1,0 +1,1 @@
+{"ships": ["Tempest", "Astraeus", "Hyperion", "Cutlass", "Apocalypse", "Ridgebreaker"], "dead ships": ["Gideon", "Banshee", "Katana", "Revelation", "Aegis", "Hawklight", "Catalyst", "Andromeda", "Belvat", "Black_Flare", "Raven", "Viper", "Jackal", "Sagittarius"]}

@@ -1,0 +1,1 @@
+{"ships": ["Executioner", "Hawklight"], "dead ships": ["Avenger", "Archangel", "Valiant", "Chimera", "Judgement", "Razor_Wing", "Permafrost", "Gideon", "Tempest", "Naglfar", "Reaver", "Corvid", "Leviathan"]}

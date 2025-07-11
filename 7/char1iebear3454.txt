@@ -1,0 +1,1 @@
+{"ships": ["Mjolnheimr", "Cyclops"], "dead ships": ["Tennhausen", "Orca", "Prospector", "Sovereign", "Loyalist", "E_Class", "Vansnova", "Hasatan"]}

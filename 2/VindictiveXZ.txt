@@ -1,0 +1,1 @@
+{"ships": ["Nightmare", "Odyssey", "Incarnate", "Theia", "Annihilator", "Prototype_X-2", "Stealth_B-2", "Atheon", "Helios", "Zhen", "A_-_Brawler", "Astraeus", "A_-_Bruiser", "Onslaught", "Aeaphiel", "Prototype_X-1", "Apogee", "Vansnova", "Pleasant_Isle", "Frankenemi"], "dead ships": ["Gideon", "Meteor", "Retro_Gideon", "Aegis", "Zhanado", "Banshee", "Retro_Sixfold", "Abaddon"]}

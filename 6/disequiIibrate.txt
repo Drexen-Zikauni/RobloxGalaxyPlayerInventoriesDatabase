@@ -1,0 +1,1 @@
+{"ships": ["Theseus-X", "Armageddon", "Tennhausen", "Ampharos"], "dead ships": ["Zeus", "Cyclops", "Deity", "Chimera", "Phantom", "Viper", "Sabre_Tooth", "Reaver"]}

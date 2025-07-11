@@ -1,0 +1,1 @@
+{"ships": ["Cutlass"], "dead ships": ["Woolly_Mammoth", "Nyx", "Arrow", "Razor_Wing", "Banshee", "Prospector", "Argonaut", "Retro_Bastion", "Theia", "Ampharos", "Constellation", "Stealth_Recon", "E_Class", "Viper", "Aeaphiel", "Leviathan"]}

@@ -1,0 +1,1 @@
+{"ships": ["Judgement", "Spirit", "Oblivion", "Onslaught", "A_-_Bruiser", "Annihilator", "Ghoul_Nyx"], "dead ships": ["Spider", "Gryphon", "Sabre_Tooth", "Deity", "Theia", "Maple_Orca", "Naglfar", "Leviathan", "Spiderblade", "Obliterator", "Sentaliz", "Viper"]}

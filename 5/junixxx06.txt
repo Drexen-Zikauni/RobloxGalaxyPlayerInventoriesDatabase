@@ -1,0 +1,1 @@
+{"ships": ["Apogee", "Odyssey"], "dead ships": ["Zhanado", "Vansnova", "Belvat", "Valiant", "Raven", "Jackal", "Banshee", "Nisos", "Absolution", "Andromeda", "Starblade", "Constantine", "Icicle", "Tempura", "Rapture", "MLRS", "Nightmare", "Osprey", "Judgement", "Onslaught"]}

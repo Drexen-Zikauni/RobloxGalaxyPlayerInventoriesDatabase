@@ -1,0 +1,1 @@
+{"ships": ["Zhen", "Macross", "Cyclops", "A_-_Brawler", "Deity", "Paragon", "A_-_Bruiser"], "dead ships": ["Gideon", "Hawklight", "Icarus", "Atheon", "Dropship", "Viper", "Raven", "Belvat", "Archeon", "Annihilator"]}

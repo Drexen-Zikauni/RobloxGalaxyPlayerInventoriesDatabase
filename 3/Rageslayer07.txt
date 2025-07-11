@@ -1,0 +1,1 @@
+{"ships": ["Witch", "Jackal"], "dead ships": ["Hawklight", "Xenon", "Sentaliz", "Andromeda", "Starblade", "Sabre_Tooth", "Viper", "Revelation", "Templar", "Galaxy", "Starfall", "Lusso", "Tengu", "Banshee", "Vansnova", "Scimitar", "Abyss", "Ampharos", "Python", "Zhanado"]}

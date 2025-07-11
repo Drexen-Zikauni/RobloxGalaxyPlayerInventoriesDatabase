@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Vansnova", "Spider", "Sixfold", "Dire_Wolf", "Centurion", "Witch", "Draco", "Viper", "Reaver", "Razor_Wing", "Jackal", "Ishkur", "Corvid", "Belvat"]}

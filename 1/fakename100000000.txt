@@ -1,0 +1,1 @@
+{"ships": ["Jackal", "Astraeus"], "dead ships": ["Ridgebreaker", "Archeon", "Icarus", "3D_Printed_Apocalypse", "Sentaliz", "Draco", "Apocalypse", "Black_Flare", "Stealth_Recon", "Centurion", "Phantom"]}

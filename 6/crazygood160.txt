@@ -1,0 +1,1 @@
+{"ships": ["Katana"], "dead ships": ["Grievion", "Revelation", "Behemoth", "Stealth_Recon", "Theia", "Zillavik", "Stealth_B-2", "Arrow", "Tennhausen", "Andromeda", "Tempest", "Borealis"]}

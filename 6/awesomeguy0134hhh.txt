@@ -1,0 +1,1 @@
+{"ships": ["Subjugator", "Obliterator", "Loyalist", "Marauder", "Cutlass", "Apocalypse"], "dead ships": ["Hawklight", "Grievion", "Valiant", "Prometheus", "Incarnate", "Leviathan", "Razor_Wing", "Banshee", "Zhanado", "Viper", "Theseus-X", "Cyclops", "Retro_Spectre", "Sagittarius", "Theia", "Corvid", "Naglfar", "Macross", "Xenon", "Gunslinger", "Sovereign", "Aeaphiel", "Phantom"]}

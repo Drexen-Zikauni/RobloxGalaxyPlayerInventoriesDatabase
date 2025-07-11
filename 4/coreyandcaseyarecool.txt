@@ -1,0 +1,1 @@
+{"ships": ["Hasatan"], "dead ships": ["Avenger", "Rorqual", "Orca", "Prospector", "Chimera", "Hercules", "Leviathan", "Viper", "Hawklight", "Behemoth", "Stealth_Recon", "Constantine", "Centurion", "Rapture", "Witch", "Galaxy", "Cutlass", "Arrow", "Dropship", "Prometheus"]}

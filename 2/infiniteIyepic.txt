@@ -1,0 +1,1 @@
+{"ships": ["Deity", "Zeus", "Apocalypse"], "dead ships": ["3D_Printed_Warlock", "3D_Printed_Apocalypse", "Kapisi", "Leviathan", "Armageddon", "Centurion", "Theia", "Nyx", "Nimitz", "Defiance", "Warlock", "Galaxy", "Prometheus"]}

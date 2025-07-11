@@ -1,0 +1,1 @@
+{"ships": ["Inquisitor"], "dead ships": ["Cutlass", "Warden", "Sentinel", "Osprey", "Genesis", "Zhanado", "Starfall", "Marauder", "Valiant", "Sovereign", "Vigilance", "Radiance", "Retribution", "Xenon", "Apocalypse", "Behemoth", "Tennhausen"]}

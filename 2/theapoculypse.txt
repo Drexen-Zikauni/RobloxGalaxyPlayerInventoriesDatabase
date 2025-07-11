@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Absolution", "Vigilance", "Bastion", "Marauder", "Inquisitor", "Hornet", "Ishkur", "Tango", "Phantom", "Invictus", "Scimitar", "Templar", "Rorqual", "Scythe", "Draco", "Archeon"]}

@@ -1,0 +1,1 @@
+{"ships": ["Leviathan", "Cutlass", "Sentaliz", "Onslaught"], "dead ships": ["Witch", "Sixfold", "Absolution", "Scythe", "Helios", "Starblade", "Atheon"]}

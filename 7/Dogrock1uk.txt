@@ -1,0 +1,1 @@
+{"ships": ["Instigator", "Subjugator", "Paragon", "A_-_Bruiser", "A_-_Brawler", "Borealis", "Obliterator", "Pleasant_Isle"], "dead ships": ["Incarnate", "Viper", "Hyperion", "Anathema", "Nautilus", "Apogee", "Bastion", "Conqueror", "Kraken", "Genesis", "Commercial_Miner", "Jupiter", "Warlock", "Nidhogg", "MLRS", "Starblade", "Sentaliz", "Banshee", "Corvid", "Annihilator"]}

@@ -1,0 +1,1 @@
+{"ships": ["Hevnetier", "Elanis", "Apocalypse", "Icarus", "Cutlass", "Ghost", "Macross", "Valkyrie"], "dead ships": ["Python", "Zhanado", "Banshee", "Razor_Wing", "Crucible", "Viper", "Draco", "Starfall"]}

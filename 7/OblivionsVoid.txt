@@ -1,0 +1,1 @@
+{"ships": ["Incarnate", "Prototype_X-2", "Hawklight", "Deity"], "dead ships": ["Warden", "Templar", "Nautilus", "Argosy", "Ridgebreaker", "Sagittarius", "Dropship", "Abyss", "Tennhausen", "Apocalypse", "Archeon", "Hasatan", "Galaxy", "Xenon", "Witch", "Crucible", "Starfall", "Avalon", "Gunslinger", "Helios", "Marauder", "Lusso"]}

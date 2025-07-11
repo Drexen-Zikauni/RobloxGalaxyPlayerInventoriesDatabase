@@ -1,0 +1,1 @@
+{"ships": ["Corvid", "Valiant"], "dead ships": ["Icarus", "Nyx", "Hercules", "Prepravca", "Oblivion", "Gideon", "Tempest", "Orca", "Rhino", "Prometheus", "Tennhausen", "Galaxy", "Revelation", "Dropship", "Nova", "Xenon", "Chimera", "Judgement", "Stormbringer", "Warlock", "Radiance", "Zeus", "Scythe"]}

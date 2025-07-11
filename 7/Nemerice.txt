@@ -1,0 +1,1 @@
+{"ships": ["Valiant", "Loyalist", "Warlock", "Beta_Warlock", "Retro_Centurion", "Retro_Sixfold"], "dead ships": ["Bastion", "Nemesis", "Retro_Cyclops", "Phantom", "Osprey", "Ampharos"]}

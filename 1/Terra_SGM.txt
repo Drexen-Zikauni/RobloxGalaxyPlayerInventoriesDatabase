@@ -1,0 +1,1 @@
+{"ships": ["Astraeus", "Xenon", "Bastion"], "dead ships": ["Aeaphiel", "Rhino", "Prometheus", "Tengu", "Warlock", "Nidhogg", "Black_Flare", "Tennhausen", "Worm", "Banshee", "Loyalist", "Gunslinger", "Dropship", "Jackal", "Orion", "Stealth_Recon", "Deity", "Ibis", "Templar", "Anathema", "Invictus"]}

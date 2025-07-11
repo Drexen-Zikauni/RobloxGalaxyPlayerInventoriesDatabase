@@ -1,0 +1,1 @@
+{"ships": ["Instigator", "Genesis", "MLRS", "Apocalypse"], "dead ships": ["Chimera", "Starfall", "Black_Flare", "Ridgebreaker", "Jackal", "Lusso", "Xenon", "Gideon", "Viper", "Hasatan", "Scimitar", "Scythe", "Dropship", "The_Patriot", "Archangel", "Raven", "Loyalist", "Sagittarius", "E_Class", "Argosy"]}

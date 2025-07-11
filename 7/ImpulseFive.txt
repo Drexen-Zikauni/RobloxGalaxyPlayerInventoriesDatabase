@@ -1,0 +1,1 @@
+{"ships": ["Jackal", "Odyssey", "Antares", "Aedes", "Warlock"], "dead ships": ["Rhino", "Aeaphiel", "Crucible", "Hecate", "Loyalist", "Sixfold", "Permafrost", "Aegis", "Andromeda", "Tempest", "Witch", "Behemoth", "Atheon", "Judgement", "Sovereign", "Apogee", "Nemesis", "Apocalypse"]}

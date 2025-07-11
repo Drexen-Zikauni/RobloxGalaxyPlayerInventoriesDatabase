@@ -1,0 +1,1 @@
+{"ships": ["Sovereign"], "dead ships": ["Warlock", "Archeon", "Mammoth", "Sagittarius", "Apocalypse", "Hasatan", "Sentaliz", "Mjolnheimr", "MLRS", "Stealth_Recon"]}

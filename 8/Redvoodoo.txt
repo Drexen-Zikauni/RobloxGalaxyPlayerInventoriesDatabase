@@ -1,0 +1,1 @@
+{"ships": ["Bastion", "Cutlass", "Oblivion", "Osiris"], "dead ships": ["MLRS", "Nisos", "Archeon", "Catalyst", "Loyalist", "Behemoth", "Lusso", "Grievion", "Belvat", "Gryphon", "Avenger", "Retro_Grievion", "Viper", "Hasatan"]}

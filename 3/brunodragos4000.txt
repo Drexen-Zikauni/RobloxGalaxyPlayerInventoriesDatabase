@@ -1,0 +1,1 @@
+{"ships": ["Theia", "Cyclops", "Helios", "Astraeus"], "dead ships": ["Hercules", "Abyss", "Sixfold", "Absolution", "Tengu", "Avalon", "Draco", "Lusso", "Razor_Wing", "Aura", "Banshee", "Ridgebreaker", "Archeon", "Zeus", "Oppressor", "Vansnova", "Gideon", "Leviathan", "Dropship", "Hawklight", "Retro_Sixfold", "Nidhogg", "Nightmare", "Apocalypse", "Atheon", "Vigilance"]}

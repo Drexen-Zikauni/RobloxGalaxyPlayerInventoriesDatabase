@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Zhanado", "Radiance", "Prospector", "The_Patriot", "Banshee", "Bastion", "Marauder", "Saturn", "Retribution", "Sovereign", "Behemoth", "E_Class", "Starblade", "Hasatan", "Avalon", "Hercules", "Stealth_B-2", "Armageddon", "Katana", "Vigilance", "Ridgebreaker"]}

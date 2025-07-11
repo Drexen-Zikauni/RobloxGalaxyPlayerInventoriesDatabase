@@ -1,0 +1,1 @@
+{"ships": ["Instigator"], "dead ships": ["Warlock", "Archangel", "Nimitz", "Centurion", "Crucible", "Defiance", "Leviathan", "Chimera", "3D_Printed_Apocalypse", "Andromeda"]}

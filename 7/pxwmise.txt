@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Prospector", "Andromeda", "Corvid", "Dropship", "Vigilance", "Xenon", "Zero", "Ridgebreaker", "Crucible", "Mjolnheimr", "Tango", "Templar", "Gideon", "Cutlass", "Avalon", "Katana", "Armageddon", "Zeus", "Absolution", "Tengu"]}

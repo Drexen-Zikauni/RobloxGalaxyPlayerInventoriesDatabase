@@ -1,0 +1,1 @@
+{"ships": ["Cobra"], "dead ships": ["Cutlass", "Hasatan", "Retro_Sixfold", "Zeus", "Catalyst", "Loyalist", "Hecate", "Judgement", "Archeon", "Retro_Grievion", "Ridgebreaker", "Draco", "Black_Flare", "Orion", "Avalon", "Aura", "Apocalypse", "Sagittarius", "Rapture"]}

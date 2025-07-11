@@ -1,0 +1,1 @@
+{"ships": ["Bastion", "Sixfold", "Cyclops", "Cutlass", "Black_Flare"], "dead ships": ["Draco", "Phantom", "Sabre_Tooth", "Chimera", "Oppressor", "Meteor", "Gideon", "Banshee", "Templar", "Invictus"]}

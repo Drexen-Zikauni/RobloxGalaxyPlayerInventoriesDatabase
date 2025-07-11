@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Gunslinger", "Hawklight", "Cutlass", "Warden", "Corvid", "Hasatan", "Ampharos", "Bastion", "Archangel", "Archeon", "Python", "Nidhogg", "Centurion", "Phantom", "Armageddon", "Loyalist", "Leviathan", "Zero", "Scimitar", "Razor_Wing", "Cyclops", "Macross", "Oppressor", "Abyss", "Zeus", "Defiance", "Draco", "Katana"]}

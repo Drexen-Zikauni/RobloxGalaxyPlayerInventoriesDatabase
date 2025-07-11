@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Orca", "Marauder", "Hawklight", "Genesis", "Vigilance", "Invictus", "Rorqual", "Leviathan", "Tennhausen", "Inquisitor", "Absolution", "Spectre", "Ampharos", "Sagittarius", "Cutlass", "Catalyst"]}

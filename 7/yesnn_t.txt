@@ -1,0 +1,1 @@
+{"ships": ["Tempest", "Kapisi", "Zeus", "Hyperion", "Apocalypse"], "dead ships": ["Hasatan", "Xenon", "Theia", "Constellation", "Judgement", "Sovereign", "Banshee", "Sagittarius", "Hawklight", "Rapture", "Loyalist", "Razor_Wing", "Ampharos", "Sentinel"]}

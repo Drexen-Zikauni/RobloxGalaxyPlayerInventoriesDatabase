@@ -1,0 +1,1 @@
+{"ships": ["Retribution"], "dead ships": ["Stealth_Recon", "Nightmare", "MLRS", "Lich", "Starblade", "Banshee", "Tengu", "Reaver", "Python", "Valiant", "Paragon", "Macross", "Crucible"]}

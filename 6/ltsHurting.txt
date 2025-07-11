@@ -1,0 +1,1 @@
+{"ships": ["Bastion"], "dead ships": ["Zero", "Chimera", "Cyclops", "Aegis", "Ampharos", "Sagittarius", "Leviathan", "Warden", "Ridgebreaker", "Cutlass", "Crucible", "Witch", "Oblivion", "Tempest"]}

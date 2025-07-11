@@ -1,0 +1,1 @@
+{"ships": ["Nautilus", "Icarus", "Tempest", "Razor_Wing"], "dead ships": ["Loyalist", "Leviathan", "Viper", "Constellation", "Kraken", "Macross", "Tengu", "Starblade", "Centurion", "Sentinel", "Imperator", "Xenon", "Retro_Hawklight", "Atheon"]}

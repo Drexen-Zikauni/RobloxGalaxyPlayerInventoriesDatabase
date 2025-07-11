@@ -1,0 +1,1 @@
+{"ships": ["Theseus-X", "Blood_Wing", "Imperator", "Retro_Sixfold", "Nightmare", "Retro_Hawklight"], "dead ships": ["Corvid", "Oppressor", "Hecate", "Lusso", "Phantom", "Razor_Wing", "Armageddon", "Retro_Gideon", "Viper", "Vigilance"]}

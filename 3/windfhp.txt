@@ -1,0 +1,1 @@
+{"ships": ["Loyalist"], "dead ships": ["MLRS", "Ishkur", "Banshee", "Jackal", "Draco", "Raven", "Cobra", "Osprey", "Spider", "Valiant", "Viper", "Zero", "Tengu", "Abyss", "Corvid", "Python", "Gideon", "Xenon", "Templar", "Arrow", "Zhanado", "Galaxy", "Lich", "Archeon", "Leviathan", "Avenger"]}

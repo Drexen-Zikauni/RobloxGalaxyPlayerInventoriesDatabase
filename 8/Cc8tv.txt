@@ -1,0 +1,1 @@
+{"ships": ["Razor_Wing", "Cutlass", "Theia", "Andromeda", "Stealth_Recon", "Katana"], "dead ships": ["Apocalypse", "Argonaut", "Nemesis", "Xenon", "Bastion", "Viper", "Gryphon", "Marauder", "Retro_Centurion", "Icarus", "Tengu", "Onslaught", "Gideon", "Ampharos", "Commercial_Miner", "Draco", "Worm", "Catalyst", "Stormbringer"]}

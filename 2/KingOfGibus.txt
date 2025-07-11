@@ -1,0 +1,1 @@
+{"ships": ["Valkyrie", "Inquisitor", "Oblivion"], "dead ships": ["Galaxy", "Gideon", "Nova", "MLRS", "Apocalypse", "Retribution", "Archeon", "Starblade", "Bastion", "Marauder", "Leviathan", "Sentinel", "Crucible", "Retro_Prototype_X-1", "Absolution", "Deity", "Retro_Cyclops"]}

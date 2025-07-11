@@ -1,0 +1,1 @@
+{"ships": ["Paragon"], "dead ships": ["Ampharos", "Leviathan", "Banshee", "Apocalypse", "Sovereign", "Gunslinger", "Razor_Wing", "Corvid", "Galaxy", "Crucible"]}

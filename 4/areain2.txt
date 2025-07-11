@@ -1,0 +1,1 @@
+{"ships": ["Revenge"], "dead ships": ["Hercules", "Armageddon", "Stormbringer", "Viper", "Archeon", "Zhanado", "Dramiel", "Jackal", "Belvat", "Andromeda", "Genesis", "Vigilance", "Bastion", "Meteor", "Arrow", "Apocalypse"]}

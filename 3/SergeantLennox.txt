@@ -1,0 +1,1 @@
+{"ships": ["Paragon", "Executioner", "Onslaught", "Loyalist", "Archeon"], "dead ships": ["Behemoth", "Sentaliz", "Warlock", "Ridgebreaker", "Sagittarius", "MLRS", "Jackal", "Vansnova", "Centurion", "Apocalypse", "Naglfar", "Osiris", "Judgement", "Leviathan", "Venerator", "Banshee"]}

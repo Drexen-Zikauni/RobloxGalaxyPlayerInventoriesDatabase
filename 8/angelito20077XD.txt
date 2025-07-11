@@ -1,0 +1,1 @@
+{"ships": ["Valiant"], "dead ships": ["Dropship", "Macross", "Inquisitor", "Sentinel", "Nisos", "Orion", "Zeus", "Sovereign", "Zero", "Hercules", "Zhanado", "Icy", "Banshee", "Corvid", "Archeon", "Bastion", "Xenon", "Templar", "Gideon", "Behemoth", "Catalyst", "Vigilance"]}

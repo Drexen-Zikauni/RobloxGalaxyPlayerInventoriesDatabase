@@ -1,0 +1,1 @@
+{"ships": ["Tempest", "Loyalist", "Bastion", "Andromeda", "Gunslinger", "Deity", "Aura"], "dead ships": ["Absolution", "Phantom", "Judgement", "Leviathan", "Banshee", "Tengu", "Razor_Wing", "Jackal", "Aeaphiel", "Sentaliz", "Scythe", "Constantine", "Gideon", "Apostle", "MLRS"]}

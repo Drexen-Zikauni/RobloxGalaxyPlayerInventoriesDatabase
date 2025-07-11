@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Tango", "Zero", "Meteor", "Cobra", "Katana", "Apocalypse", "Sagittarius", "MLRS", "Catalyst", "Chimera", "Constantine", "Zeus", "Tengu", "Commercial_Miner", "Ampharos", "Absolution", "Archangel", "Draco", "Abyss", "Ishkur", "Marauder", "Nisos", "Reaver", "Worm", "Cutlass", "Tempest", "Tennhausen"]}

@@ -1,0 +1,1 @@
+{"ships": ["Hailstorm", "Frostfire", "Retro_Grievion", "Liberator", "Helios", "Nightmare", "Retro_Gideon", "Gideon", "Paragon", "Theia"], "dead ships": ["Scimitar", "Bastion", "Meteor", "Jackal", "Razor_Wing", "Leviathan", "Banshee", "Archeon"]}

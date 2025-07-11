@@ -1,0 +1,1 @@
+{"ships": ["Dire_Wolf", "Nightmare", "Atheon", "Prometheus", "Apocalypse", "Antares", "Bone_Ampharos"], "dead ships": ["Witch", "Viper", "Mjolnheimr", "Tempest", "Arrow", "Spider", "Zhanado", "Imperator", "Sixfold", "Centurion", "Tempura", "Grievion", "Corvid", "Banshee", "Sabre_Tooth", "Aura"]}

@@ -1,0 +1,1 @@
+{"ships": ["Annihilator"], "dead ships": ["Nightmare", "Obliterator"]}

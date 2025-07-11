@@ -1,0 +1,1 @@
+{"ships": ["Hyperion", "Deity", "Grievion", "Rapture", "A_-_Bruiser", "Annihilator", "Paragon", "Cutlass"], "dead ships": ["Reaver", "Hercules", "Chimera", "Leviathan", "Ampharos", "Sovereign", "Corvid", "Apocalypse", "Tempest", "Bastion", "Crucible", "Draco", "Tengu", "Mjolnheimr", "Obliterator", "Ridgebreaker", "Vansnova", "Loyalist", "Katana", "Banshee", "Andromeda"]}

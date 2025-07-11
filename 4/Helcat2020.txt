@@ -1,0 +1,1 @@
+{"ships": ["Behemoth", "Leviathan"], "dead ships": ["Archangel", "Nova", "Zero", "Warlock", "Black_Flare", "Belvat", "Viper", "Oppressor", "Osprey", "Nidhogg", "Xenon", "Banshee", "Sabre_Tooth", "Starblade", "Leecher", "Lich", "Sixfold", "Draco"]}

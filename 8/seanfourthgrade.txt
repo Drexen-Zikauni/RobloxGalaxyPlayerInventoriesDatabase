@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Marauder", "Draco", "Ishkur", "Nova", "Zero", "Grievion", "Osprey", "Avenger", "Worm", "Archangel", "Argonaut", "Orion", "Arrow", "Legionnaire", "MLRS", "Bastion", "Prospector", "Reaver", "Gunslinger", "Jackal", "Sentinel", "Hawklight", "Starblade", "Tennhausen", "Galaxy", "Sovereign", "Viper"]}

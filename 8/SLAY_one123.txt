@@ -1,0 +1,1 @@
+{"ships": ["Firehawk"], "dead ships": ["Galaxy", "Hevnetier", "Armageddon", "Razor_Wing", "Sabre_Tooth", "Executioner", "Behemoth", "Sakala"]}

@@ -1,0 +1,1 @@
+{"ships": ["Retro_Gideon", "Retro_Cyclops"], "dead ships": ["Permafrost", "Banshee", "Lusso", "Sabre_Tooth", "Tengu", "Vansnova", "Razor_Wing", "Gideon", "Aegis", "Armageddon", "Corvid", "Dropship", "Apogee", "Starblade", "Viper"]}

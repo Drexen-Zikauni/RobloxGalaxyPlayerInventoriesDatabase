@@ -1,0 +1,1 @@
+{"ships": ["Prototype_X-1", "Gideon", "Reaver", "A_-_Brawler", "Deity", "Executioner", "Annihilator"], "dead ships": ["Permafrost", "Blue_Torp_Wasp", "Genesis", "Abyss", "Lusso", "Jackal", "Razor_Wing", "Viper", "Vansnova", "Hawklight", "Zhanado", "Warlock", "Dropship", "Judgement", "Banshee"]}

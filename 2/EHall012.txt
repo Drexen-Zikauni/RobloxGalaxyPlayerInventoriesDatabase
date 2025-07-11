@@ -1,0 +1,1 @@
+{"ships": ["Hasatan"], "dead ships": ["Plagued_Warship", "Banshee", "Ridgebreaker", "Aeaphiel", "Corvid"]}

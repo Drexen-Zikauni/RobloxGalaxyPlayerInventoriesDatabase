@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Sovereign", "Bastion", "Apocalypse", "Nidhogg", "Osprey", "Orca", "Leviathan", "Archeon"]}

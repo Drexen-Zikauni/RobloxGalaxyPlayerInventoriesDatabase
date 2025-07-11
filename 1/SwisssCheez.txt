@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse", "Valkyrie", "Harbinger", "Double_Fractal"], "dead ships": ["Starblade", "Witch", "MLRS", "Leviathan", "Grievion", "Jackal", "Ridgebreaker", "Sentaliz", "obamasphere", "Prospector", "Andromeda", "Banshee", "Razor_Wing", "Christmas_Tree", "Green_Snake", "Avalon", "Dragon", "Gideon", "Prometheus", "Theia"]}

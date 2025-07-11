@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Warlock", "Judgement", "Witch", "Prepravca", "Constellation", "Leviathan", "Sagittarius", "Hawklight", "Bastion", "Naglfar", "Black_Flare", "Stealth_B-2", "Inquisitor", "Apocalypse"]}

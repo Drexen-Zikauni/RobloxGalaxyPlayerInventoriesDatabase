@@ -1,0 +1,1 @@
+{"ships": ["Warden", "Hasatan", "Icarus", "Cyclops", "Theia", "Onslaught", "Widowmaker"], "dead ships": ["Starblade", "Aeaphiel", "Sentaliz", "Vansnova", "Gunslinger", "Absolution", "Cutlass", "Bastion", "Sixfold", "Arrow", "Venerator", "Apostle", "Galaxy", "Avalon", "Draco", "Orion", "Ampharos", "Gideon", "Paragon"]}

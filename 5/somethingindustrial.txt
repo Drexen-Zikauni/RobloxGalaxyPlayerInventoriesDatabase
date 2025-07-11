@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Tengu", "Aegis", "Orca", "Draco", "Retro_Centurion", "Zeus", "Avalon", "Macross", "Banshee", "Gideon", "Ibis", "Jackal", "Bastion", "Razor_Wing", "Valiant", "Apocalypse", "Archeon", "Cutlass", "Leviathan", "Naglfar", "Sagittarius", "Tennhausen", "Judgement", "Catalyst", "Starblade", "Andromeda", "Hallowlight"]}

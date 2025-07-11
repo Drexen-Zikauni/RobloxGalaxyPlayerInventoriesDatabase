@@ -1,0 +1,1 @@
+{"ships": ["Leviathan", "Tempest", "Liberator", "Retro_Leviathan"], "dead ships": ["Tengu", "Naglfar", "Catalyst", "Draco", "Banshee", "Sixfold", "Saturn", "Hasatan", "Retro_Gideon", "Witch", "Orion", "Apocalypse", "Arrow", "Gunslinger", "Invictus", "Templar", "Spiderblade", "Grievion", "Aeaphiel", "Sentinel", "Scimitar", "Hornet", "Zero", "Razor_Wing"]}

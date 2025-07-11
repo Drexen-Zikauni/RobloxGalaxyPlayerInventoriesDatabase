@@ -1,0 +1,1 @@
+{"ships": ["Retribution", "Valiant", "Kapisi", "Bonehawk", "Judgement", "Atheon", "Tempest", "Slipstream", "Nyx"], "dead ships": ["Catalyst", "Leviathan", "Archeon", "Osprey", "Starblade", "MLRS", "Apocalypse", "Ridgebreaker", "Viper", "Zhanado", "Dropship", "Zeus", "Nightmare", "Vansnova", "Icarus", "Genesis", "Xenon", "Gideon", "Razor_Wing", "Andromeda", "Disruptor", "Draco"]}

@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Retro_Bastion", "Loyalist", "Orca", "Catalyst", "Hercules", "Tempura", "Apocalypse", "Galaxy", "Katana", "Viper", "Theia", "Zeus", "Tempest", "Deity", "Judgement"]}

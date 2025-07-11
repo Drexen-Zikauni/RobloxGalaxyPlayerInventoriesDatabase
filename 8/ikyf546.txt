@@ -1,0 +1,1 @@
+{"ships": ["Oblivion", "Nixesion", "Absolution", "Archeon", "Slipstream", "Hyperion", "Harbinger", "Striker", "Onslaught", "Annihilator", "A_-_Bruiser", "Nightmare", "Paragon"], "dead ships": ["Ridgebreaker", "Vanguard", "Icarus", "Armageddon", "Xenon", "Judgement", "Macross", "Aura", "Apocalypse", "Naglfar", "Nimitz"]}

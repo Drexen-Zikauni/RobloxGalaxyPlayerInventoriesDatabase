@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Retro_Ridgebreaker", "Leecher", "Hawklight", "Beta_Warlock", "Ampharos", "Sentaliz", "Crucible", "Witch", "MLRS", "Nightmare", "Dire_Wolf", "Avalon", "Nemesis", "Draco", "Sagittarius", "Banshee"]}

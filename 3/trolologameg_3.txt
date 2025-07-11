@@ -1,0 +1,1 @@
+{"ships": ["Arrow", "Coldfront"], "dead ships": ["Viper", "Zhanado", "Oppressor", "Gideon", "Banshee", "Mjolnheimr", "Jackal", "Sixfold", "Avalon", "Vansnova", "Scythe", "Starblade", "Centurion", "Witch", "Stealth_Recon", "Sovereign", "Judgement", "Starfall", "Osprey", "Theia", "Chimera", "Python", "Gryphon", "Xenon", "Inquisitor", "Invictus", "Warlock"]}

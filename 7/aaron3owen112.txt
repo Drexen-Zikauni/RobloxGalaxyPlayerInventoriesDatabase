@@ -1,0 +1,1 @@
+{"ships": ["Tempest", "Theia"], "dead ships": ["Genesis", "Jackal", "Nimitz", "Hercules", "Judgement", "Zeus", "Stealth_Recon", "Stealth_B-2", "Warlord", "Xenon", "Nemesis"]}

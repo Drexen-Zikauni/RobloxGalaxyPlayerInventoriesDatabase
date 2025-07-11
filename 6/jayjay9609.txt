@@ -1,0 +1,1 @@
+{"ships": ["Corvid"], "dead ships": ["Draco", "Tennhausen", "Inquisitor", "Judgement", "Revenant", "Loyalist", "Hasatan", "Archeon", "Tempura", "Python", "Argonaut", "Templar"]}

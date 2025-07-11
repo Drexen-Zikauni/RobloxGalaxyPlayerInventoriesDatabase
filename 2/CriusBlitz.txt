@@ -1,0 +1,1 @@
+{"ships": ["Ridgebreaker", "Nightmare", "Gideon", "Apocalypse"], "dead ships": ["obamasphere", "Draco", "Starblade", "Gunslinger", "Banshee", "Avenger", "Crucible", "Lusso", "Corvid", "Tango", "Absolution", "Loyalist", "Apostle", "Sentaliz"]}

@@ -1,0 +1,1 @@
+{"ships": ["Reaver"], "dead ships": ["Corvid", "Warden", "Hawklight", "Aegis", "Gideon", "Razor_Wing", "Argonaut", "Scimitar", "Naglfar", "Draco", "Jackal", "Cyclops", "Banshee", "Gunslinger"]}

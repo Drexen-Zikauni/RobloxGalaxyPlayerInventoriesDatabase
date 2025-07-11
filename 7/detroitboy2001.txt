@@ -1,0 +1,1 @@
+{"ships": ["Harbinger", "Cyclops", "Sovereign", "Prometheus", "Deity", "Retro_Leviathan", "Striker"], "dead ships": ["Nimitz", "Ridgebreaker", "Retribution", "Xenon", "Apocalypse", "Sagittarius", "Judgement", "Jackal", "Astraeus"]}

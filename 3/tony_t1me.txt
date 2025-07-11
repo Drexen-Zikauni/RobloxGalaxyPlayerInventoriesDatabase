@@ -1,0 +1,1 @@
+{"ships": ["Naglfar", "Cutlass"], "dead ships": ["Inquisitor", "Rorqual", "Bastion", "Rapture", "Grievion", "Judgement", "Razor_Wing", "Sovereign", "Prospector", "Viper", "Stealth_Recon", "Prepravca", "Tengu", "Mjolnheimr", "Xenon", "Tango", "Templar", "Loyalist", "Banshee", "Hawklight", "Theia", "Retro_Sixfold"]}

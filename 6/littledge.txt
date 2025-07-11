@@ -1,0 +1,1 @@
+{"ships": ["Centurion", "Blue_Torp_Wasp", "Nightmare", "Stealth_B-2", "Inquisitor", "Permafrost"], "dead ships": ["Cobra", "Chimera", "Panther", "Phantom", "Dropship", "Arrow", "Corvid", "Sabre_Tooth", "Ishkur", "Crucible", "Sentaliz", "Snowfall", "Banshee", "Xenon", "Andromeda", "Aegis", "E_Class", "Osprey", "The_Patriot", "Gideon", "Leecher"]}

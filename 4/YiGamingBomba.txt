@@ -1,0 +1,1 @@
+{"ships": ["Tennhausen"], "dead ships": ["Crucible", "Inquisitor", "Warlock", "Argonaut", "MLRS", "Marauder", "Starblade", "Loyalist", "Stealth_B-2", "Python", "Corvid", "Gideon"]}

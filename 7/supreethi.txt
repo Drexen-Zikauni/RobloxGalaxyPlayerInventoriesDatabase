@@ -1,0 +1,1 @@
+{"ships": ["Sovereign"], "dead ships": ["Stealth_Recon", "Arrow", "Leviathan", "Atheon", "Templar", "Katana", "Sentaliz", "Bastion", "Razor_Wing", "Andromeda", "Retro_Cyclops", "Deity", "Retro_Leviathan", "Prometheus", "Nyx", "Osiris", "Maple_Orca", "Imperator", "Helios", "E_Class", "Judgement", "Retro_Hawklight", "Nightmare", "Zeus", "Beta_Warlock", "Vanguard"]}

@@ -1,0 +1,1 @@
+{"ships": ["Cutlass", "Retro_Prototype_X-1", "Zillavik", "Loyalist", "Aedes", "Retro_Gideon", "Hailstorm", "Ascendant"], "dead ships": ["Viper", "Sabre_Tooth", "Glacier", "Abyss", "Witch", "Tempest"]}

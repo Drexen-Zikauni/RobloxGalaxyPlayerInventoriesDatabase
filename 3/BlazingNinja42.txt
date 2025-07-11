@@ -1,0 +1,1 @@
+{"ships": ["Sabre_Tooth", "Warlord", "Nightmare", "Archeon", "Elanis", "Prometheus", "Harbinger"], "dead ships": ["Draco", "Python", "Prospector", "Apocalypse", "Katana", "Banshee", "Jackal"]}

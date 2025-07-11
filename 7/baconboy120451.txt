@@ -1,0 +1,1 @@
+{"ships": ["Nightmare", "Apogee", "Incarnate", "Theseus-X", "Onslaught", "Pleasant_Isle", "Subjugator", "Snowfall", "Zhen"], "dead ships": ["Aeaphiel", "Aegis", "Sentaliz", "Zero", "Lich", "Stealth_B-2", "Permafrost", "Atheon"]}

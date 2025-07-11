@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Ridgebreaker", "Behemoth", "MLRS", "Centurion", "Zero", "Gideon", "Marauder", "Tennhausen", "Worm", "Orion", "Judgement", "Hawklight", "Bastion", "Warden", "Draco", "Spectre"]}

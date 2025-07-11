@@ -1,0 +1,1 @@
+{"ships": ["Elanis", "Ampharos"], "dead ships": ["Macross", "Andromeda", "E_Class", "Tennhausen", "Cutlass", "Judgement", "Sagittarius", "Viper", "Centurion", "Ishkur", "Mjolnheimr", "Gunslinger", "Spider", "Katana", "Inquisitor", "Bastion"]}

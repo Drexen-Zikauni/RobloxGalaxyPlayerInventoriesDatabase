@@ -1,0 +1,1 @@
+{"ships": ["Aegis", "Hyperion", "Sagittarius", "Annihilator", "A_-_Bruiser", "Catalyst", "Obliterator", "Bonehawk", "Sovereign", "Retro_Prototype_X-1"], "dead ships": ["Witch", "Apocalypse", "E_Class", "Loyalist", "Banshee", "Apogee", "Oblivion", "Leviathan", "Kapisi"]}

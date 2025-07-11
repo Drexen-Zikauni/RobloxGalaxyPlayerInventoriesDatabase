@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse"], "dead ships": ["Nidhogg", "Stealth_B-2", "Reaver", "Valiant", "Aegis", "Tempest", "Marauder", "Ridgebreaker", "Jackal", "Witch", "Legionnaire", "Xenon"]}

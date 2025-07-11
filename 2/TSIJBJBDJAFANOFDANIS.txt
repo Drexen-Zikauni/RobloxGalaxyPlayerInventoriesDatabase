@@ -1,0 +1,1 @@
+{"ships": ["Annihilator"], "dead ships": ["Razor_Wing", "Gideon", "Oppressor", "Argonaut", "Loyalist", "Galaxy", "Vansnova", "Centurion", "MLRS", "Prepravca", "Leviathan", "Abyss", "Nidhogg", "Cutlass", "Hasatan", "Stealth_Recon", "Paragon", "Black_Flare", "Hyperion", "Corvid", "Cobra", "Chimera", "Tengu", "Macross", "Draco", "Templar", "Archeon"]}

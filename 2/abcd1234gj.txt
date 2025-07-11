@@ -1,0 +1,1 @@
+{"ships": ["Cutlass", "Nightmare"], "dead ships": ["Argosy", "Sovereign", "Legionnaire", "Starblade", "Behemoth", "Hawklight", "Valiant", "Abyss", "Zhen", "Zhanado", "Gideon", "Corvid", "Theia"]}

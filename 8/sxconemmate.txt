@@ -1,0 +1,1 @@
+{"ships": ["Harbinger", "Prometheus", "Ampharos"], "dead ships": ["Aeaphiel", "Crucible", "Razor_Wing", "Loyalist", "Gunslinger", "Gideon"]}

@@ -1,0 +1,1 @@
+{"ships": ["Cutlass", "Andromeda", "Aedes", "Snowfall", "3D_Printed_Apocalypse"], "dead ships": ["Chimera", "Python", "Sovereign", "Xenon", "Gideon", "Loyalist", "Permafrost", "Hyperion"]}

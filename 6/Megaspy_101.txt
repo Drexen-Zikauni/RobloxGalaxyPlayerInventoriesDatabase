@@ -1,0 +1,1 @@
+{"ships": ["Valkyrie", "Loyalist", "Archeon", "Black_Flare"], "dead ships": ["Katana", "Viper", "Defiance", "Crucible", "Witch", "Jackal", "Genesis", "Hawklight", "Xenon", "Banshee", "Centurion", "Sentaliz", "Bastion", "Dire_Wolf", "Macross", "Lusso", "Sabre_Tooth", "Nisos", "Scimitar", "Reaver", "Corvid", "Starblade", "Razor_Wing", "Gideon"]}

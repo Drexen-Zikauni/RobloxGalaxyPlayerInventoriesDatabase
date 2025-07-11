@@ -1,0 +1,1 @@
+{"ships": ["Onslaught", "3D_Printed_Apocalypse"], "dead ships": ["Zeus", "Witch", "Nimitz", "Oblivion", "Loyalist", "Warlock", "Armageddon", "E_Class", "Double_Fractal"]}

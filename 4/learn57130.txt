@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Gunslinger", "Tempura", "Abyss", "Draco", "Avenger", "Sabre_Tooth", "Dropship", "Phantom", "Corvid", "Zero", "Viper", "Prospector", "Ishkur", "Raven", "Spider", "Orion", "Razor_Wing", "Archangel", "Zhanado", "Scimitar", "Starblade"]}

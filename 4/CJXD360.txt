@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Corvid", "Inquisitor", "Aura", "Reaver", "Mammoth", "Scythe", "Loyalist", "Aeaphiel", "Black_Flare", "Panther", "Legionnaire", "Witch", "Dire_Wolf", "Archeon", "Katana", "Ridgebreaker", "Hawklight", "Apocalypse", "Warlock", "Crucible"]}

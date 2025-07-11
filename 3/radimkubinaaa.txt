@@ -1,0 +1,1 @@
+{"ships": ["Obliterator"], "dead ships": ["Prometheus", "Absolution", "Ampharos", "Abyss", "Oppressor", "Sabre_Tooth", "Meteor", "Draco", "Grievion", "Zero", "Radiance", "Andromeda", "Hawklight", "Warlock", "Genesis", "Razor_Wing", "Starfall", "Judgement", "Bastion", "Sentinel", "Orion"]}

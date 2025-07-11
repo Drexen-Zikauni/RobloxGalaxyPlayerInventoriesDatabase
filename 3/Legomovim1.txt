@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Razor_Wing", "Templar", "Retro_Bastion", "Crucible", "Hawklight", "Zeus", "Abyss", "Ridgebreaker", "Hercules", "Zero", "Cobra", "Spider", "Python", "Nidhogg", "Centurion", "Stealth_Recon", "Mjolnheimr", "Prepravca", "Deity", "Draco", "Prometheus", "Theia"]}

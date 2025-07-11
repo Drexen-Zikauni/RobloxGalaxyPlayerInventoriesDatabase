@@ -1,0 +1,1 @@
+{"ships": ["Cutlass"], "dead ships": ["Marauder", "Gunslinger", "Cobra", "Grievion", "Sovereign", "Rorqual", "Zero", "Bastion", "Viper", "Chimera", "Centurion", "Crucible", "Gideon"]}

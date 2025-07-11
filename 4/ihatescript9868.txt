@@ -1,0 +1,1 @@
+{"ships": ["Tempest", "Theia"], "dead ships": ["Bastion", "Prepravca", "Apocalypse", "Marauder", "Tempura", "Leviathan", "Razor_Wing", "Loyalist", "Ampharos", "Hawklight", "Nautilus", "Jackal", "E_Class", "Gideon"]}

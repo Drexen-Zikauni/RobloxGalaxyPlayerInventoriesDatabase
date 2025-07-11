@@ -1,0 +1,1 @@
+{"ships": ["Reaper", "The_Patriot", "Lucifer", "Apogee", "Ridgebreaker"], "dead ships": ["Helios", "Macross", "Draco", "Starblade", "Spiderblade", "Gunslinger", "Corvid", "Green_Snake"]}

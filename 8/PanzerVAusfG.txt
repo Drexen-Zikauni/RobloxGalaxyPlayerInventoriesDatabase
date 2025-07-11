@@ -1,0 +1,1 @@
+{"ships": ["MLRS", "Apocalypse", "Blitz", "Mjolnheimr", "Warlock", "Katana", "Retro_Prototype_X-1", "Gideon", "Loyalist", "Borealis"], "dead ships": ["Valiant", "Raven", "Osprey", "Leviathan", "Lusso", "Jackal", "Icicle", "Vigilance", "Chimera", "Hyperion", "Snowball", "Stealth_B-2", "Tempest", "Cutlass", "Radiance", "Nisos", "Razor_Wing"]}

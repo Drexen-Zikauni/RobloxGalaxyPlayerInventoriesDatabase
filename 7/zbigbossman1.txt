@@ -1,0 +1,1 @@
+{"ships": ["Leviathan", "Executioner", "Onslaught", "Blitz"], "dead ships": ["Constellation", "Draco", "Ridgebreaker", "Apocalypse", "Vansnova", "Crucible", "Sixfold", "Borealis", "Corvid", "Slipstream", "Dire_Wolf"]}

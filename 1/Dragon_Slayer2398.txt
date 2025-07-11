@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Delta_Ship", "Banshee", "Sovereign", "Ridgebreaker", "Sagittarius", "Leviathan", "Avalon", "Judgement", "Galaxy", "Hecate", "Apocalypse", "Razor_Wing", "Naglfar", "Ampharos", "Astraeus"]}

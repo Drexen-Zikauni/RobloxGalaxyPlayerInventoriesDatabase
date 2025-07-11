@@ -1,0 +1,1 @@
+{"ships": ["Cyclops", "Obliterator"], "dead ships": ["Ampharos", "Leviathan", "Archeon", "Warlock", "Apocalypse", "Tempest", "Theia", "Zero", "Sentinel", "Grievion", "Xenon", "Tempura", "Abyss", "Templar", "Corvid", "Retro_Prototype_X-1"]}

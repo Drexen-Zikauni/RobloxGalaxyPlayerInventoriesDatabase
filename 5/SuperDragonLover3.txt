@@ -1,0 +1,1 @@
+{"ships": ["Retro_Andromeda", "Apocalypse"], "dead ships": ["Hasatan", "Zeus", "Genesis", "Sagittarius", "E_Class", "Witch", "Tengu", "Xenon", "Sabre_Tooth", "Lusso", "Draco", "Ishkur", "Gunslinger", "Banshee", "Razor_Wing", "Ampharos", "Templar", "Aegis"]}

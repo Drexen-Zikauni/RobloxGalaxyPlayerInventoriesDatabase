@@ -1,0 +1,1 @@
+{"ships": ["Elanis", "Archeon", "Loyalist"], "dead ships": ["Hevnetier", "Apocalypse", "Tempest", "Andromeda", "MLRS", "Armageddon", "Ishkur", "Prospector", "Corvid", "Gryphon", "Archangel"]}

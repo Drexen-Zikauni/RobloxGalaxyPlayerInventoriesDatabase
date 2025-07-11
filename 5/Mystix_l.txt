@@ -1,0 +1,1 @@
+{"ships": ["Hyperion"], "dead ships": ["Armageddon", "Ridgebreaker", "Galaxy", "Theia", "Mammoth", "Aura", "Avalon", "Deity", "Prometheus", "Obliterator", "Mjolnheimr", "Apocalypse", "Stormbringer", "Andromeda"]}

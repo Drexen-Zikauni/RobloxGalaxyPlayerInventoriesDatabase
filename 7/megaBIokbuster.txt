@@ -1,0 +1,1 @@
+{"ships": ["Theia", "Retro_Andromeda", "Genesis", "Blitz", "Andromeda"], "dead ships": ["Reaver", "Dropship", "Behemoth", "Banshee", "Draco", "Zero", "Nimitz", "Cyclops", "Judgement", "Gideon", "Razor_Wing", "Panther", "Lusso", "Black_Flare", "Tengu", "Chimera", "Witch", "Phantom", "Armageddon", "Warlock", "Ridgebreaker", "Tennhausen", "Borealis", "Hawklight"]}

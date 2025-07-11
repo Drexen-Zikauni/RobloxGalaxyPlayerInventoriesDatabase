@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Rorqual", "Archeon", "Orca", "Ridgebreaker", "Vigilance", "Apocalypse", "Argonaut", "Corvid", "Galaxy", "Osprey", "Absolution", "Chimera", "Cutlass", "Bastion", "Mjolnheimr", "Hecate", "Templar", "Hawklight", "Grievion", "Radiance", "Xenon", "Leviathan", "Sovereign"]}

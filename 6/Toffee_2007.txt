@@ -1,0 +1,1 @@
+{"ships": ["Zeus", "Genesis", "Retro_Grievion"], "dead ships": ["Crucible", "Mjolnheimr", "Katana", "Armageddon", "Absolution", "Tempest", "Hercules", "Galaxy", "Argosy", "Nightmare", "Archeon", "Corvid", "Retro_Hawklight", "Retro_Cyclops", "Bastion", "Leviathan"]}

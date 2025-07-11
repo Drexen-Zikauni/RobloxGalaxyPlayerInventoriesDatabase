@@ -1,0 +1,1 @@
+{"ships": ["Mjolnheimr", "Ampharos", "Apogee", "Aura", "Ishkur", "Stealth_One", "Vansnova"], "dead ships": ["Zero", "Banshee", "Panther", "Orion", "Tempura", "Apostle", "Abyss", "Arrow", "Aeaphiel", "Gideon", "Starblade", "Oppressor", "Corvid", "Sentaliz"]}

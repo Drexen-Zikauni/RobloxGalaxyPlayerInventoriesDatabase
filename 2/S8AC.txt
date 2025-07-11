@@ -1,0 +1,1 @@
+{"ships": ["Genesis", "Loyalist", "Obliterator", "Archeon", "Paragon", "Nightmare", "Helios", "Theia", "Disruptor", "Onslaught", "Apocalypse"], "dead ships": ["Draco", "Behemoth", "Retro_Bastion", "Hawklight", "Hasatan", "Corvid", "Starblade", "Zhen", "Macross"]}

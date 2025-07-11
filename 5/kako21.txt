@@ -1,0 +1,1 @@
+{"ships": ["Tempest", "Instigator"], "dead ships": ["Abyss", "Oppressor", "Sagittarius", "Viper", "Behemoth", "Archeon", "Bastion", "Vanguard", "Warden", "Retribution", "Katana", "Sabre_Tooth", "Judgement", "Loyalist", "Vigilance", "Stealth_Recon", "Icarus"]}

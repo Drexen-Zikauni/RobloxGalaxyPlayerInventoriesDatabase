@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Leviathan", "Nightmare", "Katana", "Warlock", "E_Class", "Galaxy", "Tengu", "Ampharos", "Oppressor", "Zero", "Zeus", "Ridgebreaker", "Bastion", "Andromeda", "Heartbreaker", "Commercial_Miner", "Hyperion", "Judgement", "Lazarus", "Rorqual", "Legionnaire", "Retro_Bastion"]}

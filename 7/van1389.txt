@@ -1,0 +1,1 @@
+{"ships": ["Prometheus", "Annihilator", "Ampharos", "Apogee", "Nyx"], "dead ships": ["Hawklight", "Radiance", "Nidhogg", "Zeus", "Katana", "Leviathan", "Vigilance", "Osprey", "Apocalypse", "Judgement", "Armageddon"]}

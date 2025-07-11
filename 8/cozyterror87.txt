@@ -1,0 +1,1 @@
+{"ships": ["Zeus", "Slipstream", "Blitz", "Ampharos", "Nightmare", "Osiris"], "dead ships": ["Macross", "Revelation", "Jackal", "Grievion", "Prometheus", "Kapisi", "Leviathan", "Armageddon", "Dropship", "Abyss", "Meteor", "Archangel", "Viper", "Gideon", "Apogee", "Stealth_B-2", "Gryphon", "Hyperion", "Astraeus", "Borealis"]}

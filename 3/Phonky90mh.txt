@@ -1,0 +1,1 @@
+{"ships": ["Andromeda", "Apocalypse", "Theia", "A_-_Bruiser", "Annihilator", "Atheon", "Obliterator", "Nightmare"], "dead ships": ["Banshee", "Cyclops", "Xenon", "Blood_Wing", "Orca", "Tengu", "Jackal", "Armageddon", "Gunslinger", "Corvid", "Nemesis", "Phantom", "Zeus"]}

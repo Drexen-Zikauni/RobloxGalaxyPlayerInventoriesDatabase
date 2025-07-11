@@ -1,0 +1,1 @@
+{"ships": ["Obliterator"], "dead ships": ["Zhen", "Theia", "Leviathan", "Apostle", "Stealth_Recon", "Starblade", "Zhanado", "Corvid", "Inquisitor"]}

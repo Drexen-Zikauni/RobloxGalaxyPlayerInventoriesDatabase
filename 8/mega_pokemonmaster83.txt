@@ -1,0 +1,1 @@
+{"ships": ["Ampharos", "Onslaught", "Starfall"], "dead ships": ["Leviathan", "Katana", "Starblade", "Galaxy", "Kraken", "Judgement", "Vigilance", "Apocalypse", "Archeon", "Draco", "Tengu", "Zhanado", "Radiance", "Sixfold", "Theia", "Xenon", "Bastion", "Gideon", "Banshee", "E_Class", "Imperator"]}

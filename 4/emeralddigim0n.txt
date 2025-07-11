@@ -1,0 +1,1 @@
+{"ships": ["Belvat", "Icarus", "Harbinger"], "dead ships": ["Saturn", "Gunslinger", "Stealth_Recon", "MLRS", "Witch", "Mammoth", "Rorqual", "Aegis", "Warlock", "Archeon", "Hercules", "Hasatan", "Orca", "Andromeda", "Genesis", "Vansnova", "Vanguard", "Galaxy", "Revelation", "Armageddon", "Rhino", "Prometheus", "Judgement"]}

@@ -1,0 +1,1 @@
+{"ships": ["Ampharos", "Ridgebreaker", "Pleasant_Isle", "Nightmare", "Annihilator", "Paragon", "Retro_Ridgebreaker", "Retro_Gideon", "Gideon", "Zhen"], "dead ships": ["Raven", "Jackal", "Stealth_Recon", "Dropship", "Gunslinger", "Leviathan", "Revenge", "Helios", "Santaliz", "Atheon", "Retro_Cyclops", "Xenon", "Onslaught", "Retro_Hawklight", "Disruptor", "Kraken"]}

@@ -1,0 +1,1 @@
+{"ships": ["Stealth_Recon", "Dropship", "Theseus-X"], "dead ships": ["Lusso", "Rorqual", "Belvat", "Black_Flare", "Argosy", "Naglfar", "Witch", "Gunslinger"]}

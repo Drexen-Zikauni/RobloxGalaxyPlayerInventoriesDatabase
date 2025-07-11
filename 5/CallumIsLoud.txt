@@ -1,0 +1,1 @@
+{"ships": ["Lucifer", "Imperator", "Abaddon", "Revenge", "Retro_Prototype_X-2", "Beta_Warlock", "Theseus-X", "Aedes", "Leviathan", "Naglfar", "Prototype_X-2", "Nightmare", "Osiris"], "dead ships": ["Jackal", "Dropship", "Andromeda", "Permafrost", "Chimera", "Absolution", "Behemoth", "Hawklight", "Stealth_Recon", "Retro_Sixfold"]}

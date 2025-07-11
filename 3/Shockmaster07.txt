@@ -1,0 +1,1 @@
+{"ships": ["Razor_Wing"], "dead ships": ["Bastion", "Corvid", "Hercules", "Black_Flare", "Starfall", "Nidhogg", "Xenon", "Archangel", "Oppressor", "Banshee", "Leecher", "Spider", "Avenger", "Abyss", "Defiance", "Draco", "Zero", "Spectre", "Inquisitor"]}

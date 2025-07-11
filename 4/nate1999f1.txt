@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Commercial_Miner", "Ridgebreaker", "Prepravca", "Arrow", "Oppressor", "Zhanado", "Ampharos", "Bastion", "Draco", "Marauder", "Zeus", "Phantom", "Vansnova", "Black_Flare", "Banshee", "Macross", "Genesis", "Behemoth", "Crucible", "Razor_Wing", "Abyss", "Aeaphiel", "Scimitar"]}

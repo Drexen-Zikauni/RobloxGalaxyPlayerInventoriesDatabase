@@ -1,0 +1,1 @@
+{"ships": ["Warlock", "Deity", "Paragon", "Annihilator", "Santaliz", "Retro_Prototype_X-1", "Oblivion"], "dead ships": ["Absolution", "Abyss", "Judgement", "Tempura", "Andromeda", "Loyalist", "Starblade", "Belvat", "Obliterator", "Hyperion", "Viper", "Venerator", "Arrow", "Raven", "Lusso", "Apocalypse", "Double_Fractal", "Retro_Sixfold", "Ghoul_Nyx"]}

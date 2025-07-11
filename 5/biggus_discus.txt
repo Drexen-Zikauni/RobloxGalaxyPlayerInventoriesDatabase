@@ -1,0 +1,1 @@
+{"ships": ["Xenon", "Retro_Leviathan", "Retro_Sixfold", "Retro_Hawklight", "Naglfar"], "dead ships": ["Sixfold", "MLRS", "Witch", "Avenger", "Meteor", "Banshee", "Razor_Wing", "Draco", "Gunslinger", "Aegis", "Phantom"]}

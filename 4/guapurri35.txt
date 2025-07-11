@@ -1,0 +1,1 @@
+{"ships": ["Vanguard"], "dead ships": ["Hercules", "Gideon", "Dropship", "Stormbringer", "Xenon", "Sixfold", "Osprey", "Reaver", "Templar", "Corvid", "Starfall", "Chimera", "Black_Flare", "Dire_Wolf"]}

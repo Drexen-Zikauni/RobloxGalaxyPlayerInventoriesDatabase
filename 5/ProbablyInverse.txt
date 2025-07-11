@@ -1,0 +1,1 @@
+{"ships": ["Odyssey"], "dead ships": ["Loyalist", "Banshee", "Nova", "Apocalypse", "Macross", "Inquisitor", "Theseus-U", "Absolution", "Nisos", "Witch", "Retro_Aegis", "Aegis", "Hawklight", "Incarnate", "Katana"]}

@@ -1,0 +1,1 @@
+{"ships": ["Zeus"], "dead ships": ["Argonaut", "Gideon", "Legionnaire", "Zero", "Sagittarius", "Judgement", "Constantine", "Crucible", "Retribution", "Archangel", "Cutlass", "Dire_Wolf", "Hawklight", "Aeaphiel", "Ridgebreaker", "Meteor", "Chimera", "Gryphon", "Arrow", "Nemesis"]}

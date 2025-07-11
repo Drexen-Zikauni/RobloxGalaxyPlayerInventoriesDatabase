@@ -1,0 +1,1 @@
+{"ships": ["Tempest", "Jupiter", "Cutlass"], "dead ships": ["Katana", "Razor_Wing", "Python", "Viper", "Catalyst", "Draco", "Starfall", "Leviathan", "Lusso", "Abyss", "Mjolnheimr", "Ishkur", "Starblade"]}

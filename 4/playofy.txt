@@ -1,0 +1,1 @@
+{"ships": ["Chimera-N"], "dead ships": ["Cyclops", "Defiance", "Zero", "Black_Flare", "Oppressor", "Starblade", "Nimitz", "Razor_Wing", "Phantom", "Abyss", "Archangel", "Draco", "Stealth_Recon", "Crucible", "Viper", "Corvid", "Judgement", "Nyx", "Jackal", "Absolution", "Grievion", "Ampharos", "Mjolnheimr", "Witch", "Centurion", "Apocalypse", "Nightmare", "Ghost"]}

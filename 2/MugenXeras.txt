@@ -1,0 +1,1 @@
+{"ships": ["Harbinger", "Prometheus", "Slipstream", "Interceptor_F"], "dead ships": ["Osprey", "Ibis", "Loyalist", "Hecate", "Galaxy", "Xenon", "Aeaphiel", "E_Class", "Nimitz", "Subjugator", "Zhen"]}

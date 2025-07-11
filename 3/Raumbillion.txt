@@ -1,0 +1,1 @@
+{"ships": ["Scimitar", "Avalon", "Subjugator"], "dead ships": ["Argonaut", "Corvid", "Hercules", "Tempura", "Oppressor", "Gideon", "MLRS", "Banshee"]}

@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Vansnova", "Katana", "Cutlass", "Dire_Wolf", "Lazarus", "Andromeda", "Leviathan", "Aegis", "Stormbringer", "Zero", "Sagittarius", "Starfall", "Sixfold", "Templar", "Reaver", "Sabre_Tooth", "Behemoth", "Razor_Wing", "Apocalypse"]}

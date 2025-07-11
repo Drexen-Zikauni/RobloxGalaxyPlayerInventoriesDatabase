@@ -1,0 +1,1 @@
+{"ships": ["Warlord"], "dead ships": ["Behemoth", "Tennhausen", "Orca", "Katana", "Galaxy", "Crucible", "Nidhogg", "Archeon", "Vigilance"]}

@@ -1,0 +1,1 @@
+{"ships": ["Judgement", "Retro_Grievion", "Ampharos", "Retro_Bastion", "Retro_Hawklight", "Retro_Gideon", "Gideon", "Ghost", "Bone_Ampharos", "Sixfold"], "dead ships": ["Stealth_Recon", "Absolution", "Macross", "Nimitz", "Scythe", "Zhanado", "Draco", "obamasphere", "Odyssey", "Crucible", "Xenon", "Banshee", "Nightmare", "Prototype_X-1", "Corvid"]}

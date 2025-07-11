@@ -1,0 +1,1 @@
+{"ships": ["Leviathan", "Abaddon", "Requiem", "Retro_Cyclops", "Skeletal_Ghostealis", "Wraith", "Theia", "Vanguard", "Jackal"], "dead ships": ["Grim", "Viking", "Naglfar", "Sixfold", "Reaper", "Plagued_Warship", "Retro_Ridgebreaker", "Osiris", "Kapisi", "Sakala", "3D_Printed_Warlock", "Imperator", "Disruptor"]}

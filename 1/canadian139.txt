@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse", "Nightmare", "Catalyst", "Sovereign", "Katana", "Venerator", "Onslaught"], "dead ships": ["Archeon", "Valiant", "Crucible", "Chimera", "Banshee", "Belvat", "Hasatan", "Draco", "Reaver", "Corvid", "Ridgebreaker", "Cutlass", "Mjolnheimr", "Icarus", "Aeaphiel", "Gideon", "Viper", "Xenon"]}

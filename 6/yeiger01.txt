@@ -1,0 +1,1 @@
+{"ships": ["Atheon", "Incarnate", "A_-_Bruiser", "Kraken", "Annihilator", "Aedes", "Brawler"], "dead ships": ["Templar", "Aura", "Cobra", "Razor_Wing", "Sentaliz", "Andromeda", "Zhanado", "Ibis"]}

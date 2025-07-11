@@ -1,0 +1,1 @@
+{"ships": ["Bastion"], "dead ships": ["Armageddon", "Reaver", "Apocalypse", "Banshee", "Viper", "Retro_Sovereign", "Sovereign", "Stealth_Recon", "Gideon"]}

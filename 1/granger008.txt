@@ -1,0 +1,1 @@
+{"ships": ["Zeus"], "dead ships": ["Leviathan", "Legionnaire", "Macross", "Sovereign", "Witch", "Aeaphiel", "Banshee", "Razor_Wing", "Genesis", "Galaxy", "Lusso", "Draco", "Sentaliz", "Obliterator"]}

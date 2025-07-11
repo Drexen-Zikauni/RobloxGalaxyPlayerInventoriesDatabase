@@ -1,0 +1,1 @@
+{"ships": ["Ampharos"], "dead ships": ["Judgement", "Jackal", "Mammoth", "Prometheus", "Avalon", "Galaxy", "Leviathan", "Tengu", "Katana", "Archeon", "Xenon", "Hyperion", "Apocalypse", "Witch"]}

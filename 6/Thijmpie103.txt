@@ -1,0 +1,1 @@
+{"ships": ["Ampharos"], "dead ships": ["Jack-Al'-Lantern", "Witch", "Ridgebreaker", "E_Class", "Prometheus", "Galaxy", "Black_Flare", "Revelation", "Nyx", "Genesis", "Nemesis", "Stormbringer", "Sagittarius", "Stealth_One", "Leviathan", "Archeon", "Theia", "Disruptor", "Hawklight", "Atheon", "Obliterator"]}

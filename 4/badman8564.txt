@@ -1,0 +1,1 @@
+{"ships": ["Gryphon", "Gideon", "Nidhogg", "Aeaphiel"], "dead ships": ["Lusso", "Sixfold", "Argosy", "Belvat", "Delta_Ship", "Tempest", "Andromeda", "Apocalypse"]}

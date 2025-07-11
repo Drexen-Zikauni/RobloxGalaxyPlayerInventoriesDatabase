@@ -1,0 +1,1 @@
+{"ships": ["Theseus-X", "Theia", "Cyclops", "Odyssey"], "dead ships": ["Starblade", "Tengu", "Draco", "Apogee", "Phantom", "Warlock", "Dropship"]}

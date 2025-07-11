@@ -1,0 +1,1 @@
+{"ships": ["Valkyrie", "Icarus", "Apocalypse", "Gideon", "Andromeda"], "dead ships": ["Templar", "Radiance", "Gunslinger", "Marauder", "Vansnova", "Witch", "Sentaliz", "Hawklight", "Apogee"]}

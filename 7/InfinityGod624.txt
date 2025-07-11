@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Stealth_Recon", "Macross", "Bastion", "Ampharos", "Nautilus", "Leviathan", "Nimitz", "Tempest", "Judgement"]}

@@ -1,0 +1,1 @@
+{"ships": ["Falcon"], "dead ships": ["Mammoth", "Lich", "Cobra", "Phantom", "Stormbringer", "Apocalypse", "Corvid", "Mjolnheimr", "Templar", "Vansnova", "Permafrost", "Arrow", "Draco"]}

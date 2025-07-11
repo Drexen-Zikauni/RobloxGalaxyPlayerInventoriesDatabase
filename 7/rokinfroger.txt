@@ -1,0 +1,1 @@
+{"ships": ["Ampharos", "Corvid", "Deity", "A_-_Brawler", "Judgement"], "dead ships": ["Aeaphiel", "Viper", "Razor_Wing", "Hawklight", "Tempest", "Genesis", "Obliterator", "Sixfold", "Apocalypse"]}

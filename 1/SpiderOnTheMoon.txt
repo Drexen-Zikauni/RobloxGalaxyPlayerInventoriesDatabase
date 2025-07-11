@@ -1,0 +1,1 @@
+{"ships": ["Retro_Hawklight", "Retro_Cyclops", "Hyperion", "Zillavik", "Bone_Ampharos", "Beta_Warlock", "Zhen", "Astraeus", "Retro_Grievion", "Double_Fractal", "Aberrant"], "dead ships": ["Scythe", "Abyss", "Annihilator", "Stealth_Recon", "Viper", "Zhanado", "Tempest", "Spectre", "Jackal", "Starblade", "Ridgebreaker", "Theia", "Retro_Nyx"]}

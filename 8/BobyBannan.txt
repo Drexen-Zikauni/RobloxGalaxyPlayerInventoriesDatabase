@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Black_Flare", "Marauder", "Absolution", "Grievion", "Commercial_Miner", "Bastion", "Legionnaire", "Dire_Wolf", "Reaver", "Abyss", "Tennhausen", "Katana", "Belvat", "Oppressor", "Raven", "Phantom"]}

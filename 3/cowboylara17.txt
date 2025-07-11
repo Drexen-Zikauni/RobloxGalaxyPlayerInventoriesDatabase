@@ -1,0 +1,1 @@
+{"ships": ["Loyalist"], "dead ships": ["Prometheus", "Hasatan", "Jackal", "Andromeda", "Invictus", "Razor_Wing", "Judgement", "Leviathan", "Atheon", "Tengu", "Avalon", "Galaxy", "Theia", "Gryphon", "Warlock", "Bastion", "Panther", "Xenon", "Imperator", "Viper", "Starblade", "Scimitar", "Sentaliz", "Raven", "Witch", "Nemesis", "Belvat", "Warden"]}

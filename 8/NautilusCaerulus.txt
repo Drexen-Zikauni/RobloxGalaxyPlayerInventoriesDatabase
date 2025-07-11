@@ -1,0 +1,1 @@
+{"ships": ["Kapisi", "Theia", "Hailstorm", "Archeon", "Annihilator", "Onslaught", "Hevnetier", "Sentaliz"], "dead ships": ["Tengu", "Gunslinger", "Stealth_Recon", "Jupiter", "Andromeda", "Abyss"]}

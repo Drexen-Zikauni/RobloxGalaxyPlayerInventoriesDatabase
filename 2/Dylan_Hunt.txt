@@ -1,0 +1,1 @@
+{"ships": ["Mini_Beta_Behemoth"], "dead ships": ["Xenon", "Apocalypse", "Leviathan", "Loyalist", "Retro_Spectre", "Retro_Sovereign", "Sagittarius", "Stealth_One", "Marauder", "Viper", "Centurion", "Galaxy", "obamasphere", "Zeus", "Sakala", "Nisos", "Macross", "Razor_Wing", "Gideon", "Mjolnheimr", "Grievion"]}

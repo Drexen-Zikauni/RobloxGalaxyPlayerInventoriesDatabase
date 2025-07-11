@@ -1,0 +1,1 @@
+{"ships": ["Valiant", "Theseus-X", "Sakala", "Deity", "Retro_Cyclops"], "dead ships": ["Judgement", "Tennhausen", "Phantom", "Andromeda", "Witch"]}

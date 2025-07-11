@@ -1,0 +1,1 @@
+{"ships": ["Vansnova", "Astraeus", "Paragon"], "dead ships": ["Oppressor", "Nidhogg", "Inquisitor", "Gryphon", "Gideon", "Aura", "Leviathan", "Lusso", "Tengu", "Liberator", "Ghost", "Subjugator", "Corvid", "Frankenemi"]}

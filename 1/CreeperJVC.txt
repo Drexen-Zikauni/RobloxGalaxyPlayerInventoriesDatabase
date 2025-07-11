@@ -1,0 +1,1 @@
+{"ships": ["Archeon", "Naga", "Stealth_B-2", "Retro_Gideon", "Nightmare", "Blue_Torp_Wasp"], "dead ships": ["Dropship", "Galaxy", "Tempest", "Oblivion", "Draco", "Andromeda", "Retro_Avalon", "Stealth_Recon"]}

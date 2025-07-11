@@ -1,0 +1,1 @@
+{"ships": ["Striker"], "dead ships": ["Reaver", "Rapture", "Hasatan", "MLRS", "Katana", "Osprey", "Nyx", "Leviathan", "Avalon", "Templar", "Andromeda", "Warlord", "Galaxy", "Aeaphiel", "Judgement", "Sentaliz", "Ampharos", "Razor_Wing", "Stormbringer", "Abyss", "Ishkur", "Starblade", "Oblivion"]}

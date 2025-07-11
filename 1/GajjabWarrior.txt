@@ -1,0 +1,1 @@
+{"ships": ["Nyx", "Stormbringer"], "dead ships": ["Starfall", "Catalyst", "Gunslinger", "Oppressor", "Judgement", "Archeon", "Valiant", "Sovereign", "Cobra", "Avalon", "Razor_Wing", "Arrow", "Sentaliz", "Leviathan", "Astraeus"]}

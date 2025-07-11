@@ -1,0 +1,1 @@
+{"ships": ["Deity"], "dead ships": ["Tennhausen", "Apocalypse", "Ridgebreaker", "Leviathan", "Avalon", "Theia", "Obliterator", "Galaxy", "Crucible", "Grievion", "Loyalist", "Venerator", "Hyperion", "Macross", "Sentinel", "3D_Printed_Warlock"]}

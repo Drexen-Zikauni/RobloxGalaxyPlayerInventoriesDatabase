@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Apostle", "Aura", "MLRS", "Archeon", "Marauder", "Sovereign", "Bastion", "Leviathan", "Orca", "Galaxy", "Hasatan", "Scimitar", "Tennhausen", "Warden", "Prospector", "Sixfold", "Andromeda"]}

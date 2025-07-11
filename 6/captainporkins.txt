@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse", "Naglfar", "Cutlass", "Onslaught", "Dire_Wolf", "Judgement", "Gideon"], "dead ships": ["Belvat", "Zero", "Hawklight", "Phantom", "Bastion", "Leviathan", "Vansnova", "Nova", "Warlock", "Ampharos", "Scythe", "Viper", "Chimera", "Valiant", "Loyalist", "Draco", "Ishkur", "Zhanado", "Corvid", "Raven"]}

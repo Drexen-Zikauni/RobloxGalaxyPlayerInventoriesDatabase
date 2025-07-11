@@ -1,0 +1,1 @@
+{"ships": ["Galaxy", "Retro_Centurion", "Avalon", "Apocalypse", "Loyalist"], "dead ships": ["Belvat", "Catalyst", "Hasatan", "Corvid", "MLRS", "Dropship", "Bastion", "Banshee", "Sovereign", "Retro_Grievion", "Retro_Nyx", "Retro_Sixfold", "Andromeda", "Katana", "Draco", "Macross"]}

@@ -1,0 +1,1 @@
+{"ships": ["Ampharos", "Zeus"], "dead ships": ["E_Class", "Macross", "Witch", "Genesis", "Judgement", "Xenon", "Catalyst", "Loyalist", "Templar", "Avalon", "Apocalypse", "Saturn", "Galaxy"]}

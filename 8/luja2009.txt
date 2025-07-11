@@ -1,0 +1,1 @@
+{"ships": ["Valkyrie", "Icarus"], "dead ships": ["Tengu", "Leviathan", "Stormbringer", "Aegis", "Reaver", "Hecate", "Tango", "Dropship", "Disruptor", "Draco"]}

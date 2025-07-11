@@ -1,0 +1,1 @@
+{"ships": ["Bastion", "Borealis"], "dead ships": ["Tempest", "Gryphon", "Sagittarius", "Ridgebreaker", "Behemoth", "Viper", "Tennhausen", "Razor_Wing", "Warden", "Marauder", "Stormbringer", "Woolly_Mammoth", "Loyalist", "Leviathan", "Hawklight"]}

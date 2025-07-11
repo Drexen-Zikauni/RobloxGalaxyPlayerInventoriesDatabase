@@ -1,0 +1,1 @@
+{"ships": ["Tempest", "Gideon", "Ampharos", "Retro_Ampharos"], "dead ships": ["Naglfar", "Leecher", "Andromeda", "Imperator", "Worm", "Python", "Banshee", "Prototype_X-1", "Atheon", "Sentaliz", "Aeaphiel", "Borealis", "Viper", "Corvid", "Maple_Orca", "Retro_Andromeda"]}

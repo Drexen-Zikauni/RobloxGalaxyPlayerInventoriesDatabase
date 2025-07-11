@@ -1,0 +1,1 @@
+{"ships": ["Leviathan", "Cutlass"], "dead ships": ["Zero", "Crucible", "Rorqual", "Argonaut", "Orca", "Judgement", "Absolution", "Razor_Wing", "Chimera", "Sagittarius", "Avalon", "Sovereign", "Starblade", "Valiant", "Orion", "Oppressor", "Zhanado", "Andromeda", "Galaxy", "Osprey", "Theia", "Xenon", "Katana", "Apocalypse", "Ampharos", "Corvid", "Ishkur", "Lusso"]}

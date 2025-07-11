@@ -1,0 +1,1 @@
+{"ships": ["Apogee", "Stealth_Recon", "Venerator", "Retro_Nyx", "Nyxesion"], "dead ships": ["Viper", "Kraken", "Judgement", "Loyalist", "Warlock", "Arrow", "Jackal"]}

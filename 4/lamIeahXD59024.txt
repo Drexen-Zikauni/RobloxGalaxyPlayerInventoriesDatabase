@@ -1,0 +1,1 @@
+{"ships": ["Theia", "Executioner", "Atheon", "Annihilator", "Banshee", "Nightmare", "Apogee", "The_Patriot", "A_-_Bruiser"], "dead ships": ["Reaver", "Templar", "Permafrost", "Tengu", "Hawklight", "Warden", "Chimera", "Razor_Wing", "Phantom", "Loyalist", "Armageddon", "Gideon", "Hasatan", "Dropship", "Apocalypse", "Xenon", "Jackal", "Scythe", "Absolution"]}

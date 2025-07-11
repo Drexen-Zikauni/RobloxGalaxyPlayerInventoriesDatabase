@@ -1,0 +1,1 @@
+{"ships": ["Nyx", "Tempest", "Apocalypse"], "dead ships": ["Draco", "Razor_Wing", "Warlock", "Osprey", "Theia", "Lusso", "Zhanado", "Katana", "Aura", "Andromeda", "Sentaliz"]}

@@ -1,0 +1,1 @@
+{"ships": ["Avalon", "Apogee", "Retro_Sixfold", "Annihilator", "A_-_Bruiser"], "dead ships": ["Aeaphiel", "Templar", "Revenge", "Retro_Centurion"]}

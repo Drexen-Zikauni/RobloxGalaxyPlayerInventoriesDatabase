@@ -1,0 +1,1 @@
+{"ships": ["Skeletal_Ghostealis", "Blackgate", "Oblivion", "3D_Printed_Apocalypse", "Hailstorm", "Theseus-X", "Prototype_X-1", "3D_Printed_Warlock", "Retro_Naglfar", "Prototype_X-2", "Xenon", "Lucifer"], "dead ships": ["Permafrost", "Python", "Saturn", "Ishkur", "Belvat", "Abyss", "Andromeda", "Nightmare"]}

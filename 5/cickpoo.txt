@@ -1,0 +1,1 @@
+{"ships": ["Retro_Bastion", "Retro_Hawklight", "Apocalypse", "Zhen", "Hawklight", "Naglfar", "Nightmare"], "dead ships": ["Mjolnheimr", "Avenger", "Behemoth", "Gideon", "Banshee", "Gryphon", "Retro_Avalon", "Viper", "Python", "Crucible", "Sabre_Tooth", "Witch", "Jackal", "Corvid", "Theia"]}

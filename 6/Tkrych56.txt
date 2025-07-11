@@ -1,0 +1,1 @@
+{"ships": ["Xenon", "Harbinger", "Prometheus", "Stealth_Recon"], "dead ships": ["Incarnate", "Starfall", "Dropship", "Banshee", "Draco"]}

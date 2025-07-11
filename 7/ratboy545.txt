@@ -1,0 +1,1 @@
+{"ships": ["Mjolnheimr", "Kraken", "Avalon", "Theseus-K"], "dead ships": ["Reaver", "Hecate", "Deity", "Constantine", "Avenger", "Viper", "Scimitar", "Draco"]}

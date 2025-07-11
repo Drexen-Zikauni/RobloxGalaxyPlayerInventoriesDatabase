@@ -1,0 +1,1 @@
+{"ships": ["Dropship", "Banshee"], "dead ships": ["Sixfold", "Reaver", "Zeus", "Xenon", "Ridgebreaker", "Sabre_Tooth", "Gideon", "Naglfar", "Behemoth", "Lusso", "Macross", "Witch", "Catalyst", "Tengu", "Orca", "Draco", "Obliterator", "Jackal", "Defiance", "Nimitz"]}

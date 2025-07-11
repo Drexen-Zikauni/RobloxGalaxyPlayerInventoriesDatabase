@@ -1,0 +1,1 @@
+{"ships": ["Hasatan", "Oblivion", "Slipstream", "Hyperion"], "dead ships": ["Vansnova", "Starblade", "Jackal", "Stealth_Recon", "Scimitar", "Nyx"]}

@@ -1,0 +1,1 @@
+{"ships": ["Leviathan"], "dead ships": ["Arrow", "Judgement", "Retro_Gideon", "Crucible", "Draco", "Zero", "Catalyst", "Apocalypse", "Legionnaire", "Loyalist", "Andromeda", "Lusso", "Hevnetier", "Ibis", "Gideon", "Tengu"]}

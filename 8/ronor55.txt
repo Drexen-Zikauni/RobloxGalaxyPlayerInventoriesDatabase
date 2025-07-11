@@ -1,0 +1,1 @@
+{"ships": ["Obliterator"], "dead ships": ["Katana", "Sentaliz", "Bastion", "Worm", "Dragon", "Xenon", "Draco", "Viper", "Sagittarius", "Loyalist", "Absolution", "Apocalypse", "Odyssey", "Macross", "Leviathan", "Arrow", "Astraeus", "Venerator", "Tango", "Apogee", "MLRS", "Crucible"]}

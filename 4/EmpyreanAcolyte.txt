@@ -1,0 +1,1 @@
+{"ships": ["Vanguard", "Reaver", "Zhen"], "dead ships": ["Chimera", "Draco", "Orion", "Obliterator", "Zhanado", "Witch", "Banshee", "Templar", "Dropship", "Viper", "Razor_Wing", "Tengu", "Aeaphiel", "Crucible", "Xenon"]}

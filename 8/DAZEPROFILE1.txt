@@ -1,0 +1,1 @@
+{"ships": ["Tempest", "Zhen"], "dead ships": ["Vansnova", "Crucible", "Draco", "Starblade", "Scimitar", "Black_Flare", "MLRS", "Osprey", "Banshee", "Centurion", "Abyss", "Reaver", "Grievion", "Ishkur", "Theia", "Constantine"]}

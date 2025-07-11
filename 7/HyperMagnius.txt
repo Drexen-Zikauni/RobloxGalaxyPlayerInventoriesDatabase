@@ -1,0 +1,1 @@
+{"ships": ["Mjolnheimr", "Banshee", "Judgement"], "dead ships": ["Apocalypse", "Razor_Wing", "Leviathan", "Andromeda", "Avalon", "Catalyst", "Vansnova"]}

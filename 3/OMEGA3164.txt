@@ -1,0 +1,1 @@
+{"ships": ["Executioner", "Nidhogg", "Retro_Nyx", "Antares", "Katana"], "dead ships": ["Corvid", "Python", "Gunslinger", "Black_Flare", "Mjolnheimr", "Hawklight", "Genesis", "Lusso", "Naglfar", "Vansnova", "Gideon", "Aegis", "Zero", "Aura", "Leecher", "Sentinel", "Dropship", "Permafrost", "Razor_Wing", "Argonaut"]}

@@ -1,0 +1,1 @@
+{"ships": ["Draco"], "dead ships": ["Rorqual", "Archeon", "Arrow", "Apocalypse", "Hawklight", "Aegis", "Loyalist", "Andromeda", "Sagittarius", "Abyss", "Galaxy", "Retro_Centurion", "Retro_Spectre", "Retribution", "Katana", "Viper", "Vanguard", "Hecate", "Raven", "Lich", "Legionnaire"]}

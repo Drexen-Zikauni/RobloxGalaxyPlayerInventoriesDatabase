@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Nightmare", "Crucible", "Katana", "Bastion", "Razor_Wing", "Genesis", "Hawklight", "Sabre_Tooth", "Mjolnheimr", "Leviathan", "E_Class"]}

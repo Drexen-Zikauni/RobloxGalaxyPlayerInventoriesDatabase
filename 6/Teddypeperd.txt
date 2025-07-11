@@ -1,0 +1,1 @@
+{"ships": ["Elanis"], "dead ships": ["Chimera", "Absolution", "Crucible", "Banshee", "Cutlass", "Abyss", "Apocalypse", "Cyclops", "Zero", "Reaver", "Warlock", "Sovereign"]}

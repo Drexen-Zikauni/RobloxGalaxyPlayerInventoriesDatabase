@@ -1,0 +1,1 @@
+{"ships": ["Retro_Ridgebreaker", "Antares", "Deity", "Osiris", "Hallow", "Hawklight", "Retro_Hawklight"], "dead ships": ["Arrow", "Dramiel", "Andromeda", "Helios", "Witch", "Lusso", "Archeon", "Spectre", "Vanguard", "Nightmare", "Crucible", "Armageddon", "Judgement", "Apocalypse", "Jackal"]}

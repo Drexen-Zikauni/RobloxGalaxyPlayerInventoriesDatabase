@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Rorqual", "Argosy", "Saturn", "Python", "Oppressor", "Katana", "Cutlass", "Xenon", "Hasatan", "Bastion", "Leecher", "Cyclops", "Black_Flare", "Banshee", "Gryphon", "Osprey", "Avenger", "Nightmare", "Grievion", "Loyalist", "Macross"]}

@@ -1,0 +1,1 @@
+{"ships": ["Retro_Sixfold"], "dead ships": ["Xenon", "Razor_Wing", "Ampharos", "Prometheus", "MLRS", "Hasatan", "Viper", "Mjolnheimr", "Sentaliz", "Archeon", "Sentinel", "Apocalypse", "Retro_Leviathan", "Retro_Gideon", "Retro_Sovereign", "Retro_Aegis", "Retro_Slipstream", "Retro_Centurion", "Retro_Nyx"]}

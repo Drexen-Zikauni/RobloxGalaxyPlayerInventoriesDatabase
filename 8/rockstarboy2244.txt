@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Reaver", "Draco", "Marauder", "Starfall", "Avenger", "Zhanado", "Arrow", "Ishkur", "Phantom", "Chimera", "Abyss", "Worm", "Nidhogg", "Hawklight", "Genesis", "Starblade", "Tempura", "Sentinel", "Legionnaire", "Mammoth", "Zero", "Archangel", "Ampharos", "Andromeda", "Argonaut", "Lusso", "Apocalypse"]}

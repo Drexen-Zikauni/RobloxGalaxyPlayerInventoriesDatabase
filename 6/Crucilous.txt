@@ -1,0 +1,1 @@
+{"ships": ["Constantine", "Leviathan", "Loyalist", "Tempest", "Onslaught", "Theseus-E", "Apocalypse", "Hawklight", "Theia", "Aegis", "Valkyrie", "Icarus"], "dead ships": ["Aura", "Banshee", "Sovereign", "Python", "Ishkur", "Centurion", "Venerator", "Nightmare", "Imperator", "Obliterator"]}

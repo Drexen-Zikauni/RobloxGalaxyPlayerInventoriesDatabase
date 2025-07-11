@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Leviathan", "Viper", "Sabre_Tooth", "Lich", "Macross", "Prometheus", "Genesis", "Hawklight", "Behemoth", "Oblivion", "Deity", "E_Class", "Nimitz", "Apocalypse"]}

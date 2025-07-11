@@ -1,0 +1,1 @@
+{"ships": ["Deity", "Onslaught", "Theseus-X", "Loyalist", "Tempest"], "dead ships": ["Xenon", "Dropship", "Viper", "Behemoth", "Sagittarius", "Atheon", "Ridgebreaker", "Starblade", "Draco", "Centurion", "Raven", "Templar", "Corvid", "Razor_Wing"]}

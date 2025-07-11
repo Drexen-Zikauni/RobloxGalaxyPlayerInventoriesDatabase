@@ -1,0 +1,1 @@
+{"ships": ["Retro_Gideon", "Andromeda", "Nyxesion", "Retro_Nyx", "Blitz", "Atheon", "Revenant"], "dead ships": ["Apogee", "Gideon", "Corvid", "Templar", "Phantom", "Nightmare", "Chimera", "Dropship", "Viper", "Leviathan"]}

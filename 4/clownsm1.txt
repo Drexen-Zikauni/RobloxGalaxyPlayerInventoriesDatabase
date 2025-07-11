@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse", "Black_Flare", "Cyclops"], "dead ships": ["Legionnaire", "Viper", "Gunslinger", "Banshee", "Hasatan", "Grievion", "Ampharos", "Avalon", "Sagittarius", "Gideon", "Obliterator", "Corvid", "Lusso", "Tengu", "Macross", "Jackal", "Retro_Sixfold"]}

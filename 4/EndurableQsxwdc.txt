@@ -1,0 +1,1 @@
+{"ships": ["Viking", "Astraeus", "Vampire_X-R4", "Sentaliz", "Prototype_X-1"], "dead ships": ["Permafrost", "Ghost", "Oppressor", "Macross", "Starblade", "Retro_Naglfar", "Banshee", "Odyssey", "Atheon"]}

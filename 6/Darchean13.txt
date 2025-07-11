@@ -1,0 +1,1 @@
+{"ships": ["Zeus", "Ampharos", "Phantom", "Nightmare"], "dead ships": ["Starblade", "Ishkur", "Ridgebreaker", "Marauder", "Sabre_Tooth", "Banshee", "Lusso", "Crucible", "Draco", "Viper", "Python", "Gideon", "Raven", "Osprey", "Abyss", "Venerator", "Oppressor", "Meteor", "Loyalist", "Corvid", "Cyclops", "Cutlass", "Dropship"]}

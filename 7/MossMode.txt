@@ -1,0 +1,1 @@
+{"ships": ["Nightmare", "Retro_Slipstream", "Retro_Ampharos"], "dead ships": ["Macross", "Sagittarius", "Draco", "Zero", "Retro_Leviathan", "Crucible", "Retro_Prototype_X-2", "Kapisi", "Galaxy"]}

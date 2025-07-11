@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Constellation", "Apocalypse", "Archeon", "Gideon", "Anathema", "Astraeus", "Annihilator", "Bastion", "Deity", "Sovereign", "Hawklight", "Vansnova", "Woolly_Mammoth", "Cutlass", "Paragon", "Dropship", "Prometheus", "Crucible", "Tempest", "Venerator", "Icarus"]}

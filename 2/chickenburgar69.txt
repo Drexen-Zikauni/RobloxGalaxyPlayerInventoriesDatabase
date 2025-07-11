@@ -1,0 +1,1 @@
+{"ships": ["Harbinger", "Obliterator", "Deity", "Apocalypse", "Theia", "Nautilus", "Nightmare", "Annihilator", "Atheon", "Viper"], "dead ships": ["Sentinel", "Gideon", "Loyalist", "Prometheus", "Corvid", "Xenon", "Hyperion", "Zero", "Crucible", "Sabre_Tooth"]}

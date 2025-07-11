@@ -1,0 +1,1 @@
+{"ships": ["Retro_Centurion", "Retro_Prototype_X-1", "Gideon"], "dead ships": ["Draco", "Macross", "Dropship", "Corvid", "Patriotic_Rorqual", "Banshee", "Xenon", "Lusso", "Sagittarius", "Vigilance"]}

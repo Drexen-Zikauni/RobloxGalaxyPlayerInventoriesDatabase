@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Zhanado", "Commercial_Miner", "Bastion", "Archeon", "Draco", "Phantom", "Starblade", "Zero", "Orca", "Dire_Wolf", "Gideon", "Orion", "Apocalypse", "Cutlass", "Retro_Centurion", "Tennhausen", "Vanguard", "Aegis", "E_Class", "Macross", "Loyalist", "Galaxy", "Executioner", "Ridgebreaker", "Leviathan"]}

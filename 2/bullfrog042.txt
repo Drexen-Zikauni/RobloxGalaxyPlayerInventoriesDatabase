@@ -1,0 +1,1 @@
+{"ships": ["Nyx"], "dead ships": ["Delta_Ship", "Avalon", "Draco", "Raven", "Retribution", "Starblade", "Osprey", "Retro_Spectre", "Cobra", "Archangel", "Scythe", "Spectre", "Phantom", "Deity", "Python", "Viper", "Reaver", "Arrow", "Oppressor", "Andromeda", "Ridgebreaker", "Aura", "Apocalypse", "Naglfar", "Behemoth", "Argosy"]}

@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Constellation", "Galaxy", "Mammoth", "Prospector", "Incarnate", "Katana", "Apocalypse", "Ampharos", "Valiant", "Absolution", "Draco", "Xenon", "Hevnetier", "Leviathan", "Archeon", "Hercules", "Odyssey", "Abyss", "Gideon", "Andromeda", "Argonaut", "Imperator", "Zero", "Retro_Sixfold", "Retro_Hawklight", "Retro_Gideon", "Witch", "Stealth_Recon"]}

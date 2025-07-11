@@ -1,0 +1,1 @@
+{"ships": ["Xenon"], "dead ships": ["Saturn", "Razor_Wing", "Marauder", "Grievion", "Orca", "Templar", "Python", "Revelation", "Zhanado", "Leviathan", "Osprey", "Sagittarius", "Nemesis", "Catalyst", "Judgement"]}

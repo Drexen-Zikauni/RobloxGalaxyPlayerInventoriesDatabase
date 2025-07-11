@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse", "Reaver", "Hawklight", "Slipstream", "Borealis", "Templar", "Blitz", "Jupiter", "Annihilator"], "dead ships": ["Archangel", "Aeaphiel", "Nidhogg", "Grievion", "Imperator", "Sabre_Tooth", "Acolyte", "Dropship", "Stealth_One", "Stealth_B-2", "Crystocrene", "Tempest"]}

@@ -1,0 +1,1 @@
+{"ships": ["Nightmare", "Onslaught", "Slipstream", "Retro_Nyx", "Crystocrene", "Imperator"], "dead ships": ["Borealis", "Zhen", "Gideon", "Chimera", "Obliterator", "Theia", "Annihilator", "Paragon", "Retro_Sixfold", "Retro_Prototype_X-1", "Conqueror", "Helios", "Atheon", "Venerator"]}

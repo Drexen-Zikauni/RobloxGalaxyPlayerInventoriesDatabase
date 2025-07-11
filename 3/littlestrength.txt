@@ -1,0 +1,1 @@
+{"ships": ["Dropship", "Incarnate", "Osiris"], "dead ships": ["Panther", "Aegis", "Lusso", "Razor_Wing", "Apogee", "Galaxy", "Behemoth", "Loyalist", "Jackal", "Beta_Warlock", "Zero", "Marauder", "Phantom", "Bastion", "Draco", "Hasatan", "Banshee", "Retro_Spectre", "Prospector", "Abyss", "Lazarus", "Tengu", "Hawklight", "Worm", "Viper"]}

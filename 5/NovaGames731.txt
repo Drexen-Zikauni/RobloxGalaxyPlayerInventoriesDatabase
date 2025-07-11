@@ -1,0 +1,1 @@
+{"ships": ["Lucifer", "Apogee", "Macross", "Revenant", "Erebus"], "dead ships": ["Christmas_Tree", "MLMLRS", "Bastion", "Prikkit"]}

@@ -1,0 +1,1 @@
+{"ships": ["Deity", "Osiris", "Theia"], "dead ships": ["Hasatan", "Mjolnheimr", "Starfall", "Behemoth", "Cutlass", "Viper", "Hercules", "Bastion", "Stealth_Recon", "Catalyst", "Worm", "Phantom", "Meteor", "Lich", "Stormbringer", "Ishkur"]}

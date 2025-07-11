@@ -1,0 +1,1 @@
+{"ships": ["Bastion", "Retro_Gideon", "Retro_Hawklight"], "dead ships": ["Marauder", "Apocalypse", "Naglfar", "Zero", "Sixfold", "Santaliz", "3D_Printed_Apocalypse", "Razor_Wing", "Tengu", "Vansnova", "Retro_Apocalypse", "Sagittarius"]}

@@ -1,0 +1,1 @@
+{"ships": ["Gideon"], "dead ships": ["Warden", "Archangel", "Argonaut", "Stealth_Recon", "Starblade", "Orca", "Abyss", "Spider", "Dire_Wolf", "Chimera", "Zhanado", "MLRS", "Nidhogg", "Raven", "Oppressor", "Ampharos"]}

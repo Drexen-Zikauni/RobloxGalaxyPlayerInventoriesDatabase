@@ -1,0 +1,1 @@
+{"ships": ["Leviathan", "Theia", "Disruptor", "The_Patriot", "Vigilance"], "dead ships": ["Phantom", "Reaver", "Hawklight", "Starblade", "Witch", "Aegis", "Dropship", "Scythe", "Jackal", "Grievion", "Sabre_Tooth", "Constantine", "Zhanado", "Razor_Wing", "Sentaliz", "Gideon"]}

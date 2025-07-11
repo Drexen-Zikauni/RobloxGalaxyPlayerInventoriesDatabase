@@ -1,0 +1,1 @@
+{"ships": ["Mjolnheimr", "Tempest", "MLRS", "Ridgebreaker", "Harbinger", "Kraken"], "dead ships": ["Loyalist", "Starblade", "Banshee", "Leviathan", "Hasatan", "Apocalypse", "Scimitar", "Prometheus", "Gideon", "Viper", "3D_Printed_Apocalypse", "Andromeda", "Tengu", "Obliterator"]}

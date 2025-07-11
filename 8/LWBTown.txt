@@ -1,0 +1,1 @@
+{"ships": ["Galaxy", "Ridgebreaker", "Hasatan", "Annihilator", "Bastion", "Nightmare", "Retro_Vanguard"], "dead ships": ["Draco", "Razor_Wing", "Banshee", "Zero", "Spectre", "Viper", "Python", "Ampharos", "Stealth_Recon", "Nimitz", "Loyalist", "Leviathan", "Retro_Bastion", "Katana", "Starblade", "Retro_Spectre", "Theia", "Reaver", "Raven", "Worm", "Retro_Prototype_X-2"]}

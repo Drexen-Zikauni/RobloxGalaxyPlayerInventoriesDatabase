@@ -1,0 +1,1 @@
+{"ships": ["Valkyrie"], "dead ships": ["Inquisitor", "Crucible", "Leviathan", "Marauder", "Nidhogg", "Bastion", "Gunslinger", "Aura", "Chimera", "Constantine", "Banshee", "Tengu", "Draco", "Catalyst", "Grievion", "Tennhausen", "Legionnaire", "Avenger", "Icarus"]}

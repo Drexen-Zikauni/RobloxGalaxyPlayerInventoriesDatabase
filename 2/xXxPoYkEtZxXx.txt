@@ -1,0 +1,1 @@
+{"ships": ["Borealis", "Hyperion"], "dead ships": ["Rapture", "Apocalypse", "Warlock", "Nyx", "Onslaught", "Zeus", "Sixfold", "Theia"]}

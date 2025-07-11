@@ -1,0 +1,1 @@
+{"ships": ["Prototype_X-1", "Bonehawk", "3D_Printed_Apocalypse", "Hyperion", "Pleasant_Isle", "Paragon", "Imperator", "Blitz", "Ghoul_Nyx", "Deity", "Lucifer", "Starblade", "Azrael"], "dead ships": ["Gideon", "Archangel", "Witch", "Kapisi", "Retro_Sixfold", "Viper", "Theia", "Banshee", "Tengu", "Razor_Wing", "Black_Flare", "Genesis"]}

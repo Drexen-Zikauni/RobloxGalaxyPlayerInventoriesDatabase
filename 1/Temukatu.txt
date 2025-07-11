@@ -1,0 +1,1 @@
+{"ships": ["Zero", "Aegis", "Helios"], "dead ships": ["Tengu", "Gideon", "Sabre_Tooth", "Razor_Wing", "Genesis", "Catalyst", "Tempest", "Banshee"]}

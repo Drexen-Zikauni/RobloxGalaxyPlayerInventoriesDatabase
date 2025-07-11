@@ -1,0 +1,1 @@
+{"ships": ["Dire_Wolf", "Loyalist", "Zhen", "Witch", "Jackal", "Warlock"], "dead ships": ["Grievion", "Behemoth", "Corvid", "Vanguard", "Draco", "Crucible", "Genesis", "Banshee", "Constantine", "Vansnova", "Retro_Andromeda"]}

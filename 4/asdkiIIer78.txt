@@ -1,0 +1,1 @@
+{"ships": ["Osiris", "Behemoth"], "dead ships": ["Tengu", "Dire_Wolf", "Gideon", "Lusso", "Osprey", "Permafrost", "Templar", "Python", "Defiance", "Aegis", "Zeus", "Xenon"]}

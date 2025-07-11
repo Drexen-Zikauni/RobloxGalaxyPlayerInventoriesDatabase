@@ -1,0 +1,1 @@
+{"ships": ["Panther", "Incarnate", "Retro_Leviathan", "Theseus-K", "Jupiter", "Lazarus", "Retro_Prototype_X-2", "Theia", "Onslaught"], "dead ships": ["Gryphon", "Scythe", "Blue_Torp_Wasp", "Retro_Grievion", "Retro_Gideon", "Hasatan", "Andromeda", "Witch", "Leviathan", "Tempest", "Catalyst", "Vansnova", "Marauder", "Helios", "Razor_Wing", "Banshee"]}

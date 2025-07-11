@@ -1,0 +1,1 @@
+{"ships": ["Leviathan", "Templar"], "dead ships": ["Aegis", "Corvid", "Apocalypse", "Witch", "Sovereign", "MLRS", "Sagittarius", "Retro_Grievion", "Retro_Sixfold", "Banshee"]}

@@ -1,0 +1,1 @@
+{"ships": ["Valiant"], "dead ships": ["Rorqual", "Crucible", "Argonaut", "Abyss", "Gryphon", "Genesis", "Sagittarius", "Archeon", "Cutlass", "Arrow", "Aeaphiel", "Invictus", "Prospector", "Corvid", "Osprey"]}

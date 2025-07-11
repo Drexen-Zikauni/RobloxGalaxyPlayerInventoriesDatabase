@@ -1,0 +1,1 @@
+{"ships": ["Jackal", "Aeaphiel", "Oblivion"], "dead ships": ["Rapture", "Oppressor", "Scimitar", "Nova", "Tengu", "Banshee", "Hawklight", "Zhanado", "Theseus-E", "Hercules", "Apogee", "Viper"]}

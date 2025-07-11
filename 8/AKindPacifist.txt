@@ -1,0 +1,1 @@
+{"ships": ["Odyssey", "Atheon", "Zillavik", "Hailstorm", "Oblivion"], "dead ships": ["Retribution", "Archeon", "Absolution", "Hevnetier", "Sagittarius", "Scimitar", "Xenon", "Gunslinger", "Judgement", "Chimera"]}

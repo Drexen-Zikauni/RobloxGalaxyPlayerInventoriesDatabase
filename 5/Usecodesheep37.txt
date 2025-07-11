@@ -1,0 +1,1 @@
+{"ships": ["The_Patriot", "Aeaphiel", "Ridgebreaker", "Apocalypse", "Liberator"], "dead ships": ["Xenon", "Dropship", "Gideon", "Draco", "Incarnate", "Oblivion"]}

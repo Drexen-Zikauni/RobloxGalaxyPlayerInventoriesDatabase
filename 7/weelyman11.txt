@@ -1,0 +1,1 @@
+{"ships": ["Macross", "Atheon", "Nightmare", "Jackal", "Ampharos", "Hawklight"], "dead ships": ["Nidhogg", "Spectre", "Nimitz", "Starblade", "Gideon"]}

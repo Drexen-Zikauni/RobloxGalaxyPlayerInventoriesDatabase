@@ -1,0 +1,1 @@
+{"ships": ["Ridgebreaker", "Theia", "Nightmare"], "dead ships": ["Gryphon", "Centurion", "Osprey", "E_Class", "Sagittarius", "Avalon", "Absolution", "Viper"]}

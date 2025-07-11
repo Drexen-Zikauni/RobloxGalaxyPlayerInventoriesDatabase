@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Retribution", "Viper", "Crucible", "Behemoth", "Macross", "Sagittarius", "Argonaut", "Catalyst", "Zero", "Katana", "Ridgebreaker", "Osprey", "Sovereign", "Mjolnheimr", "MLRS", "Icarus", "Phantom", "Sentaliz", "Loyalist", "Disruptor", "Gunslinger", "Onslaught", "Apocalypse", "Archeon", "Corvid", "Cyclops", "Prometheus"]}

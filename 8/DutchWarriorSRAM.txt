@@ -1,0 +1,1 @@
+{"ships": ["Witch", "Ridgebreaker", "Archeon", "Ampharos"], "dead ships": ["Prospector", "Jackal", "Orion", "Cutlass", "Cobra", "Razor_Wing", "Banshee", "Dire_Wolf", "Sixfold", "Vansnova", "Prometheus", "Leviathan", "Ibis", "Avenger"]}

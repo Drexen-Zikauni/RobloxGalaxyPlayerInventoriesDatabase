@@ -1,0 +1,1 @@
+{"ships": ["Theia"], "dead ships": ["Absolution", "Reaver", "Gideon", "Osprey", "Mammoth", "Oppressor", "Hasatan", "Behemoth", "Zero", "Macross", "Lusso", "Radiance", "Zeus", "Armageddon", "Corvid", "Naglfar", "Ridgebreaker", "Tengu"]}

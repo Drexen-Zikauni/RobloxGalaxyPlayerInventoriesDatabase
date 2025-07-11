@@ -1,0 +1,1 @@
+{"ships": ["Loyalist", "Tempest", "Warlock", "Aeaphiel"], "dead ships": ["Oppressor", "Apostle", "Corvid", "Judgement"]}

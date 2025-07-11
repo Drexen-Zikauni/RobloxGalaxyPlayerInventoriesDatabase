@@ -1,0 +1,1 @@
+{"ships": ["Armageddon", "Retro_Grievion", "Leviathan", "Retro_Cyclops", "SR-71"], "dead ships": ["Xenon", "Gideon", "Banshee", "Helios", "Archangel", "Draco", "Tennhausen", "Dropship", "Warlock", "Abyss", "Cyclops", "Stealth_Recon", "Retro_Hawklight", "Tengu", "Orca", "Razor_Wing", "Sixfold", "Lusso"]}

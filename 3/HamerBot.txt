@@ -1,0 +1,1 @@
+{"ships": ["Striker", "Leviathan"], "dead ships": ["Ampharos", "Ridgebreaker", "Aeaphiel", "Mjolnheimr", "Sagittarius", "Galaxy", "Apocalypse", "Razor_Wing", "Hawklight", "Hasatan", "Starblade", "Avalon", "MLRS", "Crucible", "Argosy", "Jackal", "Theia"]}

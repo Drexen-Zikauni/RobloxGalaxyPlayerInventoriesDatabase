@@ -1,0 +1,1 @@
+{"ships": ["Katana", "Santaliz", "Osiris", "Macross", "Retro_Prototype_X-2", "Gryphon", "Disruptor", "Retro_Sovereign", "Retro_Bastion", "Double_Fractal"], "dead ships": ["Viper", "Valiant", "Icicle", "Atheon", "Hecate", "Nidhogg", "Arrow", "Retro_Gideon", "Orion", "Sabre_Tooth", "Worm", "Draco", "Razor_Wing", "Aeaphiel", "Defiance"]}

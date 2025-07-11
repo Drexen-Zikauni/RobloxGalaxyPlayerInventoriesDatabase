@@ -1,0 +1,1 @@
+{"ships": ["Theia"], "dead ships": ["Reaver", "Mammoth", "Apocalypse", "Hercules", "Leviathan", "Galaxy", "Draco", "Argosy", "Tempura", "Prospector", "Viper", "Sentaliz", "Osiris", "Argonaut", "Hyperion", "Genesis", "Obliterator", "Andromeda", "Zeus"]}

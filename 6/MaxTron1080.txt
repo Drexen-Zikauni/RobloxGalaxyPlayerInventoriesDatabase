@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse", "Prometheus", "Hasatan"], "dead ships": ["Xenon", "Templar", "Nidhogg", "Inquisitor", "Witch", "Apostle", "Cutlass", "Nisos", "Sixfold", "Radiance", "Gideon", "Loyalist", "Zero", "Osprey", "Zhanado", "Galaxy", "Hyperion", "Borealis"]}

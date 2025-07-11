@@ -1,0 +1,1 @@
+{"ships": ["Retro_Hawklight", "Astraeus", "Razor_Wing"], "dead ships": ["Warlock", "Judgement", "Banshee", "Behemoth", "Nemesis", "Sabre_Tooth", "Zeus", "Belvat", "Lusso", "Aegis"]}

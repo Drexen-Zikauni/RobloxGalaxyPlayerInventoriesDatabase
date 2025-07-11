@@ -1,0 +1,1 @@
+{"ships": ["Katana", "Sovereign"], "dead ships": ["Abyss", "Scythe", "Sixfold", "Absolution", "Jackal", "Tengu", "Ishkur", "Lusso", "Worm", "Sabre_Tooth", "Gideon", "Banshee", "Viper", "Ibis", "Oppressor", "Gunslinger"]}

@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Sovereign", "Vansnova", "Aeaphiel", "Katana", "Bastion", "Legionnaire", "Viper", "Hecate", "Marauder", "Apocalypse", "Hawklight", "Hasatan", "Razor_Wing", "Crucible"]}

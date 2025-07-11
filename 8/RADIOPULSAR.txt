@@ -1,0 +1,1 @@
+{"ships": ["Archeon", "Apogee", "Retro_Centurion", "Theseus-X", "Vansnova", "Retro_Sovereign", "Retro_Vanguard"], "dead ships": ["Spiderblade", "Retro_Bastion", "Retro_Spectre", "Retro_Sixfold", "Draco", "Retro_Grievion"]}

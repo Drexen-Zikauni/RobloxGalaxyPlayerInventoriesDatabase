@@ -1,0 +1,1 @@
+{"ships": ["Reaver"], "dead ships": ["Arrow", "Starblade", "Bastion", "Phantom", "Orca", "Starfall", "Cyclops", "Marauder", "Raven", "Draco", "Ibis", "Macross", "Prospector", "Galaxy", "Razor_Wing", "Genesis", "Cutlass", "Sentaliz", "Onslaught", "Warlock", "Panther", "Obliterator", "Patriotic_Rorqual", "Retro_Bastion", "Chimera", "Hevnetier", "Worm"]}

@@ -1,0 +1,1 @@
+{"ships": ["Chimera", "Cutlass", "Sakala"], "dead ships": ["Tengu", "Sabre_Tooth", "Dropship", "Catalyst", "Retro_Sixfold", "Lusso"]}

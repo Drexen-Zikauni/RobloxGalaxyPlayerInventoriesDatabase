@@ -1,0 +1,1 @@
+{"ships": ["Marauder", "Ampharos", "Obliterator", "Slipstream", "A_-_Brawler", "Astraeus", "Blitz", "Borealis"], "dead ships": ["Apocalypse", "Worm", "Nightmare", "Ridgebreaker", "Xenon", "Mjolnheimr", "Banshee", "Catalyst", "Python", "Abyss", "Atheon", "Nautilus", "Imperator", "Draco", "Sixfold", "Viper", "Corvid", "Leecher"]}

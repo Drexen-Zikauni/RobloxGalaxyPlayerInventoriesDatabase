@@ -1,0 +1,1 @@
+{"ships": ["Retro_Gideon"], "dead ships": ["Starblade", "Viper", "Centurion", "Python", "Jackal", "Cutlass", "Draco", "Prospector", "Reaver", "Meteor", "Tengu", "Corvid", "Osprey", "Atheon", "Lusso", "Ishkur"]}

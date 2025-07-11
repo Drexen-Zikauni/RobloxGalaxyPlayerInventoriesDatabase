@@ -1,0 +1,1 @@
+{"ships": ["Harbinger", "Tempest", "Ampharos", "Leviathan", "A_-_Brawler"], "dead ships": ["Sentaliz", "Ridgebreaker", "Arrow", "Archeon", "Banshee", "Nyx", "Rhino", "Hallow", "Bastion", "Retro_Grievion", "Scimitar", "Sagittarius", "Viper", "Witch", "Retro_Prototype_X-1", "Annihilator"]}

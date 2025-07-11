@@ -1,0 +1,1 @@
+{"ships": ["Incarnate"], "dead ships": ["Galaxy", "Draco", "Mjolnheimr", "Scimitar", "Oppressor", "Gunslinger", "Inquisitor", "Zhanado", "Scythe", "Zero", "MLRS", "Abyss", "Starblade"]}

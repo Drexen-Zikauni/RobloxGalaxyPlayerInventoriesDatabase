@@ -1,0 +1,1 @@
+{"ships": ["Rapture", "Borealis", "Harbinger", "Valkyrie"], "dead ships": ["Worm", "Armageddon", "Draco", "Viper", "Corvid", "Judgement", "Warlock", "Chimera", "Stealth_Recon", "Catalyst", "Genesis", "Ibis", "Jackal", "Avalon", "Behemoth", "E_Class", "Starfall", "MLRS", "Leviathan", "Macross", "Tempest", "Grievion", "Reaver", "Sovereign", "Retro_Avalon", "Bastion"]}

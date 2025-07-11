@@ -1,0 +1,1 @@
+{"ships": ["Judgement", "Harbinger", "Prometheus", "Sovereign", "Atheon"], "dead ships": ["Archeon", "Apocalypse", "Xenon", "Aeaphiel", "Scythe"]}

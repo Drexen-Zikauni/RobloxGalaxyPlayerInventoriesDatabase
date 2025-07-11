@@ -1,0 +1,1 @@
+{"ships": ["Tennhausen", "Bonehawk", "Rhino", "Nightmare", "Galaxy"], "dead ships": ["Naglfar", "Cutlass", "Leviathan", "Hawklight", "Kapisi", "Catalyst", "Centurion", "Onslaught", "Hercules", "Stealth_Recon", "Sixfold", "Apocalypse", "Archeon", "Zhen", "Paragon", "Helios", "Subjugator", "E_Class", "Obliterator", "Aegis", "Panther", "Retro_Sixfold"]}

@@ -1,0 +1,1 @@
+{"ships": ["Borealis", "Sovereign", "Hyperion", "Onslaught", "Liberator", "Mjolnheimr"], "dead ships": ["Galaxy", "Corvid", "Catalyst", "Crucible", "Katana", "Zhanado", "Stealth_B-2", "Meteor", "Tennhausen", "Andromeda", "Apocalypse", "Argonaut", "Slipstream", "Loyalist", "Cutlass", "Hevnetier"]}

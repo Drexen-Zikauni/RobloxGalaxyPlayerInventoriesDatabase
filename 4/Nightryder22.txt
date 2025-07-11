@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Crucible", "Spider", "Lusso", "Python", "Defiance", "Aura", "Sabre_Tooth", "Corvid", "Draco", "Cutlass", "Leviathan", "Abyss", "Warlock", "Chimera", "Templar", "Gideon", "Tempest", "Scythe", "MLRS", "Viper", "Starfall", "Bastion", "Vansnova", "Meteor", "Osprey", "Archangel", "Scimitar"]}

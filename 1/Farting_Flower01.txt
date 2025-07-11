@@ -1,0 +1,1 @@
+{"ships": ["Ampharos", "Leviathan"], "dead ships": ["Legionnaire", "Archeon", "Crucible", "Judgement", "Zero", "Avenger", "Viper", "Gunslinger", "Inquisitor", "Zeus", "Sabre_Tooth", "Apocalypse", "Warlock", "Orca"]}

@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Bastion", "Cyclops", "Hawklight", "Gideon", "Behemoth", "Vigilance", "Armageddon", "MLRS", "Xenon", "Cutlass", "Stealth_Recon", "Corvid", "Oppressor", "Phantom", "Python", "Hercules"]}

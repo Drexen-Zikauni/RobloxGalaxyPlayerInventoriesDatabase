@@ -1,0 +1,1 @@
+{"ships": ["Retribution", "Hawklight", "Elanis"], "dead ships": ["Armageddon", "Vansnova", "Hecate", "Invictus", "Aeaphiel", "Grievion", "Apocalypse", "Judgement", "Sovereign", "Catalyst", "Zhanado", "Centurion", "Ridgebreaker", "Galaxy", "Abyss", "Vigilance", "Gideon", "Hasatan", "Cutlass", "MLRS", "Templar", "Python", "Behemoth", "Warlock", "Stealth_Recon", "Orion"]}

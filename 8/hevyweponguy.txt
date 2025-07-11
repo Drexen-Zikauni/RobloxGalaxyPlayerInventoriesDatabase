@@ -1,0 +1,1 @@
+{"ships": ["Annihilator", "Prometheus", "Nimitz", "Theia", "Nightmare"], "dead ships": ["Arrow", "Apocalypse", "Banshee", "Andromeda", "Paragon", "Katana", "Atheon", "Retro_Prototype_X-2"]}

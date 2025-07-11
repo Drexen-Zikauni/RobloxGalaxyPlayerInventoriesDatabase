@@ -1,0 +1,1 @@
+{"ships": ["Retro_Ridgebreaker", "Retro_Hawklight"], "dead ships": ["Avalon", "Ridgebreaker", "Tempest", "Panther", "Dire_Wolf", "Leviathan", "Theia", "Deity", "Annihilator", "Hasatan", "Sentaliz", "Zeus", "Viper", "Onslaught", "Retro_Prototype_X-2", "Nidhogg", "Lusso", "Macross", "Helios", "Abyss"]}

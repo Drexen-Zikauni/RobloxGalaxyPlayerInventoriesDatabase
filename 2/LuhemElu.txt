@@ -1,0 +1,1 @@
+{"ships": ["Frankenemi", "Executioner", "Osiris", "Hasatan", "Gideon", "Retribution"], "dead ships": ["Mjolnheimr", "Sabre_Tooth", "Nemesis", "Hawklight", "Macross", "Retro_Sixfold", "Loyalist", "Spectre", "Corvid", "Python"]}

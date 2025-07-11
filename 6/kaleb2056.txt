@@ -1,0 +1,1 @@
+{"ships": ["Foxfire", "Cyclops", "Chimera", "Striker"], "dead ships": ["Leviathan", "Vanguard", "Apocalypse", "Behemoth", "Tempest", "Jackal", "Mjolnheimr", "Loyalist", "Hecate", "Archeon", "Dropship", "Templar", "Corvid", "Banshee", "Scimitar"]}

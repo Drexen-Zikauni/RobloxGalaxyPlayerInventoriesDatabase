@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Armageddon", "Judgement", "Leviathan", "Sagittarius", "Loyalist", "Black_Flare", "Apocalypse", "Nidhogg", "Gideon", "Valiant", "Lich", "Katana", "Prototype_X-1", "Sentinel", "Genesis", "Tempest", "Hasatan", "Catalyst", "Naglfar", "Icy", "Widowmaker", "Double_Fractal", "Reaver"]}

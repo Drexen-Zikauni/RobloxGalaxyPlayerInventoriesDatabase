@@ -1,0 +1,1 @@
+{"ships": ["Catalyst", "Witch", "Icarus"], "dead ships": ["Aura", "Apocalypse", "Zero", "Judgement", "Crucible", "Retro_Sixfold"]}

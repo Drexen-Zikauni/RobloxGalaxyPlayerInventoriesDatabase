@@ -1,0 +1,1 @@
+{"ships": ["Andromeda", "Panther", "Witch", "Retro_Hawklight", "Obliterator", "Bonehawk", "A_-_Brawler"], "dead ships": ["Jackal", "Leviathan", "Phantom", "Razor_Wing", "Zeus", "Rhino", "Apocalypse", "Tempest", "Gideon", "Abyss", "Bastion", "Retro_Gideon", "Xenon", "Annihilator"]}

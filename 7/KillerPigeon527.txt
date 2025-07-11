@@ -1,0 +1,1 @@
+{"ships": ["Nautilus", "Hyperion", "Theseus-X", "Retro_Prototype_X-2", "Prototype_X-1", "Prototype_X-2", "3D_Printed_Apocalypse", "Nightmare", "Santaliz", "Subjugator", "Annihilator"], "dead ships": ["Apocalypse", "Andromeda", "Jackal"]}

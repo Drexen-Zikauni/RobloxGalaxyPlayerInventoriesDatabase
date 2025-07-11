@@ -1,0 +1,1 @@
+{"ships": ["Venerator"], "dead ships": ["Osprey", "Zhanado", "Sovereign", "Cutlass", "MLRS", "Viper", "Subjugator", "Python", "Scythe", "Abyss", "Retro_Grievion", "Dropship", "Leviathan", "Hercules", "Macross"]}

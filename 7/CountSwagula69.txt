@@ -1,0 +1,1 @@
+{"ships": ["Zhanado"], "dead ships": ["Warlock", "E_Class", "Starfall", "Sentinel", "Bastion", "Argosy", "Phantom", "Templar", "Stealth_Recon", "Draco", "Archeon", "Dramiel", "Catalyst", "Ampharos", "Meteor", "Abyss", "MLRS", "Gideon", "Witch", "Judgement"]}

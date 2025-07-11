@@ -1,0 +1,1 @@
+{"ships": ["Valiant", "Osprey", "Rapture", "Starfall", "Zeus"], "dead ships": ["Aura", "Leviathan", "Starblade", "Viper", "Templar", "Scimitar", "Tengu", "Odyssey", "Sixfold", "Lusso", "Dropship", "Grievion", "Worm", "Theia", "Gideon", "MLRS", "Santaliz", "Katana"]}

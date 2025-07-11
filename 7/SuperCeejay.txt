@@ -1,0 +1,1 @@
+{"ships": ["Cyclops", "Warden"], "dead ships": ["Sagittarius", "Zeus", "Sovereign", "Avalon", "Nyx", "Black_Flare", "Vanguard", "Ridgebreaker", "3D_Printed_Apocalypse", "Leviathan", "Warlord", "Behemoth", "Apocalypse", "Tennhausen", "Warlock"]}

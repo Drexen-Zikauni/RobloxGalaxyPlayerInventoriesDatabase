@@ -1,0 +1,1 @@
+{"ships": ["Sentaliz", "Andromeda", "Bonehawk", "Theia", "Kapisi"], "dead ships": ["Archeon", "Dire_Wolf", "Tempest", "Nyx", "Judgement", "Leviathan", "Starblade", "3D_Printed_Apocalypse", "Paragon", "Imperator", "Atheon", "Genesis", "Zhen", "Nightmare"]}

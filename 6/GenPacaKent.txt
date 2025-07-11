@@ -1,0 +1,1 @@
+{"ships": ["Deity"], "dead ships": ["Reaver", "Apocalypse", "Absolution", "Gunslinger", "Razor_Wing", "Corvid", "Aegis", "Hercules", "Galaxy", "Bastion", "Macross", "Viper", "Ridgebreaker", "3D_Printed_Apocalypse", "Atheon", "Archeon", "Lusso"]}

@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Bastion", "Hawklight", "Catalyst", "Apocalypse", "Prepravca", "Marauder", "Ridgebreaker", "Corvid", "Macross", "Osprey", "Oppressor", "Constellation"]}

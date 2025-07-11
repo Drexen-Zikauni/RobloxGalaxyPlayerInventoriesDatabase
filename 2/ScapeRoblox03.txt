@@ -1,0 +1,1 @@
+{"ships": ["Catalyst"], "dead ships": ["Corvid", "Osprey", "Grievion", "Phantom", "Cutlass", "Rorqual", "Hasatan", "Gideon", "Dropship", "Templar", "Python", "Orca", "Tengu", "Centurion", "Argonaut", "Xenon", "Bastion", "Valiant", "Avenger", "Viper", "Archangel", "Hornet", "Tempura", "Apocalypse", "Saturn", "E_Class", "Archeon"]}

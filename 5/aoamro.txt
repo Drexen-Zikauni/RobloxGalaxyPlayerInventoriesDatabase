@@ -1,0 +1,1 @@
+{"ships": ["Witch", "Python", "Theia", "Archeon", "Annihilator", "Astraeus", "Obliterator", "Widowmaker", "Nautilus", "Nightmare", "Razor_Wing", "Helios", "Loyalist", "Ridgebreaker", "Apocalypse", "A_-_Bruiser"], "dead ships": ["Nidhogg", "Corvid", "Xenon", "Draco", "Black_Flare", "Archangel", "Gideon", "Ishkur", "Jackal", "Zhen"]}

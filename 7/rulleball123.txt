@@ -1,0 +1,1 @@
+{"ships": ["Theseus-K", "A_-_Brawler", "Odyssey"], "dead ships": ["Bastion", "Zhen", "Tengu", "Xenon", "Zhanado", "Abyss", "Oppressor", "Venerator", "Disruptor", "Onslaught", "Helios", "Paragon", "Obliterator", "Annihilator", "Conqueror", "Astraeus", "Deity", "Oblivion", "Hyperion", "Subjugator", "Imperator", "Nightmare", "Nimitz", "Leviathan", "MLRS"]}

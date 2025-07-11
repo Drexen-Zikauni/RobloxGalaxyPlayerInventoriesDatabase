@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Katana", "Dropship", "Orca", "Tennhausen", "Gryphon", "Argosy", "Abyss", "Hercules", "Hasatan", "Apostle", "Draco", "Razor_Wing", "Stealth_Recon", "Ampharos", "Oppressor", "Chimera", "Sentinel"]}

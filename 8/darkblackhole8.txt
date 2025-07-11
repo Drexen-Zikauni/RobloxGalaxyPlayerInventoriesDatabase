@@ -1,0 +1,1 @@
+{"ships": ["Hailstorm", "Annihilator", "Prototype_X-1", "Apocalypse"], "dead ships": ["Theia", "Judgement", "Obliterator"]}

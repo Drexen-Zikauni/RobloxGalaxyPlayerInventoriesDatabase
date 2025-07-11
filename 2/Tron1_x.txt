@@ -1,0 +1,1 @@
+{"ships": ["Catalyst", "Loyalist", "Kapisi", "Leviathan", "Annihilator", "A_-_Brawler", "A_-_Bruiser", "3D_Printed_Apocalypse", "Obliterator", "Bonehawk", "Xenon"], "dead ships": ["Razor_Wing", "Genesis", "MLRS", "Warlock", "Behemoth", "Archeon", "Galaxy", "Viper", "Draco", "Gideon", "Naglfar", "Crucible", "Prepravca", "Mjolnheimr", "Starblade", "Theia", "Apocalypse"]}

@@ -1,0 +1,1 @@
+{"ships": ["Loyalist", "Armageddon"], "dead ships": ["Retribution", "Absolution", "Razor_Wing", "Leviathan", "Prepravca", "Warlock", "Genesis", "Apocalypse", "Ridgebreaker", "Hercules"]}

@@ -1,0 +1,1 @@
+{"ships": ["Onslaught", "Loyalist", "Pleasant_Isle", "Bastion", "Astraeus", "Chimera", "Valiant", "Archeon", "Chimera-N", "U.N.E._Interceptor"], "dead ships": ["Ishkur", "Oppressor", "Viper", "Abyss", "Prepravca", "Nautilus", "Lusso", "Judgement", "Apocalypse", "Sixfold", "Obliterator", "Marauder", "Xenon", "Theia", "Leviathan", "Sentaliz"]}

@@ -1,0 +1,1 @@
+{"ships": ["Zero", "Corvid"], "dead ships": ["Crucible", "Behemoth", "Retro_Spectre", "Naglfar", "Hercules", "E_Class", "Aeaphiel", "Vansnova", "Sentinel", "Valiant", "Sixfold"]}

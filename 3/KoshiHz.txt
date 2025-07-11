@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse", "Oblivion", "Harbinger", "Catalyst", "Theseus-X", "Deity", "Jupiter", "Leviathan", "Judgement", "Astraeus", "U.N.E._Interceptor"], "dead ships": ["Apostle", "Bastion", "Prometheus", "Stealth_Recon", "Xenon", "Corvid", "Phantom", "Tempest", "Hasatan", "Subjugator"]}

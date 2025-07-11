@@ -1,0 +1,1 @@
+{"ships": ["Andromeda", "Theia", "Imperator", "Grievion", "Archeon", "Radiance"], "dead ships": ["Corvid", "Gideon", "Jackal", "Viper", "MLRS", "Abyss", "Razor_Wing", "Gunslinger"]}

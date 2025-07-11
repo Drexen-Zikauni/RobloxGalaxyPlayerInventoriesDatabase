@@ -1,0 +1,1 @@
+{"ships": ["Andromeda", "Hevnetier", "Elanis", "Nightmare", "Absolution"], "dead ships": ["Apocalypse", "Banshee", "Hawklight", "Lusso"]}

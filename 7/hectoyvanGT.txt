@@ -1,0 +1,1 @@
+{"ships": ["Dire_Wolf", "Judgement"], "dead ships": ["Icicle", "Coal_Wasp", "Aegis", "MLRS", "Constantine", "Zero", "Avalon", "Sovereign", "Apocalypse", "Banshee", "Marauder", "Xenon", "Sixfold", "Prometheus", "Ridgebreaker", "Lusso", "Razor_Wing", "Gideon", "Leviathan", "Archeon", "Sagittarius", "Scythe", "Atheon"]}

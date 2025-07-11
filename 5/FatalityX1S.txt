@@ -1,0 +1,1 @@
+{"ships": ["Tennhausen", "Catalyst"], "dead ships": ["Apocalypse", "Naglfar", "Tengu", "Theseus-E", "Katana", "Bastion", "Valiant", "Legionnaire", "Black_Flare", "Phantom", "Banshee", "Xenon", "Cutlass", "Orca", "Loyalist", "Astraeus", "Leviathan", "Raven", "Draco"]}

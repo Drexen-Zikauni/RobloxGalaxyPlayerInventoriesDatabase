@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Draco", "Crucible", "3D_Printed_Apocalypse", "Rorqual", "Dire_Wolf", "Xenon", "Corvid", "Tengu", "Nightmare", "Mammoth", "Avalon", "Razor_Wing", "Starblade", "Defiance", "Sovereign", "Lazarus", "Viper", "Vansnova", "Zhanado", "Sixfold", "Tempura", "Judgement", "Zeus", "Orca"]}

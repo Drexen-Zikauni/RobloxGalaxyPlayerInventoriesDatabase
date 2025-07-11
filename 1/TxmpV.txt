@@ -1,0 +1,1 @@
+{"ships": ["Python", "Hailstorm", "Aegis", "Gideon", "Razor_Wing", "Naglfar", "Subjugator"], "dead ships": ["Crucible", "Banshee", "Hercules", "Andromeda", "Retribution", "Tennhausen", "Gunslinger", "Lich", "Dropship", "Retro_Spectre", "Retro_Sixfold", "Cyclops", "Behemoth", "Tempest", "Theia", "Catalyst", "Sagittarius", "Stormbringer", "Leviathan", "Hawklight"]}

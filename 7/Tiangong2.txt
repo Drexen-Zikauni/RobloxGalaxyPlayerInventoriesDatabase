@@ -1,0 +1,1 @@
+{"ships": ["Ampharos"], "dead ships": ["Bastion", "Witch", "Viper", "Draco", "Judgement", "Apocalypse", "Raven", "Worm", "Slipstream", "Avalon", "Onslaught", "Theia", "Prometheus", "Cutlass", "Kraken", "Retro_Bastion", "Stealth_One", "Paragon", "Obliterator"]}

@@ -1,0 +1,1 @@
+{"ships": ["Wasp"], "dead ships": ["Legionnaire", "Leviathan", "Sovereign", "Ridgebreaker", "Raven", "Bastion", "Jackal", "Banshee", "Loyalist", "Grievion", "Prepravca", "Witch", "Mjolnheimr", "Cutlass"]}

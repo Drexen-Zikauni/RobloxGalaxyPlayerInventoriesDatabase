@@ -1,0 +1,1 @@
+{"ships": ["Archeon", "Armageddon", "Dropship", "Stealth_Recon", "Tengu", "Legionnaire", "Aegis"], "dead ships": ["Prototype_X-2", "Cyclops", "Hercules", "Lich", "Gunslinger"]}

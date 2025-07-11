@@ -1,0 +1,1 @@
+{"ships": ["Cutlass", "SR-71", "Cyclops", "Behemoth"], "dead ships": ["Revelation", "Corvid", "Annihilator", "Sovereign", "Loyalist", "Ibis", "Bastion", "Aegis", "Crucible", "Hallow", "Phantom", "Conqueror", "Andromeda", "Lazarus", "Patriotic_Hercules", "Banshee", "Lusso", "Chimera", "Atheon", "Obliterator"]}

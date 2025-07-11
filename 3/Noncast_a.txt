@@ -1,0 +1,1 @@
+{"ships": ["Osiris", "Stealth_B-2"], "dead ships": ["Leecher", "Reaver", "Tango", "Razor_Wing", "Dropship", "Sixfold", "Ridgebreaker", "Genesis", "Cutlass", "Gideon", "Atheon", "Zhen", "Armageddon", "Tengu", "Jackal", "Banshee", "Lusso"]}

@@ -1,0 +1,1 @@
+{"ships": ["Stealth_B-2", "Ampharos"], "dead ships": ["Ishkur", "Theia", "Zhen", "Macross", "Prototype_X-3", "Nimitz", "Stealth_Recon", "Permafrost", "Dropship", "Draco"]}

@@ -1,0 +1,1 @@
+{"ships": ["Katana"], "dead ships": ["Retro_Centurion", "Corvid", "Valiant", "Jackal", "Python", "Centurion", "Bastion", "Worm", "Starblade", "Gideon"]}

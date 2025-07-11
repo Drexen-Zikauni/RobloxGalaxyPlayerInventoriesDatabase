@@ -1,0 +1,1 @@
+{"ships": ["Loyalist", "Pleasant_Isle", "Stealth_Recon", "Katana"], "dead ships": ["Dropship", "Aegis", "Cobra", "Draco", "Atheon", "Python", "Sixfold", "Constellation", "Arrow", "Cutlass", "Avenger", "Razor_Wing", "Zhanado", "Banshee", "Tengu", "Starblade", "Corvid", "Phantom", "Ibis", "Valiant", "Black_Flare"]}

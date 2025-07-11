@@ -1,0 +1,1 @@
+{"ships": ["Icicle", "Frostfire", "Odyssey", "Onslaught", "Kraken"], "dead ships": ["Ridgebreaker", "Paragon", "Radiance", "Gideon", "Xenon", "Avalon", "Dropship", "Genesis", "Theia", "Naglfar", "Gunslinger", "Katana", "Andromeda", "Witch", "Tempest", "Banshee", "Nightmare", "3D_Printed_Apocalypse"]}

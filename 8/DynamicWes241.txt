@@ -1,0 +1,1 @@
+{"ships": ["Loyalist"], "dead ships": ["Scythe", "Bastion", "Jackal", "Macross", "Panther", "Stealth_B-2", "Aeaphiel", "Atheon", "Zhanado", "Apocalypse", "Ishkur", "Banshee", "Prometheus"]}

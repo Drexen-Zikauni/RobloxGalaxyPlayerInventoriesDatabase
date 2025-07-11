@@ -1,0 +1,1 @@
+{"ships": ["Hasatan", "Gideon"], "dead ships": ["Draco", "Loyalist", "Argosy", "Razor_Wing", "Sentaliz", "Leecher", "Ridgebreaker", "Tempest", "Cutlass", "Sentinel", "Aeaphiel", "Hecate", "Lusso", "Arrow", "Constantine", "Aura", "Judgement", "Radiance", "Bastion", "MLRS", "Retro_Prototype_X-1", "3D_Printed_Warlock", "Behemoth"]}

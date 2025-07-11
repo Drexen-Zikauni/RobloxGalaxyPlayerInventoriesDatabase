@@ -1,0 +1,1 @@
+{"ships": ["Odyssey", "Apogee", "Astraeus", "Retro_Prototype_X-1", "Retro_Gideon", "Wraith", "Skeletal_Ghostealis", "Naglfar"], "dead ships": ["Cutlass", "Theseus", "Behemoth", "Tempest", "Andromeda", "Katana", "Genesis", "Razor_Wing", "Reaver", "Hasatan", "Cyclops", "Tengu", "Mammoth", "Dropship"]}

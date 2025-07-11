@@ -1,0 +1,1 @@
+{"ships": ["Cutlass", "Judgement", "Deity", "Subjugator", "Ampharos", "Archeon", "Corvid", "Nisos", "Tempest"], "dead ships": ["Ibis", "E_Class", "Sagittarius", "Venerator", "Banshee", "Galaxy", "Aegis", "Obliterator", "Paragon", "Phantom", "Aura", "Leviathan", "Onslaught", "Ridgebreaker", "Sentaliz", "Apocalypse", "Argosy", "Starblade", "Theia", "Gideon"]}

@@ -1,0 +1,1 @@
+{"ships": ["Loyalist", "Inquisitor", "Judgement"], "dead ships": ["Avenger", "Python", "Arrow", "Cutlass", "Corvid", "Phantom", "Bastion", "Grievion", "Invictus", "Reaver", "obamasphere"]}

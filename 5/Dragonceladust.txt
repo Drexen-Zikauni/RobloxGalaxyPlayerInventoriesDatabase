@@ -1,0 +1,1 @@
+{"ships": ["Nemesis", "Astraeus", "Retro_Ridgebreaker"], "dead ships": ["Corvid", "Naglfar", "Dropship", "Apocalypse", "Zero", "Razor_Wing"]}

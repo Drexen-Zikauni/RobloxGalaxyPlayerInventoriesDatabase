@@ -1,0 +1,1 @@
+{"ships": ["Hawklight"], "dead ships": ["Sovereign", "Apocalypse", "E_Class", "Hercules", "Gryphon", "Retro_Sixfold"]}

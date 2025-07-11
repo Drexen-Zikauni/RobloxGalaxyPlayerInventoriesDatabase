@@ -1,0 +1,1 @@
+{"ships": ["Valkerac"], "dead ships": ["Warlock", "Bastion", "Apocalypse", "Archangel", "Arrow", "Draco", "Hercules", "Galaxy", "Apostle", "Avenger", "Phantom", "Paragon", "Sixfold", "Gunslinger", "Worm", "Starblade", "Oppressor", "Raven", "Zeus", "Scythe", "Obliterator", "Scimitar", "Crucible", "Archeon", "Avalon", "Zero", "Osprey", "Theia", "Leviathan", "Ampharos", "Atheon"]}

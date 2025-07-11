@@ -1,0 +1,1 @@
+{"ships": ["Loyalist", "Retro_Bastion", "Bastion"], "dead ships": ["Ibis", "Apocalypse", "Zeus", "Armageddon", "Cyclops", "Draco", "Ridgebreaker", "Hercules", "Cutlass", "Viper", "Prospector", "Apostle", "Worm", "Avenger", "Retro_Ridgebreaker"]}

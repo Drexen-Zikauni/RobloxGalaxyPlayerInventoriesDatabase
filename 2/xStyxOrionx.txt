@@ -1,0 +1,1 @@
+{"ships": ["Nautilus", "Macross", "Theia", "Osiris", "The_Patriot", "Vanguard"], "dead ships": ["Cyclops", "Sixfold", "Archeon", "Witch", "Nightmare", "Valiant", "Anathema", "Hercules", "Sabre_Tooth", "Panther", "Ampharos", "Gideon", "Marauder", "Chimera", "Corvid", "Lusso", "Abyss", "Arrow"]}

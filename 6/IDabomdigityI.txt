@@ -1,0 +1,1 @@
+{"ships": ["Ampharos", "Katana", "Mjolnheimr", "Ascendant"], "dead ships": ["Sagittarius", "Arrow", "Loyalist", "Banshee", "Razor_Wing", "Gideon", "Warlock", "Sentaliz", "Viper", "Draco"]}

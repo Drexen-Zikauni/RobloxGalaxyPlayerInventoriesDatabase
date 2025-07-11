@@ -1,0 +1,1 @@
+{"ships": ["Armageddon", "Retro_Vanguard", "Retro_Hawklight"], "dead ships": ["Permafrost", "Constantine", "Waspinator", "Xenon", "Dropship", "obamasphere", "Andromeda", "Stealth_Recon", "Corvid", "Retro_Leviathan"]}

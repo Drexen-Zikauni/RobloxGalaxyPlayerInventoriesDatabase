@@ -1,0 +1,1 @@
+{"ships": ["Antares", "Astraeus", "Hailstorm", "Hyperion"], "dead ships": ["Sagittarius", "Draco", "Subjugator", "Hawklight", "Reaver", "Banshee", "Defiance", "Sixfold", "Nidhogg", "Obliterator", "Xenon", "Deity", "Meteor", "Stealth_One", "Jackal", "Cobra", "Sentaliz", "Theseus-E", "Sentinel", "Annihilator", "Icicle", "Andromeda", "Apocalypse", "Cutlass", "Conqueror"]}

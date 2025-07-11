@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Zero", "Cutlass", "Sovereign", "Orca", "Catalyst", "Ampharos", "Absolution", "Reaver", "Cyclops", "Bastion", "Nisos", "Tempest", "Katana", "Hasatan", "Behemoth", "Apocalypse", "Xenon", "Vigilance", "Naglfar", "Razor_Wing", "Grievion"]}

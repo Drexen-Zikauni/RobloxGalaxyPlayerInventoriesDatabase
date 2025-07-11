@@ -1,0 +1,1 @@
+{"ships": ["Templar"], "dead ships": ["Nightmare", "Warlock", "Apocalypse", "Avenger", "Crucible", "Archangel", "Black_Flare", "Inquisitor", "Spectre", "Archeon", "Valiant", "Cobra", "Starfall", "Razor_Wing", "Banshee", "Phantom", "Rhino", "Behemoth", "Nemesis"]}

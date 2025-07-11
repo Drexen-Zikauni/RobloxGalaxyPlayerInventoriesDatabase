@@ -1,0 +1,1 @@
+{"ships": ["Leviathan", "Corvid"], "dead ships": ["Starblade", "Zhanado", "Starfall", "Hasatan", "Ishkur", "Gunslinger", "MLRS", "Draco", "Jackal", "Meteor", "Archeon", "Tempest", "Abyss", "Centurion", "Cutlass", "Vansnova", "Loyalist", "Stealth_Recon", "Scimitar", "Sabre_Tooth", "Banshee", "Avalon"]}

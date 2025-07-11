@@ -1,0 +1,1 @@
+{"ships": ["Archeon"], "dead ships": ["Apocalypse", "Razor_Wing", "Banshee", "Marauder", "Chimera", "Defiance", "Aegis", "Vansnova", "Hecate", "Xenon", "Tengu", "Gideon", "Phantom", "Hercules", "Jackal", "Centurion", "Sovereign", "Zero"]}

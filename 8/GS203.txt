@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Banshee", "Absolution", "Judgement", "Sagittarius", "Vigilance", "Templar", "Loyalist", "Bastion", "Starfall", "Macross", "Chimera", "Hasatan", "Xenon", "Nidhogg", "Warlock", "Cutlass", "Scimitar", "Naglfar", "Abyss", "Grievion", "Viper", "Gunslinger", "Panther", "Sovereign", "Meteor", "Valiant", "Katana"]}

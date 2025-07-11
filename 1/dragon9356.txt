@@ -1,0 +1,1 @@
+{"ships": ["Harbinger"], "dead ships": ["Behemoth", "Starfall", "Armageddon", "Dire_Wolf", "Warlock", "Nyx", "Apocalypse", "Prospector", "Catalyst", "Theia", "Xenon", "Bastion", "Marauder", "Judgement", "Prometheus", "E_Class", "Zhanado", "Avalon", "Draco", "Witch", "Leviathan", "Rapture", "Nightmare", "Nautilus"]}

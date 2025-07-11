@@ -1,0 +1,1 @@
+{"ships": ["Nightmare", "Azrael", "Aedes", "Loyalist", "Onslaught", "Brawler", "Valkerac", "Apotheosis", "Ascendant", "Aludra", "Aberrant", "Retro_Prototype_X-2", "Zhen"], "dead ships": ["Legionnaire", "Zeus", "Zhanado", "Apocalypse", "Cyclops", "Imperator", "Razor_Wing", "Katana", "Hawklight", "Stealth_B-2"]}

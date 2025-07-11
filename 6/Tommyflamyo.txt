@@ -1,0 +1,1 @@
+{"ships": ["Judgement", "Nimitz", "Loyalist"], "dead ships": ["MLRS", "Borealis", "Arrow", "Leviathan", "Centurion", "Phantom", "Xenon", "Dropship", "Spider", "Viper", "Osprey", "Banshee", "Gideon"]}

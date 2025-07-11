@@ -1,0 +1,1 @@
+{"ships": ["Tempest"], "dead ships": ["Leviathan", "Zero", "Thubjugator", "Sagittarius", "Black_Flare", "Crucible", "Macross", "Gunslinger", "Vansnova", "Osiris", "Tengu", "Hawklight", "Cobra", "Grievion", "Archangel", "Genesis", "Viper", "Starblade", "Raven", "Archeon", "Draco", "Spider", "Nemesis", "Gideon", "Absolution", "Ampharos"]}

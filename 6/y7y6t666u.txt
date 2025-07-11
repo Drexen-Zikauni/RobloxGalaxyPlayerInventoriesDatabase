@@ -1,0 +1,1 @@
+{"ships": ["Catalyst", "Aura", "Loyalist"], "dead ships": ["Warlock", "Starblade", "Zero", "Zhanado", "Viper", "Hasatan", "Imperator", "Inquisitor", "Ridgebreaker"]}

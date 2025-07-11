@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Saturn", "Mammoth", "Zero", "Tempest", "Hasatan", "Cutlass", "Starblade", "Viper", "Grievion", "Aeaphiel", "Tennhausen", "Draco", "Osprey", "Reaver", "Worm", "Spider"]}

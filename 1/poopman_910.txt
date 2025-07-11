@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse"], "dead ships": ["Mammoth", "Marauder", "Meteor", "Cyclops", "Hasatan", "Apogee", "Theia", "Abyss", "Spectre", "Dropship", "Reaver", "Vansnova", "Phantom", "Stealth_B-2", "Warden", "Borealis", "Draco", "Ibis", "MLRS", "Crystocrene"]}

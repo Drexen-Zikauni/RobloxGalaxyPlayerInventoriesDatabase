@@ -1,0 +1,1 @@
+{"ships": ["Icy"], "dead ships": ["Python", "Tengu", "Rorqual", "Commercial_Miner", "Defiance", "Spider", "Archangel", "Sixfold", "Osprey", "Abyss", "Nisos", "Starblade", "Naglfar", "Scimitar", "Gideon", "Dire_Wolf", "Orion", "Banshee", "Constantine", "Corvid", "Arrow", "Centurion", "Bastion", "Argonaut"]}

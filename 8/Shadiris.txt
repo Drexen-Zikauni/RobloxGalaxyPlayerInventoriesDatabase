@@ -1,0 +1,1 @@
+{"ships": ["Vanguard", "Cyclops", "Judgement", "Gideon", "Helios", "Zeus", "Andromeda", "Santaliz", "Astraeus", "Atheon", "Osiris", "Retribution"], "dead ships": ["Nightmare", "Dropship", "Osprey", "Hawklight", "Witch", "Reaver", "Zero", "Banshee", "Vansnova", "Ridgebreaker", "Retro_Bastion", "Sovereign"]}

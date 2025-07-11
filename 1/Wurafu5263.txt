@@ -1,0 +1,1 @@
+{"ships": ["Judgement", "Atheon", "Avalon"], "dead ships": ["Draco", "Apocalypse", "Galaxy", "Sovereign", "Ampharos", "Leviathan", "Orca", "Rorqual", "Theia", "E_Class", "Archeon", "Prepravca", "Meteor", "Corvid", "Banshee", "Valiant", "Black_Flare", "Nightmare", "Legionnaire", "Nisos"]}

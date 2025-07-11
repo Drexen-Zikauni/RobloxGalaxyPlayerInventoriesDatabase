@@ -1,0 +1,1 @@
+{"ships": ["Kapisi", "Mini_Alpha_Warlock", "Mini_Alpha_Leviathan", "Mini_Alpha_Cyclops", "Harbinger", "Bonehawk", "Judgement", "3D_Printed_Warlock", "Slipstream"], "dead ships": ["Atheon", "Aura", "Gideon", "Hevnetier", "Ghost", "Alpha_Ship"]}

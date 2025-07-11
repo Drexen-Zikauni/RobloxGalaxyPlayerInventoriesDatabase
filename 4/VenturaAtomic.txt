@@ -1,0 +1,1 @@
+{"ships": ["Behemoth", "Subjugator", "Judgement", "Nimitz", "Theia", "Vanguard"], "dead ships": ["Gunslinger", "Sabre_Tooth", "Razor_Wing", "Abyss", "Ampharos", "Hawklight", "Phantom"]}

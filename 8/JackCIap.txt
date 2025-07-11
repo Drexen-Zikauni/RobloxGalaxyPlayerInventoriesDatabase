@@ -1,0 +1,1 @@
+{"ships": ["Ridgebreaker", "Rapture", "Dire_Wolf", "Theia"], "dead ships": ["Templar", "Behemoth", "Zhen", "Judgement", "Nimitz"]}

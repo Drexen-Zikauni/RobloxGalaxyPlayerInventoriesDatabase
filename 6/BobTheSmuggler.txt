@@ -1,0 +1,1 @@
+{"ships": ["Retro_Sixfold"], "dead ships": ["Lusso", "Marauder"]}

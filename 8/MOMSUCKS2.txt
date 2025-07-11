@@ -1,0 +1,1 @@
+{"ships": ["Atheon", "Spirit", "Hailstorm", "Jack-Al'-Lantern"], "dead ships": ["Galaxy", "Helios", "Zhen", "Nightmare", "Dropship", "Nimitz", "Frankenemi"]}

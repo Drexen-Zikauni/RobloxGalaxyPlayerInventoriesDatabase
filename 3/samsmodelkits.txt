@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Viper", "Argonaut", "Lich", "Bastion", "Python", "Starblade", "Spider", "Macross", "Abyss", "Apostle", "Ishkur", "Scimitar", "Sentinel", "Banshee", "Sabre_Tooth", "Tempura", "Arrow", "Xenon", "Hornet", "Sovereign", "Armageddon", "Tennhausen", "MLRS", "Galaxy", "Apocalypse", "Katana", "Sentaliz", "Witch"]}

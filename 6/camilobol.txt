@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Defiance", "Tempest", "Avalon", "Zero", "Hecate", "Dire_Wolf", "Warden", "Cutlass", "Hasatan", "Katana", "Grievion", "Viper", "Sabre_Tooth", "Jackal", "Rapture"]}

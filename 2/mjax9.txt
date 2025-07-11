@@ -1,0 +1,1 @@
+{"ships": ["Catalyst"], "dead ships": ["Black_Flare", "Leviathan", "Osprey", "Radiance", "Avenger", "Ishkur", "Archangel", "Abyss", "Draco", "Oppressor", "Python", "Starblade", "Spider", "Raven", "Worm", "Viper", "Zhanado", "Naglfar", "Gideon"]}

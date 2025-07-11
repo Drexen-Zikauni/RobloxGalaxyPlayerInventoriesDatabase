@@ -1,0 +1,1 @@
+{"ships": ["Phantom", "Nixesion"], "dead ships": ["Nova", "Banshee", "Bastion", "Hawklight", "Crucible", "Archeon", "Avenger", "Starblade", "Apocalypse", "Hercules", "Sentaliz", "Imperator", "Nyx", "Draco", "Legionnaire", "Leviathan", "Judgement", "MLRS", "Lusso", "Cutlass", "Theia"]}

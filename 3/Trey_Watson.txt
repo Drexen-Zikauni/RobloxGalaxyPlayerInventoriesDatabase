@@ -1,0 +1,1 @@
+{"ships": ["Lazarus", "Hunter", "Warlock", "Tennhausen"], "dead ships": ["Nidhogg", "Lich", "Razor_Wing", "Zero", "Ampharos", "Prometheus", "Constellation", "Judgement", "Avalon", "Hasatan", "Mjolnheimr", "Aeaphiel", "Defiance", "Rhino", "Viper", "Sixfold", "Cyclops", "Cutlass", "Osprey", "Belvat", "Phantom", "Genesis", "Gunslinger", "Banshee", "Gideon", "Galaxy"]}

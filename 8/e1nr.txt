@@ -1,0 +1,1 @@
+{"ships": ["Ampharos", "Cyclops", "Archeon", "Loyalist", "Corvid"], "dead ships": ["Genesis", "Witch", "Marauder", "Jackal", "Spectre", "Tengu", "Hasatan", "Python", "Draco", "Tempest", "Razor_Wing", "Hercules", "Hecate", "Gunslinger", "Absolution", "Ridgebreaker", "Dropship", "Hawklight", "Macross", "Gideon", "Sentaliz"]}

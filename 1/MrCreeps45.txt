@@ -1,0 +1,1 @@
+{"ships": ["Archeon"], "dead ships": ["Commercial_Miner", "Saturn", "Scimitar", "Sixfold", "Lich", "Xenon", "Banshee", "Nidhogg", "Starblade", "Ishkur", "Spider", "Orca", "Avenger", "Python", "Oppressor", "Ibis", "Corvid", "Defiance", "Bastion", "Nisos", "Centurion", "Osprey"]}

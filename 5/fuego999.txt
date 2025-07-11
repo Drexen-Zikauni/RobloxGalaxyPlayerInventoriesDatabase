@@ -1,0 +1,1 @@
+{"ships": ["Lich"], "dead ships": ["Hawklight", "Zero", "Zhanado", "Raven", "Bastion", "Leviathan", "Razor_Wing", "Gideon", "Warlock", "Genesis", "Macross", "Apocalypse", "Corvid", "MLRS", "Worm", "Cobra", "Dire_Wolf", "Mjolnheimr", "Venerator", "Tengu"]}

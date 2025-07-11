@@ -1,0 +1,1 @@
+{"ships": ["Nova"], "dead ships": ["Tango", "Templar", "Starblade", "Inquisitor", "Argonaut", "Warlock", "Dire_Wolf", "Hawklight", "Lich", "Starfall"]}

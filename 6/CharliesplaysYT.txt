@@ -1,0 +1,1 @@
+{"ships": ["Aeaphiel", "Warlord", "SR-71", "Prototype_X-3", "Requiem", "Theseus-X", "Oblivion", "Retro_Nemesis", "Retro_Spectre", "Hailstorm", "Skeletal_Ghostealis"], "dead ships": ["Apocalypse", "Sagittarius", "Jackal", "Behemoth", "Orion", "Draco", "Banshee", "Prototype_X-2", "Osprey"]}

@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["obamasphere", "Executioner", "Hevnetier", "Apocalypse", "Leviathan", "Sagittarius", "Ampharos", "Mjolnheimr", "Witch", "Hawklight", "Delta_Ship", "Orca", "Galaxy", "Ridgebreaker", "Nemesis", "Behemoth", "Icarus", "Heartbreaker", "Nimitz", "Prometheus", "Borealis"]}

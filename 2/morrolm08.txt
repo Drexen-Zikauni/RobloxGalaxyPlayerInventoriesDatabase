@@ -1,0 +1,1 @@
+{"ships": ["Mjolnheimr", "Nightmare", "Xenon", "Archeon"], "dead ships": ["Crucible", "Prospector", "Sovereign", "Argosy", "Inquisitor", "Hecate", "Radiance", "Macross", "Tengu", "Sagittarius", "Draco", "Behemoth", "Ridgebreaker", "Razor_Wing", "MLRS", "Lusso", "Hercules", "Sentaliz", "Gunslinger", "Starfall"]}

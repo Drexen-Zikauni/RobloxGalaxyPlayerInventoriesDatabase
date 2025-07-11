@@ -1,0 +1,1 @@
+{"ships": ["Bastion"], "dead ships": ["Naglfar", "Xenon", "Arrow", "Cutlass", "Phantom", "Abyss", "Leviathan", "Spider", "Prepravca", "Katana", "Osprey", "Viper", "Sixfold", "Mjolnheimr", "Gideon", "Witch", "Starfall", "Spectre", "Avalon", "Python", "Orion", "Inquisitor"]}

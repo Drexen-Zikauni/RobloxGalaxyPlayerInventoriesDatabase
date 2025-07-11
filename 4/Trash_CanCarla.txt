@@ -1,0 +1,1 @@
+{"ships": ["Obliterator", "Leviathan", "Loyalist", "A_-_Bruiser"], "dead ships": ["Dire_Wolf", "Hasatan", "Liberator", "Theia", "Gideon", "Warlock", "Witch", "Absolution"]}

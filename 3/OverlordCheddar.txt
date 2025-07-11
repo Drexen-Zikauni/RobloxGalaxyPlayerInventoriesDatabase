@@ -1,0 +1,1 @@
+{"ships": ["Leviathan"], "dead ships": ["Abyss", "Witch", "Sentaliz", "Hecate", "Crucible", "Raven", "Aegis", "Hawklight", "Hasatan", "Archeon", "Apocalypse", "Reaver", "Zero", "Executioner", "Andromeda", "Lusso", "Ridgebreaker", "Python", "Sagittarius", "Sovereign"]}

@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse"], "dead ships": ["Tango", "Inquisitor", "Mjolnheimr", "Sagittarius", "Andromeda", "Armageddon", "Warlock", "Macross", "Cutlass", "Zeus", "Ampharos", "Jackal", "E_Class", "Ridgebreaker", "Draco"]}

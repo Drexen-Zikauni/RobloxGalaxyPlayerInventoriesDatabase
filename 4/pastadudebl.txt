@@ -1,0 +1,1 @@
+{"ships": ["Behemoth"], "dead ships": ["Starblade", "Viper", "Apostle", "Orca", "Osprey", "Python", "Spectre", "Draco", "Oppressor", "Sabre_Tooth", "Reaver", "Catalyst", "Nyx", "Sixfold", "Hawklight", "Black_Flare", "Judgement", "Sentinel", "Constantine", "Rhino", "Belvat", "Corvid", "Stormbringer", "Avenger", "Armageddon", "Leviathan"]}

@@ -1,0 +1,1 @@
+{"ships": ["Katana"], "dead ships": ["Icarus", "Rapture", "Retro_Spectre", "Prometheus", "Hawklight", "Catalyst", "MLRS", "Starblade", "Archangel"]}

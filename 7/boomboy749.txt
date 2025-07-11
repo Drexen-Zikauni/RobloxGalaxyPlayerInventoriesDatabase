@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Naglfar", "Hawklight", "Commercial_Miner", "Phantom", "Cutlass", "Starfall", "Retro_Grievion", "Centurion", "Meteor", "Crucible", "Corvid", "Archeon", "Stealth_Recon", "Orca", "Viper", "MLRS", "Chimera", "Ridgebreaker", "Marauder", "Bastion", "Xenon", "Vansnova", "Vigilance"]}

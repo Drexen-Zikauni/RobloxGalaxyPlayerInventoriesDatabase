@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse", "Cyclops", "Retro_Grievion", "Hyperion", "Cutlass", "Loyalist", "Judgement"], "dead ships": ["Osprey", "Phantom", "Marauder", "Archeon", "Sixfold", "Spectre", "Zero", "Razor_Wing", "Invictus", "Centurion", "Valiant", "Crucible", "Black_Flare", "Retro_Apocalypse", "Theia", "Katana", "Galaxy", "Tennhausen", "Gideon", "Warlock"]}

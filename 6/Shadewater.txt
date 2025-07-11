@@ -1,0 +1,1 @@
+{"ships": ["Atheon"], "dead ships": ["Draco", "Rorqual", "Mammoth", "MLRS", "Catalyst", "Prepravca", "Tempest", "Disruptor", "Warlock", "Patriotic_Rorqual", "Pleasant_Isle", "Venerator", "Onslaught"]}

@@ -1,0 +1,1 @@
+{"ships": ["Mjolnheimr", "Harbinger", "Acolyte"], "dead ships": ["Dire_Wolf", "Lich", "Abyss", "Lusso", "Tengu", "Venerator", "Hasatan", "Xenon"]}

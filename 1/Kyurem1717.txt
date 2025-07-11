@@ -1,0 +1,1 @@
+{"ships": ["Zero", "Astraeus"], "dead ships": ["Kraken", "Apocalypse", "Hyperion", "Tempest", "Tennhausen", "Cutlass", "Osprey", "Zhanado", "Oppressor", "Python", "Banshee", "Leviathan", "Corvid", "Avenger", "Draco", "Legionnaire", "Genesis", "Viper", "Nemesis", "Cyclops"]}

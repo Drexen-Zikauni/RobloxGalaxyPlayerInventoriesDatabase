@@ -1,0 +1,1 @@
+{"ships": ["Orion"], "dead ships": ["Tennhausen", "Marauder", "Grievion", "Hasatan", "Corvid", "Vigilance", "Valiant", "Draco", "Reaver", "MLRS", "Sixfold", "Tengu", "Black_Flare", "Xenon", "Oppressor", "Osprey", "Bastion", "Inquisitor", "Cutlass", "Sentinel", "Absolution", "Sabre_Tooth"]}

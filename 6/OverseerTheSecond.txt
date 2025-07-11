@@ -1,0 +1,1 @@
+{"ships": ["Odyssey", "Theia"], "dead ships": ["Raven", "Viper", "Banshee", "Jupiter", "Orca", "Revelation", "Macross", "Theseus", "Liberator", "Requiem", "Retro_Gideon", "Viking", "Dropship", "Corvid", "Revenant", "The_Patriot"]}

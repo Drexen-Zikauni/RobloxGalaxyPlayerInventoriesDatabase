@@ -1,0 +1,1 @@
+{"ships": ["Avalon", "Atheon", "Hawklight", "Archeon", "Harbinger"], "dead ships": ["Nightmare", "Xenon", "Helios", "Obliterator", "Leviathan", "Imperator", "Draco", "Python", "Stealth_Recon", "Retro_Hawklight", "Prometheus", "Warden", "Vanguard", "Nidhogg", "Sixfold"]}

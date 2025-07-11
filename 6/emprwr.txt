@@ -1,0 +1,1 @@
+{"ships": ["Loyalist", "Retro_Grievion"], "dead ships": ["Bastion", "Tengu", "Vansnova", "Banshee", "Raven", "Python", "Lusso", "Worm", "Judgement", "Dropship", "Starblade", "Zhanado", "Sixfold", "Orca", "Jackal", "Gunslinger", "Sentaliz", "Prospector", "Ampharos", "Tennhausen", "Viper", "Ibis", "Xenon", "Gideon", "Valiant", "Lich"]}

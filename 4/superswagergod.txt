@@ -1,0 +1,1 @@
+{"ships": ["Kapisi", "E_Class", "Leviathan", "Ampharos"], "dead ships": ["Galaxy", "Judgement", "Armageddon"]}

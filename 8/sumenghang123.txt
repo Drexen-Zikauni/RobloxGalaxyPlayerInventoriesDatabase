@@ -1,0 +1,1 @@
+{"ships": ["Frostfire", "Alpha_Ship", "Mini_Alpha_Leviathan", "Naglfar", "Ampharos", "Prometheus", "Prototype_X-2", "Kraken"], "dead ships": ["Draco", "Archeon", "Orion", "Panther", "Grievion", "Xenon", "Cobra", "Chimera", "Banshee", "Lusso"]}

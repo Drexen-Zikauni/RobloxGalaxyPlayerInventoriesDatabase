@@ -1,0 +1,1 @@
+{"ships": ["Subjugator"], "dead ships": ["Hercules", "Genesis", "Marauder", "MLRS", "Osprey", "Dire_Wolf", "Gryphon", "Galaxy", "Sagittarius", "Cyclops", "Prometheus", "Behemoth", "Hawklight"]}

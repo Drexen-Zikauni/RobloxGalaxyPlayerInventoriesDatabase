@@ -1,0 +1,1 @@
+{"ships": ["Absolution"], "dead ships": ["Katana", "Draco", "Zero", "Galaxy", "Cutlass", "Leviathan", "Gideon", "Banshee", "Archeon", "Theia", "Constantine", "Corvid", "Viper", "Andromeda", "Zhen"]}

@@ -1,0 +1,1 @@
+{"ships": ["Retro_Naglfar", "Tempest", "Gideon", "Santaliz"], "dead ships": ["Hornet", "Belvat", "Bastion", "Apocalypse", "Archeon", "Xenon", "Andromeda", "Scimitar", "Constantine", "Banshee", "Loyalist", "Catalyst", "Zeus", "MLRS", "Retro_Prototype_X-1", "Zhen", "Hercules", "Sentaliz", "Zero", "Mjolnheimr", "Templar", "Hasatan", "Valiant", "Fridgebreaker", "Viper"]}

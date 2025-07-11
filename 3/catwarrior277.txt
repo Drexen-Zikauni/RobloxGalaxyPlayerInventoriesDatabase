@@ -1,0 +1,1 @@
+{"ships": ["Vanguard"], "dead ships": ["Mammoth", "Mjolnheimr", "Bastion", "Black_Flare", "Invictus", "Starfall", "Corvid", "Chimera", "Argosy", "Starblade", "Xenon", "Argonaut", "Phantom", "Scythe", "Sovereign", "Katana", "Loyalist", "Galaxy", "Sagittarius", "Osprey", "Leviathan", "Centurion", "Hevnetier"]}

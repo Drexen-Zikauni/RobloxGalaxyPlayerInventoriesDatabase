@@ -1,0 +1,1 @@
+{"ships": ["Sovereign", "Theseus-E", "Valiant"], "dead ships": ["Osprey", "Dropship", "Apocalypse", "Warlock", "Absolution", "Prometheus", "Zhanado", "Viper", "Gideon", "Retro_Grievion", "Macross"]}

@@ -1,0 +1,1 @@
+{"ships": ["Retro_Leviathan", "Corvid", "Hyperion", "Obliterator"], "dead ships": ["Beta_Warlock", "Zhen", "3D_Printed_Apocalypse", "Retro_Hercules", "Lich", "Razor_Wing", "Archeon", "Oppressor", "Atheon"]}

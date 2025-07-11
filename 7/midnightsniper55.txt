@@ -1,0 +1,1 @@
+{"ships": ["Witch", "Vanguard", "Tennhausen", "Aegis", "Loyalist"], "dead ships": ["Corvid", "Beta_Warlock", "Nidhogg", "Apocalypse", "Xenon", "Tengu", "Judgement", "Radiance", "Retro_Prototype_X-2"]}

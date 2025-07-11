@@ -1,0 +1,1 @@
+{"ships": ["Black_Flare"], "dead ships": ["Argonaut", "Marauder", "Nemesis", "Sixfold", "Stealth_Recon", "Armageddon", "Loyalist", "Vansnova", "Hawklight", "Apocalypse", "Avalon", "Sentaliz", "Mjolnheimr", "Apostle"]}

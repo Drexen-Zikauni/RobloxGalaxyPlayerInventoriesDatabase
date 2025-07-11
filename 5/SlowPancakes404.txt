@@ -1,0 +1,1 @@
+{"ships": ["Rapture", "Apocalypse", "MLRS"], "dead ships": ["Razor_Wing", "Judgement", "Zhanado", "Borealis", "Nyx", "Ampharos", "Aura", "Tempest", "Archeon", "Jackal", "Discordite_Cluster", "Spider", "Andromeda", "Corvid", "Lich", "Tempura", "Paragon"]}

@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Sovereign", "Apostle", "Macross", "Abyss", "Orca", "Behemoth", "Scythe", "Viper", "Draco", "Judgement", "Sagittarius", "Banshee", "Rorqual", "E_Class"]}

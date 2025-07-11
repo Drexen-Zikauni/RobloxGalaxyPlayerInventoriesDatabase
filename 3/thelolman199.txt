@@ -1,0 +1,1 @@
+{"ships": ["Apogee", "Sentaliz", "A_-_Bruiser", "Atheon", "A_-_Brawler", "Corvid", "Santaliz", "Zeus", "Retro_Hawklight"], "dead ships": ["Hawklight", "Ridgebreaker", "Osiris", "Sovereign", "Tengu", "Leviathan", "Viper", "Apocalypse", "Xenon", "Starblade", "Annihilator", "Razor_Wing", "Cyclops"]}

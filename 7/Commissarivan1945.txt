@@ -1,0 +1,1 @@
+{"ships": ["Prototype_X-1"], "dead ships": ["Banshee", "Starfall", "Apocalypse", "Viper", "Abyss", "Corvid", "Archeon", "Obliterator", "Centurion", "Andromeda", "Ampharos", "Crucible", "Starblade", "Paragon"]}

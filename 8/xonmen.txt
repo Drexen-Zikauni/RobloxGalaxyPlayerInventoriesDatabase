@@ -1,0 +1,1 @@
+{"ships": ["Sixfold"], "dead ships": ["Warlord", "Bastion", "Sagittarius", "Loyalist", "Naglfar", "Constellation", "Centurion", "Starfall", "Phantom", "Mammoth", "Behemoth", "Oppressor", "Nisos", "Radiance", "Gunslinger", "MLRS", "Osprey", "Katana", "Hawklight", "Macross", "Ishkur", "Constantine", "Valiant", "Sentinel", "Absolution"]}

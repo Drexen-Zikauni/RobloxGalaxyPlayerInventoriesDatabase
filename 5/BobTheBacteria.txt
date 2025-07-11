@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse", "Bastion", "Loyalist", "Cutlass", "Hevnetier", "Razor_Wing", "Xenon"], "dead ships": ["Draco", "Viper", "Belvat", "Jackal", "Banshee", "Ishkur", "Worm", "Lusso", "Radiance", "Vansnova", "Starblade", "Python", "Grievion", "Vigilance", "Centurion", "Scimitar", "Deity"]}

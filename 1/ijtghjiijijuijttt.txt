@@ -1,0 +1,1 @@
+{"ships": ["Sovereign", "Kapisi", "Andromeda", "Hyperion", "3D_Printed_Apocalypse", "Katana"], "dead ships": ["Osprey", "Ampharos", "Marauder", "Armageddon", "Lusso", "Python", "Stealth_One", "Orca", "Centurion", "Banshee", "Naglfar", "Jackal"]}

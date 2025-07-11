@@ -1,0 +1,1 @@
+{"ships": ["Hawklight", "Jackal", "Ampharos", "Tempest", "Cyclops", "Leviathan", "Corvid"], "dead ships": ["Macross", "Centurion", "Sagittarius", "Banshee", "Avalon", "Hasatan", "Ridgebreaker", "Xenon", "Viper", "Chimera", "Tengu", "Stealth_One", "Theia", "Hercules", "Kraken", "Onslaught", "Gideon", "Hyperion", "Naglfar", "Sixfold", "Ibis", "Venerator"]}

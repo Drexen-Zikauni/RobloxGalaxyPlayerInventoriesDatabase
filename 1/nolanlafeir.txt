@@ -1,0 +1,1 @@
+{"ships": ["Elanis", "Striker", "Cyclops"], "dead ships": ["Armageddon", "Genesis", "Zeus", "Jackal", "Apocalypse", "Loyalist", "Catalyst", "Hevnetier", "Warlock", "Icarus", "Leviathan", "Galaxy", "Retro_Bastion", "Cutlass", "Hecate", "Absolution", "Naglfar", "Sovereign", "Judgement", "Ridgebreaker", "Revelation", "Sagittarius"]}

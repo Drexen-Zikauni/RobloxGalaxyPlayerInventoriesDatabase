@@ -1,0 +1,1 @@
+{"ships": ["Executioner", "Katana", "Ampharos", "Leviathan"], "dead ships": ["Arrow", "Rorqual", "Osprey", "Viper", "Abyss", "Nisos", "Naglfar", "Phantom", "Sabre_Tooth", "Oblivion"]}

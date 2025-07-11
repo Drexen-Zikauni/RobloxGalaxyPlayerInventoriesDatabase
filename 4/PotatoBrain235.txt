@@ -1,0 +1,1 @@
+{"ships": ["Retro_Andromeda", "Nautilus"], "dead ships": ["Retro_Sixfold", "Retro_Hawklight", "Apocalypse", "Ridgebreaker", "Ampharos", "Retro_Aegis", "Retro_Cyclops", "Retro_Gideon", "Razor_Wing", "Corvid"]}

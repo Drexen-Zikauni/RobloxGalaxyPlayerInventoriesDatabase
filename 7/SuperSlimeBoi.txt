@@ -1,0 +1,1 @@
+{"ships": ["Avalon", "Razor_Wing", "Judgement", "Black_Scarab", "E_Class"], "dead ships": ["Naga", "Sentaliz", "Blackgate", "Jackal", "Incarnate", "Deity", "Scimitar"]}

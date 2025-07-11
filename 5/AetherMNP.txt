@@ -1,0 +1,1 @@
+{"ships": ["Rapture"], "dead ships": ["Genesis", "Zeus", "Apocalypse", "Sovereign", "E_Class", "Raven", "Zhanado", "Osprey", "Retro_Grievion", "Python", "Onslaught", "Theia", "Leviathan"]}

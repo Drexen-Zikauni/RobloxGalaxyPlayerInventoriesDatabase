@@ -1,0 +1,1 @@
+{"ships": ["Gideon", "Crucible", "Xenon"], "dead ships": ["Grievion", "Leviathan", "Scimitar", "Behemoth", "Catalyst", "Orca", "Archeon", "Ridgebreaker", "Tempest", "Witch", "Apocalypse", "Vigilance", "Sixfold", "Valiant", "Ibis"]}

@@ -1,0 +1,1 @@
+{"ships": ["A_-_Bruiser", "A_-_Brawler", "Annihilator", "Archeon", "Nightmare", "Apocalypse"], "dead ships": ["Leviathan", "Starblade", "Raven", "Rapture", "Xenon", "Jackal", "Obliterator", "Tango", "Onslaught", "Helios", "Banshee", "Gideon", "Viper"]}

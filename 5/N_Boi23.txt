@@ -1,0 +1,1 @@
+{"ships": ["Chimera", "Avalon", "Jupiter", "Judgement", "Gideon"], "dead ships": ["Aeaphiel", "Viper", "Corvid", "Loyalist", "Archeon", "Absolution", "Razor_Wing", "Phantom"]}

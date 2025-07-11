@@ -1,0 +1,1 @@
+{"ships": ["Gideon", "Apocalypse"], "dead ships": ["Prepravca", "Ampharos", "Leviathan", "Cobra", "Prospector", "MLRS", "Starblade", "Stealth_Recon", "Ishkur", "Sentaliz", "Python", "Zhanado", "Vansnova"]}

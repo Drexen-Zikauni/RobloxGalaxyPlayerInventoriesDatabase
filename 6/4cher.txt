@@ -1,0 +1,1 @@
+{"ships": ["Lucifer", "Nyxesion", "Astraeus", "Theia", "Erebus"], "dead ships": ["Leviathan", "Andromeda", "Hawklight", "obamasphere", "Sentaliz", "Hyperion", "Xenon", "Helios", "Subjugator", "Prometheus", "Leecher", "Corvid", "Sovereign", "Jackal", "Gunslinger", "Razor_Wing", "Cobra", "Banshee", "Absolution", "Arrow", "Legionnaire", "Retro_Leviathan"]}

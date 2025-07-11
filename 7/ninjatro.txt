@@ -1,0 +1,1 @@
+{"ships": ["Beta_Warlock", "Theseus-K", "Retro_Gideon", "Executioner", "Hyperion", "Ridgebreaker", "Theia", "Obliterator", "Behemoth", "Dire_Wolf", "Andromeda", "Oblivion"], "dead ships": ["Arrow", "Apogee", "Python", "Hawklight", "Permafrost", "Retro_Sixfold", "Aeaphiel", "Viper", "Jackal", "Naglfar", "Gideon", "Archangel"]}

@@ -1,0 +1,1 @@
+{"ships": ["Mini_Alpha_Cyclops", "Hyperion", "Retro_Sixfold", "Alpha_Ship", "Sentaliz"], "dead ships": ["Draco", "Retro_Prototype_X-2", "Retro_Naglfar", "Disruptor", "Banshee", "Retro_Grievion", "Double_Fractal", "Reaper", "Retro_Vanguard", "Jackal", "Judgement", "Archeon"]}

@@ -1,0 +1,1 @@
+{"ships": ["Marauder", "Apocalypse", "Spectre", "Aeaphiel", "Leviathan"], "dead ships": ["Loyalist", "Starfall", "Jackal", "Hecate", "Vansnova", "Phantom", "Scythe", "Banshee", "Hasatan", "Scimitar", "Gideon", "Apostle", "Viper", "Gunslinger", "Starblade", "Ishkur", "Constantine", "Arrow", "Theia"]}

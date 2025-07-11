@@ -1,0 +1,1 @@
+{"ships": ["Ampharos", "Loyalist"], "dead ships": ["Archeon", "Genesis", "Invictus", "Valiant", "Catalyst", "Gryphon", "Zeus", "Warlock", "Sovereign", "Sentinel", "Hasatan", "Orca", "Hawklight", "Xenon", "Radiance", "Starfall", "Tennhausen", "Cutlass", "Hercules", "Chimera", "Templar", "Behemoth", "Apocalypse"]}

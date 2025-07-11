@@ -1,0 +1,1 @@
+{"ships": ["Deity"], "dead ships": ["Genesis", "Starblade", "Hawklight", "Judgement", "Obliterator", "Imperator", "Prometheus", "Archeon", "Tengu", "Scimitar", "Apocalypse", "Katana", "MLRS", "Osiris", "Sentinel"]}

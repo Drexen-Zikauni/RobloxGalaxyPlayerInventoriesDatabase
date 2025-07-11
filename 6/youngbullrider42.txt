@@ -1,0 +1,1 @@
+{"ships": ["Helios", "Apogee", "Nautilus", "Retro_Andromeda", "Ampharos"], "dead ships": ["Crucible", "Apocalypse", "Xenon", "Corvid", "Gunslinger", "Phantom"]}

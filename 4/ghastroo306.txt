@@ -1,0 +1,1 @@
+{"ships": ["Helios", "Retro_Cyclops", "Theia", "Atheon", "Archeon", "Valiant", "Annihilator", "Deity", "Obliterator"], "dead ships": ["Templar", "Nidhogg", "Witch", "Centurion", "Apocalypse", "Banshee", "Woolly_Mammoth", "Retro_Sixfold", "Razor_Wing", "Vansnova", "Nightmare", "Stealth_Recon", "Stealth_B-2"]}

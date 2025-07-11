@@ -1,0 +1,1 @@
+{"ships": ["Aegis", "Prototype_X-2", "Sovereign"], "dead ships": ["Gunslinger", "Nidhogg", "Viper", "Xenon", "Apocalypse", "Vansnova", "Sagittarius", "Cutlass", "Aeaphiel", "Gideon", "Retro_Spectre", "Banshee", "Razor_Wing", "Jackal"]}

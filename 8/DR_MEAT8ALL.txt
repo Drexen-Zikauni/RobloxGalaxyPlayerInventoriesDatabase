@@ -1,0 +1,1 @@
+{"ships": ["Leviathan"], "dead ships": ["Black_Flare", "Ampharos", "Judgement", "Warden", "Grievion", "Crucible", "Hawklight", "Nidhogg", "Draco", "Apocalypse", "Hasatan", "Rapture"]}

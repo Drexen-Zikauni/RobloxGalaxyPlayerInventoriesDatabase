@@ -1,0 +1,1 @@
+{"ships": ["Theseus-X", "Panther"], "dead ships": ["Nova", "Catalyst", "Starblade", "Armageddon", "Jackal", "Hawklight", "Naglfar", "Tengu", "Corvid", "Dropship", "Banshee", "Vansnova", "Archeon", "Draco"]}

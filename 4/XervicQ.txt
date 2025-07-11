@@ -1,0 +1,1 @@
+{"ships": ["Zeus", "Loyalist"], "dead ships": ["Apocalypse", "Lusso", "E_Class", "Orca", "Starblade", "Phantom", "Stealth_Recon", "Judgement", "Apostle", "Obliterator", "Gideon", "Draco", "Razor_Wing", "Archeon", "Disruptor"]}

@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Apocalypse", "Macross", "Behemoth", "Lazarus", "E_Class", "Leviathan", "Crucible", "Absolution", "Aeaphiel", "Hasatan", "Grievion", "Osprey", "Osiris", "Stormbringer", "Banshee", "Oppressor", "Ampharos", "Chimera", "Zero", "Cyclops", "Zhen", "Mjolnheimr", "Xenon", "Astraeus", "Archeon", "Draco", "Rhino", "Raven"]}

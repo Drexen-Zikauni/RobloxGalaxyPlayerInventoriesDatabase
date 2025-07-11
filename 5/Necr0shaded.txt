@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Abyss", "Viper", "Corvid", "Witch", "Draco", "Zero", "Hecate", "Andromeda", "Tennhausen", "Vigilance", "Hawklight", "Razor_Wing", "Xenon", "Hasatan", "Gunslinger", "Leviathan", "Ridgebreaker", "Stealth_One", "Theia", "Aeaphiel", "Radiance", "Prometheus", "Jackal"]}

@@ -1,0 +1,1 @@
+{"ships": ["Retro_Cyclops", "Templar", "Subjugator"], "dead ships": ["Cyclops"]}

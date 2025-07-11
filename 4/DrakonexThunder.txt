@@ -1,0 +1,1 @@
+{"ships": ["Loyalist", "Tennhausen", "Ampharos", "Sentaliz"], "dead ships": ["Spectre", "Tengu", "Razor_Wing", "Lusso", "Draco", "Corvid", "Nemesis", "Oppressor"]}

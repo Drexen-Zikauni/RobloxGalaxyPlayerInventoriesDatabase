@@ -1,0 +1,1 @@
+{"ships": ["Zeus", "Retro_Naglfar"], "dead ships": ["Gideon", "Hawklight", "Razor_Wing", "Nidhogg", "Behemoth", "Jackal", "Naglfar", "Tengu", "Tempest", "Gunslinger", "Dropship", "Witch", "Corvid", "Lusso", "Banshee", "Dire_Wolf", "Sentinel", "Sabre_Tooth", "Aegis", "Helios", "Armageddon", "Chimera"]}

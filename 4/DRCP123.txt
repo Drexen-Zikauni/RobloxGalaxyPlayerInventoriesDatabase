@@ -1,0 +1,1 @@
+{"ships": ["Tempest", "Borealis", "Blitz", "Leviathan", "Imperator", "Loyalist", "Obliterator", "Dire_Wolf", "Theia"], "dead ships": ["Stealth_Recon", "Ridgebreaker", "Hyperion"]}

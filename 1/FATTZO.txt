@@ -1,0 +1,1 @@
+{"ships": ["Paragon", "The_Patriot", "Theia", "Nautilus", "3D_Printed_Warlock"], "dead ships": ["Gunslinger", "Lusso", "Draco", "Mjolnheimr", "Macross", "Meteor", "Worm", "Aeaphiel", "Banshee", "MLRS", "Hawklight", "Ridgebreaker", "E_Class", "Valkerac", "Apostle", "Arrow", "Vansnova", "Ampharos"]}

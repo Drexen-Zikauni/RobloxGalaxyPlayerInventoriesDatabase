@@ -1,0 +1,1 @@
+{"ships": ["Loyalist", "Leviathan", "Avalon", "Nightmare", "Ampharos", "Archeon", "Gideon"], "dead ships": ["Razor_Wing", "Macross", "Viper", "Starfall", "Arrow", "Ishkur", "Theia", "MLRS", "Absolution", "Banshee", "Zeus", "Vansnova", "Tempest", "Ridgebreaker", "Phantom", "Starblade", "Corvid", "The_Patriot"]}

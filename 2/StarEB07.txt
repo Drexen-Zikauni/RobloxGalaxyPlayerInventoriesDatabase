@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse"], "dead ships": ["Xenon", "Dire_Wolf", "Katana", "Gunslinger", "Orion", "Worm", "Ridgebreaker", "Ishkur", "Judgement", "Corvid", "Draco", "Sabre_Tooth", "Razor_Wing", "Archeon"]}

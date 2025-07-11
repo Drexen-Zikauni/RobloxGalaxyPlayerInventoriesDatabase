@@ -1,0 +1,1 @@
+{"ships": ["Templar", "Gideon"], "dead ships": ["Hercules", "Archangel", "Tempura", "Gunslinger", "Absolution", "Argonaut", "Bastion", "Prospector", "Zhanado", "Centurion", "Corvid", "Nisos", "Draco", "Constellation", "Phantom", "Mjolnheimr", "Marauder", "Grievion"]}

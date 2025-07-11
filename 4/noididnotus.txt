@@ -1,0 +1,1 @@
+{"ships": ["Armageddon", "Retro_Nyx", "Nyxesion"], "dead ships": ["Crucible", "Bastion", "Catalyst", "Archeon", "Cutlass"]}

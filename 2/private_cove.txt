@@ -1,0 +1,1 @@
+{"ships": ["Valiant"], "dead ships": ["Chimera", "Centurion", "Lusso", "Hasatan", "Starblade", "Judgement", "Tennhausen", "Spider", "Crucible", "Archangel"]}

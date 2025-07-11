@@ -1,0 +1,1 @@
+{"ships": ["Theseus-X", "Oblivion", "Nightmare", "Hailstorm", "Stealth_B-2", "Prototype_X-1"], "dead ships": ["Jackal", "Tengu", "Banshee", "Gunslinger", "Kapisi", "Anathema"]}

@@ -1,0 +1,1 @@
+{"ships": ["Hasatan"], "dead ships": ["Gunslinger", "Centurion", "Abyss", "Ishkur", "Sabre_Tooth", "Banshee", "Bastion", "MLRS", "Spectre", "Hercules", "Katana"]}

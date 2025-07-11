@@ -1,0 +1,1 @@
+{"ships": ["Sixfold"], "dead ships": ["Leviathan", "Lich", "Draco", "Sovereign", "Valkerac", "Permafrost", "Sabre_Tooth", "Gideon", "Warden", "Black_Flare"]}

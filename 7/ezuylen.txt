@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Vigilance", "Prepravca", "Inquisitor", "Judgement", "Apocalypse", "Marauder", "Gideon", "Catalyst", "Warlock", "Templar", "Starfall"]}

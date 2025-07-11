@@ -1,0 +1,1 @@
+{"ships": ["Andromeda", "Razor_Wing", "Retro_Ampharos", "Retro_Hawklight", "Nautilus", "Hallowlight", "Valiant", "Leviathan", "Warden"], "dead ships": ["Draco", "Arrow", "Osprey", "Centurion", "Archeon", "Prototype_X-3", "Sagittarius", "Gideon", "Viper", "Corvid", "Templar", "Retro_Prototype_X-1"]}

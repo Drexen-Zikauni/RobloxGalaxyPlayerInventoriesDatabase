@@ -1,0 +1,1 @@
+{"ships": ["Harbinger", "Icicle", "The_Patriot", "Katana"], "dead ships": ["Grievion", "Genesis", "Constantine", "Permafrost", "Mjolnheimr", "Draco", "Avalon", "Leviathan", "Archeon", "Sagittarius", "Macross", "Apostle", "Prometheus", "Lich", "Theia", "Ampharos", "Borealis", "Banshee", "Obliterator"]}

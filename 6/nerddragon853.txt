@@ -1,0 +1,1 @@
+{"ships": ["Nixesion", "Atheon"], "dead ships": ["Gideon", "Phantom", "Ridgebreaker", "Nemesis", "Helios", "Crucible", "Leviathan", "Nightmare", "E_Class", "Banshee", "Stealth_Recon", "Andromeda", "Paragon"]}

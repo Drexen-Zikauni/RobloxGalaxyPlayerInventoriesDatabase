@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Bastion", "Nova", "Marauder", "Sabre_Tooth", "Xenon", "Draco", "Starblade", "Zhanado", "Raven", "Python", "Gideon", "Archeon", "Hawklight", "Loyalist", "Avenger", "Viper", "Corvid", "Zero", "Centurion", "Chimera"]}

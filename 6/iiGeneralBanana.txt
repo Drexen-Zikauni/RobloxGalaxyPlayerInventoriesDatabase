@@ -1,0 +1,1 @@
+{"ships": ["Osprey", "Nightmare"], "dead ships": ["Sabre_Tooth", "Draco", "Tennhausen", "Witch", "Absolution", "Bastion", "Sovereign", "Naglfar", "Gunslinger", "Sentinel", "Orion", "Banshee", "Genesis", "Leviathan", "Catalyst", "Inquisitor"]}

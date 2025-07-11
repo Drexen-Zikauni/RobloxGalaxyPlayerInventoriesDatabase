@@ -1,0 +1,1 @@
+{"ships": ["Apocalypse", "Aura"], "dead ships": ["Rorqual", "Marauder", "Phantom", "Lich", "Abyss", "Scythe", "Gunslinger", "Scimitar", "Gideon", "Sovereign", "Nova", "Draco", "Judgement", "MLRS"]}

@@ -1,0 +1,1 @@
+{"ships": ["Nisos", "Zhen"], "dead ships": ["Banshee", "Ridgebreaker", "Razor_Wing", "Aura", "Dire_Wolf", "Bastion", "Belvat", "Macross", "obamasphere", "Lazarus", "Ishkur", "Jackal", "Obliterator", "Sixfold", "Apostle", "Black_Flare"]}

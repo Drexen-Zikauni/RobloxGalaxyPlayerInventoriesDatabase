@@ -1,0 +1,1 @@
+{"ships": ["Beta_Warlock", "Retro_Slipstream"], "dead ships": ["Tempura", "Starblade", "Double_Fractal", "Scythe", "Gideon", "Viper"]}

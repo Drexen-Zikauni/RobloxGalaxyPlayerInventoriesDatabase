@@ -1,0 +1,1 @@
+{"ships": ["Tengu", "Prototype_X-2", "Sakala", "Retro_Gideon", "3D_Printed_Apocalypse"], "dead ships": ["Constantine", "Loyalist", "Ampharos", "Cyber_Leviathan", "Oppressor", "Draco", "Oblivion", "Dropship", "Gunslinger", "Corvid", "Sentaliz"]}

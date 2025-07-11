@@ -1,0 +1,1 @@
+{"ships": ["Harbinger"], "dead ships": ["Dire_Wolf", "Raven", "Hawklight", "Corvid", "Apocalypse", "Osprey", "Zeus", "Naglfar", "Starblade", "Subjugator", "Archangel", "Hasatan"]}

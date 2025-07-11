@@ -1,0 +1,1 @@
+{"ships": ["Marauder", "Behemoth"], "dead ships": ["Absolution", "Gunslinger", "Cobra", "Draco", "Blood_Wing", "Aura", "Sixfold", "Xenon"]}

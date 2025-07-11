@@ -1,0 +1,1 @@
+{"ships": ["Hawklight", "Harbinger", "Astraeus", "Theia", "Apocalypse", "Andromeda", "Loyalist", "Archeon"], "dead ships": ["Judgement", "Tempura", "Chimera", "Bastion", "Aegis", "Onslaught", "Vansnova", "Tempest", "Aeaphiel", "Dropship", "Jackal", "Absolution", "Razor_Wing", "Banshee", "Gideon", "Leviathan", "Xenon", "Corvid", "Ampharos"]}

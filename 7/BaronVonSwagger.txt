@@ -1,0 +1,1 @@
+{"ships": ["Loyalist", "Avalon", "Templar"], "dead ships": ["Hawklight", "Grievion", "Archeon", "Phantom", "Chimera", "Kraken", "Prometheus", "E_Class"]}

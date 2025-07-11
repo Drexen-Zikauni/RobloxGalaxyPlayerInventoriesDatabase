@@ -1,0 +1,1 @@
+{"ships": ["Retribution", "Leviathan", "Widowmaker"], "dead ships": ["Macross", "Maple_Orca", "Sagittarius", "Retro_Bastion", "Tengu", "Genesis", "Templar"]}

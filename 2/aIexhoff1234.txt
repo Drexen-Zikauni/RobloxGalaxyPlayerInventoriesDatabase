@@ -1,0 +1,1 @@
+{"ships": ["Nightmare", "Theia", "Helios"], "dead ships": ["Dropship", "Abyss", "Aegis", "Witch", "Nidhogg", "Sabre_Tooth", "Nimitz"]}

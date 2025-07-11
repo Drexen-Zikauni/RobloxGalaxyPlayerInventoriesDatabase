@@ -1,0 +1,1 @@
+{"ships": ["Apogee", "Loyalist", "Aegis", "Archeon", "Theia", "Warlord", "Chimera"], "dead ships": ["Viper", "Phantom", "Banshee", "Retro_Grievion", "Dragon", "Marauder", "Jackal", "Judgement", "Apocalypse", "Corvid"]}

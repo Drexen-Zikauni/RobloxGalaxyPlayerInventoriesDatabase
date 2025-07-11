@@ -1,0 +1,1 @@
+{"ships": ["Witch", "Aeaphiel", "Loyalist", "Paragon", "Sentaliz", "Brawler", "Obliterator", "Requiem"], "dead ships": ["Hawklight", "Zero", "Onslaught", "Hecate", "Archeon", "Lusso", "Starblade", "Abyss", "Worm", "Banshee", "Draco", "Viper"]}

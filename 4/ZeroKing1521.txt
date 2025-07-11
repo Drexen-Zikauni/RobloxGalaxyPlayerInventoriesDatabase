@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Rorqual", "Hornet", "Vigilance", "Leviathan", "Behemoth", "Banshee", "Cutlass", "Cyclops", "Razor_Wing", "Belvat", "Bastion", "Zeus", "Marauder", "Ridgebreaker", "Avalon", "Nemesis"]}

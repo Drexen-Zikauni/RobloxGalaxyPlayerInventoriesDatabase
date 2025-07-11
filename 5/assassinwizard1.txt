@@ -1,0 +1,1 @@
+{"ships": ["Reaver", "Aura"], "dead ships": ["Absolution", "Orion", "Nidhogg", "Black_Flare", "Abyss", "Draco", "Dramiel", "Naglfar", "Phantom", "Tempura", "Raven", "Starblade", "Spider", "Python", "Scimitar", "Ibis", "Nightmare", "Dire_Wolf", "Meteor", "Starfall", "Stealth_B-2", "Tennhausen", "Ishkur", "Genesis", "Crucible", "Hercules", "Hawklight", "Dropship", "Gideon"]}

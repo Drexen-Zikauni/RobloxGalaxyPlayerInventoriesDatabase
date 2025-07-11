@@ -1,0 +1,1 @@
+{"ships": ["Widowmaker"], "dead ships": ["Hasatan", "Behemoth", "Tempura", "Arrow", "Retro_Naglfar", "Borealis", "Onslaught", "Tempest", "Ampharos", "Loyalist", "Retro_Avalon", "Zeus", "Osprey", "Python", "Leviathan", "Chimera"]}

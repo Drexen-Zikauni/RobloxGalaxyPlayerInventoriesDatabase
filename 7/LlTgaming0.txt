@@ -1,0 +1,1 @@
+{"ships": ["3D_Printed_Apocalypse", "Aegis", "Andromeda", "Retro_Sixfold"], "dead ships": ["Gideon", "Cutlass", "Gunslinger", "Cyclops", "Meteor"]}

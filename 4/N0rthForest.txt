@@ -1,0 +1,1 @@
+{"ships": ["Astraeus", "Lucifer", "Retro_Leviathan", "Nyxesion", "Prototype_X-2"], "dead ships": ["Cyclops", "obamasphere", "Christmas_Tree", "Dropship"]}

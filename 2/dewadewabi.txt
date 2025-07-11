@@ -1,0 +1,1 @@
+{"ships": ["Liberator", "Deity", "Gideon", "Judgement", "Santaliz"], "dead ships": ["Viper", "Witch", "Galaxy", "Warlock", "Apocalypse", "Ibis", "Starfall", "Double_Fractal", "Spiderblade", "Mammoth", "Hecate", "Hawklight", "Macross", "Gunslinger", "Retro_Naglfar", "Hasatan", "Aura", "Armageddon", "Atheon", "Arrow", "Behemoth"]}

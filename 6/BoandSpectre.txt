@@ -1,0 +1,1 @@
+{"ships": ["Bastion", "Archeon", "Hailstorm"], "dead ships": ["Cutlass", "Apocalypse", "Antares", "E_Class", "Ridgebreaker", "Nightmare", "Starfall", "Loyalist", "Xenon", "Icicle", "Corvid", "Gideon", "Chimera"]}

@@ -1,0 +1,1 @@
+{"ships": ["Leviathan", "Archeon", "Aura", "Theia", "Gunslinger", "Dropship"], "dead ships": ["Behemoth", "Retro_Prototype_X-1", "Cyclops", "Zhanado", "Zero", "Crucible", "Banshee", "Vansnova", "Annihilator"]}

@@ -1,0 +1,1 @@
+{"ships": ["Vansnova", "Mjolnheimr", "Archeon", "Genesis"], "dead ships": ["Razor_Wing", "Belvat", "Behemoth", "Osiris", "Sagittarius", "Corvid", "Radiance"]}

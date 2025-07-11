@@ -1,0 +1,1 @@
+{"ships": ["Borealis", "Loyalist", "Onslaught"], "dead ships": ["Marauder", "Abyss", "Nemesis", "Leviathan", "Zero", "Judgement", "Venerator", "Osiris", "Obliterator"]}

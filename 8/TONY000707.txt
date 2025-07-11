@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Radiance", "Witch", "Grievion", "Behemoth", "Cyclops", "Loyalist", "Black_Flare", "Ridgebreaker", "Sagittarius", "Archeon", "Templar", "Crucible", "Theia", "Katana", "Tengu", "Hercules", "Bastion", "Gideon"]}

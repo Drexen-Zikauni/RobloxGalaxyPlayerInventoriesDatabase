@@ -1,0 +1,1 @@
+{"ships": ["Deity", "Borealis", "Aedes", "Nimitz", "Atheon", "Zhen", "Slipstream", "Santaliz", "SR-71", "Theseus-E"], "dead ships": ["Arrow", "Sentaliz", "Belvat", "Oblivion"]}

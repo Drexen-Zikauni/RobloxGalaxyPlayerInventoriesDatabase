@@ -1,0 +1,1 @@
+{"ships": ["Hailstorm", "Apogee", "Venerator"], "dead ships": ["Vigilance", "Xenon", "Lazarus", "Cutlass", "Grievion", "Marauder", "Hawklight", "Osprey", "Starblade", "Inquisitor", "Worm", "Arrow", "Mjolnheimr", "Ibis", "Retro_Prototype_X-2", "Sentinel", "Retro_Aegis", "Beta_Warlock", "Lich"]}

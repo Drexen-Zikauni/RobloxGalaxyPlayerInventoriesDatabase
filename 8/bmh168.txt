@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Galaxy", "Rorqual", "Draco", "Lazarus", "Apocalypse", "Warlock", "Macross", "Rapture", "Zeus", "Ridgebreaker", "Sagittarius", "Judgement", "Banshee", "Aura", "E_Class", "Leviathan", "Pleasant_Isle", "Cyclops", "Theia", "Aegis", "Kraken", "Borealis", "Armageddon", "Loyalist"]}

@@ -1,0 +1,1 @@
+{"ships": ["Hasatan", "Nyxesion", "Annihilator"], "dead ships": ["Argosy", "Sovereign", "Zeus", "Judgement", "Apocalypse", "Jackal", "Behemoth", "Retro_Prototype_X-2", "Macross", "Deity", "Onslaught", "Kraken", "Ghost", "Katana"]}

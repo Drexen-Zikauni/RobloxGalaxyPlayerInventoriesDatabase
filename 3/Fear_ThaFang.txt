@@ -1,0 +1,1 @@
+{"ships": ["Behemoth", "Crucible", "Theia", "Tempest", "Icarus", "Deity", "Judgement", "Astraeus"], "dead ships": ["Naglfar", "Tengu", "Hawklight", "Starblade", "Arrow", "Banshee", "Razor_Wing", "Apocalypse", "Gunslinger"]}

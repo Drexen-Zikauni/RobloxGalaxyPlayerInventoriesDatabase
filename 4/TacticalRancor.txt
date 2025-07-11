@@ -1,0 +1,1 @@
+{"ships": ["Archeon", "Harbinger"], "dead ships": ["Bastion", "Marauder", "Saturn", "Loyalist", "Hawklight", "Draco", "Raven", "Starblade", "Mammoth", "Stealth_Recon", "Corvid", "Prospector", "Oppressor", "Belvat", "Starfall", "Apocalypse", "Avenger", "Sixfold", "Crucible", "Sagittarius", "Ridgebreaker", "Macross", "Worm", "Zero", "Icarus", "Rapture", "Galaxy", "Prometheus"]}

@@ -1,0 +1,1 @@
+{"ships": ["Loyalist"], "dead ships": ["Nova", "Radiance", "Lich", "Spectre", "Aegis", "Tengu", "Belvat", "Gunslinger", "Starblade", "Centurion", "Gideon", "Starfall", "Jackal", "Archangel", "Zero"]}

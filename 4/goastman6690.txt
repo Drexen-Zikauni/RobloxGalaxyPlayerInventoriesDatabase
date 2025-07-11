@@ -1,0 +1,1 @@
+{"ships": ["Obliterator", "Hawklight", "Zhen"], "dead ships": ["Discordite_Cluster", "Black_Flare", "Absolution", "Crystocrene", "Viper"]}

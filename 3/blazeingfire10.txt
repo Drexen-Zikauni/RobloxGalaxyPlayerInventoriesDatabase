@@ -1,0 +1,1 @@
+{"ships": ["Dire_Wolf", "Apocalypse", "Catalyst", "Elanis"], "dead ships": ["Xenon", "Warlock", "Galaxy", "Sovereign", "Retro_Spectre", "Sixfold", "Witch", "Lazarus", "Atheon", "Vanguard", "Loyalist", "Hevnetier"]}

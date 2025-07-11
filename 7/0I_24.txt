@@ -1,0 +1,1 @@
+{"ships": ["Hyperion", "Hailstorm", "Paragon", "Liberator"], "dead ships": ["Apocalypse", "Aegis", "Banshee", "Retro_Sixfold", "Permafrost", "Chimera", "Tengu", "Legionnaire", "Loyalist", "Judgement", "Zero", "Andromeda", "Ridgebreaker", "Templar", "Icarus", "Hasatan", "Katana"]}

@@ -1,0 +1,1 @@
+{"ships": ["The_Patriot"], "dead ships": ["Cutlass", "Sixfold", "Templar", "Cyclops", "Mjolnheimr", "Ridgebreaker", "Obliterator", "Hawklight", "Armageddon", "Dire_Wolf", "Ampharos", "Zhen", "Hasatan"]}

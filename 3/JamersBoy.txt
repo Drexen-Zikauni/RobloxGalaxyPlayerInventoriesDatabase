@@ -1,0 +1,1 @@
+{"ships": ["Elanis", "Leviathan"], "dead ships": ["Rorqual", "Starfall", "Nisos", "Jackal", "Prospector", "Nova", "Prepravca", "Xenon", "Aura", "Defiance", "Argonaut", "Tengu", "Cutlass", "Sabre_Tooth", "Banshee", "Rapture", "Corvid", "E_Class", "Hevnetier"]}

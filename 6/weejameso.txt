@@ -1,0 +1,1 @@
+{"ships": ["Tempest", "Subjugator", "Hyperion", "Lazarus", "Deity", "Tennhausen", "Genesis"], "dead ships": ["Phantom", "Judgement", "Viper", "Reaver", "Galaxy", "Vansnova", "Lusso", "Sixfold", "Gunslinger", "Worm", "Zhanado", "Aura", "Leecher", "Prometheus"]}

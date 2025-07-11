@@ -1,0 +1,1 @@
+{"ships": ["Legionnaire", "Vigilance", "Ampharos", "Atheon"], "dead ships": ["Scimitar", "Stealth_B-2", "Gunslinger", "Draco", "Sabre_Tooth", "Abyss", "Xenon", "Archeon", "Gideon"]}

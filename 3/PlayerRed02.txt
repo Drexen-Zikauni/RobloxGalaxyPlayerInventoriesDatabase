@@ -1,0 +1,1 @@
+{"ships": ["Reaver", "Obliterator", "Zhen", "Ampharos"], "dead ships": ["Phantom", "Scimitar", "Leviathan", "Witch", "Banshee", "Jackal", "Razor_Wing", "Loyalist", "Dropship", "Theia", "Abyss", "Osprey", "Radiance", "Gideon", "Judgement", "Dire_Wolf", "Zhanado", "Gunslinger", "Apostle"]}

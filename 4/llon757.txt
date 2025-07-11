@@ -1,0 +1,1 @@
+{"ships": ["Gideon", "Tempest", "Ridgebreaker", "Apocalypse", "Vanguard", "Oblivion", "Loyalist", "Stealth_Recon", "Nightmare", "Phantom", "Sovereign", "Avalon"], "dead ships": ["Ishkur", "Banshee", "Aeaphiel", "Rhino", "Sagittarius", "Razor_Wing"]}

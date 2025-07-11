@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Spectre", "Archangel", "Jackal", "Razor_Wing", "Grievion", "Sixfold", "Katana", "Prospector", "Hercules", "Mjolnheimr", "Zero", "Centurion", "Nemesis", "Banshee", "Vansnova", "Argonaut", "Aeaphiel", "Hasatan", "Galaxy", "Apocalypse", "Gideon", "Gunslinger", "Draco", "Reaver", "Icarus", "Andromeda", "Cutlass"]}

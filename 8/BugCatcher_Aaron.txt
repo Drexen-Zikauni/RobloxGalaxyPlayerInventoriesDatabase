@@ -1,0 +1,1 @@
+{"ships": ["Theia", "Annihilator", "A_-_Bruiser"], "dead ships": ["Stealth_B-2", "Leecher", "Vansnova", "Lich", "Cobra", "Cyclops", "Apocalypse", "Revelation", "Xenon", "Retro_Leviathan", "Leviathan", "Templar", "Corvid", "Stealth_Recon", "Judgement", "Phantom", "Prometheus", "Cutlass", "Chimera", "Dropship"]}

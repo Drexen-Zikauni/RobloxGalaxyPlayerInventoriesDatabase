@@ -1,0 +1,1 @@
+{"ships": ["Katana", "Nisos"], "dead ships": ["Cobra", "Banshee", "Razor_Wing", "Warlock", "Leviathan", "Viper", "Bastion", "Naglfar", "Belvat", "Cutlass", "Constantine", "Avalon", "Aegis", "Chimera", "Hawklight", "Hasatan", "Starblade", "Archeon", "Vigilance", "Sovereign", "Mjolnheimr", "Centurion", "Draco", "Radiance"]}

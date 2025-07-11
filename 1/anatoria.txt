@@ -1,0 +1,1 @@
+{"ships": ["Katana"], "dead ships": ["Vansnova", "Bastion", "Grievion", "Coldfront", "Starblade", "Jackal", "Radiance", "Apocalypse", "Prepravca"]}

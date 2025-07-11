@@ -1,0 +1,1 @@
+{"ships": ["Naglfar", "Antares", "Sagittarius"], "dead ships": ["Orca", "Tempura", "Mammoth", "Vigilance", "Dropship", "Hyperion", "Hawklight", "Sovereign", "Jackal", "Annihilator", "Constellation", "Argosy", "Apogee", "Razor_Wing", "Reaver", "Retro_Grievion", "Retro_Bastion", "Ampharos", "Viking", "Imperator", "Zero", "Spectre"]}

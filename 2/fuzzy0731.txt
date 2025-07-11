@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Hornet", "Zhanado", "Zero", "Warlock", "Absolution", "Sabre_Tooth", "Razor_Wing", "Rorqual", "Hawklight", "Sovereign", "Leviathan", "Xenon", "Bastion", "Gunslinger"]}

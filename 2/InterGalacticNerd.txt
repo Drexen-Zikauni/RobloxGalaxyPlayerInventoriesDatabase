@@ -1,0 +1,1 @@
+{"ships": ["Phantom", "Ridgebreaker", "Panther"], "dead ships": ["Spider", "Osprey", "Defiance", "Oppressor", "Banshee", "Warlock", "Grievion", "Corvid", "Marauder", "Draco", "Starblade", "Loyalist", "Sabre_Tooth", "Archeon", "Gideon", "Valiant", "Macross", "Hallowlight"]}

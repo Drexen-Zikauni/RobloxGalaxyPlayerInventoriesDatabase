@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["Theseus-K", "Warlock", "Ridgebreaker", "Prepravca", "Catalyst", "Orca", "Jackal", "Tempest", "Loyalist", "Armageddon", "Nisos", "Naglfar", "Retribution", "Genesis", "Katana", "Marauder", "Deity"]}

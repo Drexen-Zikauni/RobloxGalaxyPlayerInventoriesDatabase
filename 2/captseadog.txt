@@ -1,0 +1,1 @@
+{"ships": ["Sentinel", "Hyperion", "Astraeus"], "dead ships": ["Zeus", "Armageddon", "Aegis", "Legionnaire", "Zhanado", "Tempest", "MLRS", "Incarnate", "Chimera", "Scythe", "Bastion", "Aeaphiel", "Loyalist", "Tennhausen", "Leviathan"]}

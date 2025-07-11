@@ -1,0 +1,1 @@
+{"ships": ["Bastion"], "dead ships": ["Archangel", "Apocalypse", "E_Class", "Prometheus", "Draco", "Zero", "Nimitz", "Ridgebreaker", "MLRS", "Corvid", "Nidhogg", "Starblade", "Sovereign", "Leviathan", "Obliterator", "Archeon", "Mjolnheimr", "Kraken", "Crucible"]}

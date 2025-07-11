@@ -1,0 +1,1 @@
+{"ships": ["3D_Printed_Apocalypse", "Lucifer", "Theia", "Retro_Naglfar", "Deity", "Retro_Prototype_X-2", "Retro_Ampharos", "Retro_Nemesis", "SR-71"], "dead ships": ["Hecate", "Avalon", "Venerator", "Paragon", "Aeaphiel", "Aegis", "Andromeda", "Armageddon", "Nemesis", "Sentaliz", "Naglfar", "Hasatan"]}

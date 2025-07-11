@@ -1,0 +1,1 @@
+{"ships": ["Obliterator", "Onslaught", "Paragon", "Templar", "Theia"], "dead ships": ["Witch", "Viking", "Banshee", "Stealth_One", "Ridgebreaker", "Retro_Hawklight", "Prototype_X-3", "Reaver", "Mjolnheimr", "Katana", "Razor_Wing", "Blue_Torp_Wasp"]}

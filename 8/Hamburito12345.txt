@@ -1,0 +1,1 @@
+{"ships": [], "dead ships": ["MLRS", "Python", "Behemoth", "Ridgebreaker", "E_Class", "Prepravca", "Executioner", "Catalyst", "Zeus", "Chimera", "Jackal", "Scimitar", "Judgement", "Zhen", "Naglfar", "Gunslinger", "Venerator", "Macross", "Nautilus", "Icarus", "Dire_Wolf"]}

@@ -1,0 +1,1 @@
+{"ships": ["Hyperion", "Apocalypse", "Prototype_X-2", "Nightmare", "Chimera-N", "U.N.E._Interceptor", "Lucifer", "Conqueror", "Astraeus", "Ascendant", "Zhanado", "Stormbringer"], "dead ships": ["Nimitz", "E_Class", "Black_Flare", "Centurion", "Worm", "Aeaphiel", "Razor_Wing", "Ampharos", "Imperator"]}

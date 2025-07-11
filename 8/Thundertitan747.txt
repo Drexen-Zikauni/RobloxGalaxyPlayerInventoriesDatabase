@@ -1,0 +1,1 @@
+{"ships": ["Mjolnheimr", "Slipstream", "Subjugator", "Theia", "Loyalist"], "dead ships": ["Draco", "Hecate", "Arrow", "Apostle", "Hasatan", "Banshee", "Spider", "Ishkur", "Gunslinger", "Absolution", "Starblade", "Apocalypse", "Sovereign", "Zero"]}

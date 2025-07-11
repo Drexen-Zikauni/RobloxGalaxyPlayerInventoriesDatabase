@@ -1,0 +1,1 @@
+{"ships": ["Warlord"], "dead ships": ["Corvid", "Judgement", "Zero", "Hasatan", "Macross", "Orca", "Cutlass", "Ampharos", "Argosy", "Catalyst", "Katana", "Warden", "Archeon", "Avalon", "Leviathan", "Patriotic_Rorqual", "Stormbringer", "Dire_Wolf", "Rhino", "Apocalypse", "Bastion"]}

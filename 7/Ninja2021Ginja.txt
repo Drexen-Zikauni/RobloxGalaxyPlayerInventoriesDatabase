@@ -1,0 +1,1 @@
+{"ships": ["Reaver", "Centurion", "Corvid"], "dead ships": ["Scimitar", "Draco", "Starfall", "Argosy", "Hercules", "Meteor", "Lich", "Dramiel", "Oppressor", "Ishkur", "Leecher", "Osprey", "Zero", "Worm", "Chimera", "Cobra", "Starblade", "Prospector", "Warden"]}

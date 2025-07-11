@@ -1,0 +1,1 @@
+{"ships": ["Loyalist"], "dead ships": ["Razor_Wing", "Abyss", "Sentaliz", "Theia", "Hyperion", "Hailstorm", "Obliterator", "Stormbringer", "Antares", "Subjugator", "Apocalypse", "Galaxy", "Sagittarius", "Onslaught", "Venerator", "Andromeda", "Atheon", "Disruptor", "Harvester", "Argonaut"]}

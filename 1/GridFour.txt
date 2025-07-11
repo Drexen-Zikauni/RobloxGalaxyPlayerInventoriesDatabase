@@ -1,0 +1,1 @@
+{"ships": ["Cyclops", "Apocalypse"], "dead ships": ["Constellation", "Stealth_Recon", "Banshee", "Viper", "Lusso", "Black_Flare", "Razor_Wing"]}

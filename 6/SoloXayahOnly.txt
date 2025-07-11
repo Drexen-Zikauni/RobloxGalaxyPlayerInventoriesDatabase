@@ -1,0 +1,1 @@
+{"ships": ["Valkyrie", "Tempest"], "dead ships": ["Katana", "Leviathan", "Tango", "Borealis", "Astraeus", "Tempura", "Argonaut", "Prospector", "Icarus", "Stealth_Recon", "Abyss", "Scythe", "Black_Flare", "Mjolnheimr", "Phantom", "Loyalist", "Xenon", "Meteor", "Aura", "Starfall", "Archeon", "Ampharos", "Gideon", "Oppressor", "Osprey", "Arrow", "Cutlass", "Argosy"]}
